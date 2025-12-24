@@ -6,6 +6,7 @@ export interface Project {
   description: string;
   revenue: string;
   stack: string[];
+  year: number;
 }
 
 export const ProjectCard = ({ project }: { project: Project }) => {

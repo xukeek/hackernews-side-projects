@@ -1,17 +1,22 @@
-import { ProjectCard, Project } from "@/components/ProjectCard";
+import { Project } from "@/components/ProjectCard";
+import { ProjectBoard } from "@/components/ProjectBoard";
+import fs from "fs/promises";
+import path from "path";
 
-const MOCK_PROJECTS: Project[] = [
-  {
-    name: "Example Project",
-    url: "https://example.com",
-    revenue: "$500/mo",
-    description:
-      "A placeholder project to demonstrate the UI layout. This project makes consistent revenue and uses a modern tech stack.",
-    stack: ["Next.js", "Tailwind", "OpenAI"],
-  },
-];
+async function getProjects(): Promise<Project[]> {
+  const dataFile = path.join(process.cwd(), "data/projects.json");
+  try {
+    const content = await fs.readFile(dataFile, "utf-8");
+    return JSON.parse(content);
+  } catch (e) {
+    console.warn("Failed to load projects data:", e);
+    return [];
+  }
+}
 
-export default function Home() {
+export default async function Home() {
+  const projects = await getProjects();
+
   return (
     <main className="min-h-screen p-8 md:p-12 max-w-7xl mx-auto">
       <header className="mb-16 text-center space-y-6">
@@ -25,11 +30,7 @@ export default function Home() {
         </p>
       </header>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {MOCK_PROJECTS.map((project, i) => (
-          <ProjectCard key={i} project={project} />
-        ))}
-      </div>
+      <ProjectBoard projects={projects} />
     </main>
   );
 }
