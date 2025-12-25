@@ -31,6 +31,8 @@ interface Project {
   revenue: string;
   stack: string[];
   year: number;
+  hn_discussion_url?: string;
+  comment_count?: number;
 }
 
 async function fetchItem(id: number | string) {
@@ -89,7 +91,12 @@ async function processYear(year: number, threadId: string): Promise<Project[]> {
       if (content) {
         const result = JSON.parse(content);
         if (result && result.name) {
-          const project: Project = { ...result, year };
+          const project: Project = {
+            ...result,
+            year,
+            hn_discussion_url: `https://news.ycombinator.com/item?id=${kidId}`,
+            comment_count: comment.kids?.length || 0,
+          };
           projects.push(project);
           console.log(
             `[${year}] Extracted: ${result.name} - ${result.revenue}`

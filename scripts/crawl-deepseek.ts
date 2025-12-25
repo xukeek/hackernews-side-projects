@@ -33,6 +33,8 @@ interface Project {
   revenue: string;
   stack: string[];
   year: number;
+  hn_discussion_url?: string;
+  comment_count?: number;
 }
 
 async function fetchItem(id: number | string) {
@@ -82,8 +84,9 @@ async function processYear(year: number, threadId: string): Promise<Project[]> {
             role: "system",
             content: `You are a data extractor. Extract side project details from the comment. 
                 The comment is from a "Show HN" or "revenue" thread.
-                Return JSON only: { "name": string, "url": string, "description": "short one-sentence description, translated to Chinese if logical or keep English", "revenue": "revenue string e.g. $500/mo", "stack": ["tech1", "tech2"] }.
+                Return JSON only: { "name": string, "url": string, "description": "short one-sentence description in English", "revenue": "revenue string e.g. $500/mo", "stack": ["tech1", "tech2"] }.
                 If the comment does not explicitly mention a project with revenue or is just a meta-comment, return { "name": null }.
+                IMPORTANT: All returned data must be in English.
                 `,
           },
           { role: "user", content: text },
@@ -95,7 +98,12 @@ async function processYear(year: number, threadId: string): Promise<Project[]> {
       if (content) {
         const result = JSON.parse(content);
         if (result && result.name) {
-          const project: Project = { ...result, year };
+          const project: Project = {
+            ...result,
+            year,
+            hn_discussion_url: `https://news.ycombinator.com/item?id=${kidId}`,
+            comment_count: comment.kids?.length || 0,
+          };
           projects.push(project);
           extractedCount++;
           console.log(

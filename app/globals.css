@@ -1,4 +1,7 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
 
 @theme {
   --color-primary: #3b82f6;
@@ -6,27 +9,111 @@
 }
 
 :root {
-  --background: #0a0a0a;
-  --foreground: #ededed;
-  --card-bg: rgba(255, 255, 255, 0.03);
-  --card-border: rgba(255, 255, 255, 0.08);
+  /* Sci-Fi Theme Color Palette - Cyan/Blue dominant */
+  --background: oklch(0.05 0.02 240); /* Deep dark blue/black */
+  --foreground: oklch(0.9 0.05 200); /* Cyan-tinted white */
+  
+  --card: oklch(0.08 0.03 240);
+  --card-foreground: oklch(0.9 0.05 200);
+  
+  --popover: oklch(0.08 0.03 240);
+  --popover-foreground: oklch(0.9 0.05 200);
+  
+  --primary: oklch(0.7 0.15 220); /* Bright Cyan */
+  --primary-foreground: oklch(0.1 0.05 240);
+  
+  --secondary: oklch(0.15 0.05 240);
+  --secondary-foreground: oklch(0.8 0.1 220);
+  
+  --muted: oklch(0.15 0.05 240);
+  --muted-foreground: oklch(0.6 0.05 220);
+  
+  --accent: oklch(0.2 0.1 220);
+  --accent-foreground: oklch(0.9 0.05 200);
+  
+  --destructive: oklch(0.6 0.2 20);
+  --destructive-foreground: oklch(0.95 0 0);
+  
+  --border: oklch(0.2 0.05 220); /* Subtle cyan border */
+  --input: oklch(0.2 0.05 220);
+  --ring: oklch(0.7 0.15 220);
+  
+  --chart-1: oklch(0.7 0.15 220); /* Cyan */
+  --chart-2: oklch(0.6 0.2 280); /* Purple */
+  --chart-3: oklch(0.8 0.1 180); /* Teal */
+  --chart-4: oklch(0.6 0.15 30); /* Orange */
+  --chart-5: oklch(0.9 0.05 200); /* White */
+  
+  --sidebar: oklch(0.08 0.03 240);
+  --sidebar-foreground: oklch(0.9 0.05 200);
+  --sidebar-primary: oklch(0.7 0.15 220);
+  --sidebar-primary-foreground: oklch(0.1 0.05 240);
+  --sidebar-accent: oklch(0.15 0.05 240);
+  --sidebar-accent-foreground: oklch(0.9 0.05 200);
+  --sidebar-border: oklch(0.2 0.05 220);
+  --sidebar-ring: oklch(0.7 0.15 220);
+  
+  /* Sci-fi specific vars */
+  --card-bg: rgba(10, 15, 30, 0.7);
+  --card-border: rgba(60, 200, 255, 0.2);
+  --radius: 0.25rem; /* Sharp corners for tech feel */
 }
 
+/* Removed .dark selector and merged into :root to enforce dark mode */
+
 body {
-  color: var(--foreground);
-  background: var(--background);
+  background-color: #050510;
+  /* Tech Grid Background */
   background-image: 
-    radial-gradient(circle at 15% 50%, rgba(59, 130, 246, 0.15), transparent 25%), 
-    radial-gradient(circle at 85% 30%, rgba(139, 92, 246, 0.15), transparent 25%);
-  font-family: Arial, Helvetica, sans-serif;
+    linear-gradient(rgba(0, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 255, 255, 0.03) 1px, transparent 1px),
+    radial-gradient(circle at 50% 0%, rgba(0, 200, 255, 0.15), transparent 60%);
+  background-size: 40px 40px, 40px 40px, 100% 100%;
   min-height: 100vh;
+  color: var(--foreground);
+  font-feature-settings: "ss01", "ss02", "cv01", "cv02";
 }
 
 @utility glass {
   background: var(--card-bg);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   border: 1px solid var(--card-border);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+@utility tech-border {
+  border: 1px solid rgba(0, 255, 255, 0.2);
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.05);
+}
+
+@utility tech-glow {
+  text-shadow: 0 0 5px rgba(0, 255, 255, 0.5);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  
+  /* Sci-fi scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.3);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(0, 255, 255, 0.2);
+    border-radius: 2px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 255, 255, 0.4);
+  }
 }
 
 @utility text-gradient {
@@ -34,4 +121,56 @@ body {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   color: transparent; 
+}
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+/* Dark mode variables merged into :root */
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
 }
