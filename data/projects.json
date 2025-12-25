@@ -1,0 +1,4240 @@
+[
+  {
+    "name": "JustFax Online",
+    "url": "https://justfaxonline.com",
+    "description": "一个简单的一次性在线传真服务。",
+    "revenue": "€500/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Dead Chefs Society",
+    "url": "https://www.deadchefssociety.com/",
+    "description": "A monthly dinner club featuring ethnic cuisine with fixed-price menus at different restaurants.",
+    "revenue": "$126k in 2025",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "IronCalc",
+    "url": "https://www.ironcalc.com",
+    "description": "一个通过拨款而非客户收入获得资金的电子表格项目，尚未完成产品。",
+    "revenue": "grant from NLnet",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Soundreads",
+    "url": "https://soundreads.io/",
+    "description": "一个专注于公共领域经典作品的流媒体有声书服务。",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Computer Engineering for Babies and Simple Machines Made Simple",
+    "url": "https://hackylabs.com",
+    "description": "Interactive books for kids and adults, featuring simple demos on computer engineering and simple machines.",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "NotebookLM Web Importer",
+    "url": "https://notebooklm-web-importer.com",
+    "description": "A Chrome extension that allows one-click importing of web pages into NotebookLM.",
+    "revenue": "$500 a month",
+    "stack": [
+      "Chrome extension"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "DedupX",
+    "url": "https://maheepk.net/projects/dedupx/",
+    "description": "一个macOS应用程序，用于快速查找重复和视觉相似的文件，特别适合摄影师和拥有大量本地存储收藏的用户。",
+    "revenue": "$5.99/yr or $16.99 lifetime",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Clues by Sam",
+    "url": "https://cluesbysam.com",
+    "description": "一个每日逻辑谜题游戏，通过销售谜题包而非广告来盈利。",
+    "revenue": "enough to decline consulting gigs",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "DB Pro",
+    "url": "https://dbpro.app",
+    "description": "一个面向开发者的现代桌面数据库客户端，专注于快速、本地优先的工作流程。",
+    "revenue": "$1k MRR",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Video Hub App",
+    "url": "https://videohubapp.com/",
+    "description": "一款让用户在本地或网络驱动器上浏览、搜索、标记和组织视频的应用程序。",
+    "revenue": "$300/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Filestash",
+    "url": "https://github.com/mickael-kerjean/filestash",
+    "description": "一个开源的文件管理器，支持多种存储协议和插件，旨在提供比Dropbox更好的体验。",
+    "revenue": "a bit more than noodle profitable but quite under a normal salary",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "canine.sh",
+    "url": "https://canine.sh",
+    "description": "将您的Kubernetes环境转变为类似Heroku的PaaS，使部署变得简单。",
+    "revenue": "$5k+ / m from sponsorships",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "OnlineOrNot",
+    "url": "https://OnlineOrNot.com",
+    "description": "一个从网站正常运行时间检查器开始，后来扩展到支持API和cron作业，以及自动化状态页面的项目。",
+    "revenue": "$500/mo",
+    "stack": [
+      "React"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Logic Trainer",
+    "url": "https://logicgat.es",
+    "description": "一个用于逻辑门学习的PCB板，作为教学工具，具有高级功能，适合大学和学生使用。",
+    "revenue": "尚未盈利，但有两所大学计划购买",
+    "stack": [
+      "PCB",
+      "web design",
+      "marketing",
+      "BOM optimization"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Little Lantern Shop",
+    "url": "https://www.etsy.com/shop/LittleLanternShop",
+    "description": "An Etsy shop selling digital sewing patterns for decorative felt crafts.",
+    "revenue": "$1000/mo",
+    "stack": [
+      "Etsy"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Dream and Color",
+    "url": "https://dreamandcolor.com/",
+    "description": "A service that specializes in converting photos into coloring pages for parents and educators.",
+    "revenue": "Growing 10-20% per month",
+    "stack": [
+      "Stable Diffusion 1.5"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "AliveAI",
+    "url": "https://aliveai.app",
+    "description": "一个大型无审查（即成人）AI图像和视频生成器",
+    "revenue": "over 50k USD per month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Escape Team",
+    "url": "https://www.escape-team.com",
+    "description": "一款多人逃脱游戏应用，提供免费和付费任务，支持用户自定义任务编辑器。",
+    "revenue": "$700 on iOS and $300 on Android",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Hacker Newsletter",
+    "url": "https://hackernewsletter.com/",
+    "description": "A newsletter summarizing Hacker News content, running for 15 years.",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Humadroid",
+    "url": "https://humadroid.io",
+    "description": "AI辅助的SOC 2和ISO 27001合规工具，专为小型团队设计。",
+    "revenue": "$500/month",
+    "stack": [
+      "AWS",
+      "GitHub"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "fivethreeone.app",
+    "url": "https://fivethreeone.app/",
+    "description": "A weightlifting app for 5/3/1 programs.",
+    "revenue": "$1000/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Cadence: Guitar Theory",
+    "url": "https://cadenceguitar.com/",
+    "description": "一个专注于音乐理论的吉他学习应用。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "BudgetSheet",
+    "url": "https://www.budgetsheet.com",
+    "description": "一个将银行交易实时同步到Google Sheets的个人财务管理工具，用户拥有所有数据并可使用模板进行自定义分析。",
+    "revenue": "$6k MRR avg. for the year",
+    "stack": [
+      "Google Sheets",
+      "Plaid"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "StationDisplay",
+    "url": "https://stationdisplay.com/",
+    "description": "A public transportation departure board for Switzerland designed for home or business use.",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Shepherd",
+    "url": "https://shepherd.com/",
+    "description": "一个通过他人喜爱的书籍来有趣地探索图书的推荐应用",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "LeetArxiv Substack",
+    "url": "https://leetarxiv.substack.com/",
+    "description": "A Substack that teaches programmers how to convert advanced math papers into C and Python code.",
+    "revenue": null,
+    "stack": [
+      "Substack"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Repth",
+    "url": "https://www.repth.com",
+    "description": "一个AI骑行教练，最初基于GPT-3.5开发，免费为运动员提供服务，同时向人类教练授权其核心教练逻辑。",
+    "revenue": "通过向人类教练授权教练逻辑获得收入，具体金额未提及",
+    "stack": [
+      "AI",
+      "GPT-3.5"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "mergecal.org",
+    "url": "https://mergecal.org",
+    "description": "将多个iCal订阅源合并为一个订阅源的工具。",
+    "revenue": "",
+    "stack": [
+      "Django"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Cold Call Gym",
+    "url": "https://coldcallgym.com",
+    "description": "一个通过机器人练习冷电话的训练平台，类似于'暴露疗法'。",
+    "revenue": "free and paid tier, 3-5 new users per day",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Python for Finance YouTube Channel",
+    "url": "https://youtube.com/@parttimelarry",
+    "description": "A YouTube channel focused on Python for finance, generating affiliate revenue.",
+    "revenue": "affiliate revenue",
+    "stack": [
+      "Python"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Tornado Research and Rescue",
+    "url": "https://store.steampowered.com/app/2250550/Tornado_Research_and_Rescue/",
+    "description": "A game released on Steam where players engage in tornado research and rescue missions.",
+    "revenue": "above $500/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Bottle and Plume",
+    "url": "https://www.bottleandplume.com",
+    "description": "An online fountain pen shop specializing in fountain pens, fountain-pen friendly paper, bottled inks, and related accessories for enthusiasts.",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "mojo",
+    "url": "https://mojoapp.ai/",
+    "description": "一款连接健康数据并提供实时AI反馈的GLP-1追踪应用，适用于iOS和Android。",
+    "revenue": "$1150/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "TrueCast",
+    "url": "https://www.truecast.fr/",
+    "description": "Granola for tech and non-tech recruiters, providing real-time hard skills knowledge superpowers to help recruiters better assess candidates before submission.",
+    "revenue": "600€/month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Manabi Reader",
+    "url": "https://reader.manabi.io",
+    "description": "通过阅读学习日语的应用程序，本地跟踪和分析单词与汉字，提供个性化内容推荐和闪卡集成。",
+    "revenue": "$500/month",
+    "stack": [
+      "SwiftUI",
+      "iOS",
+      "macOS",
+      "iCloud",
+      "offline-first architecture"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Unlisted Jobs",
+    "url": "https://www.unlistedjobs.com/",
+    "description": "一个工具，通过直接抓取公司网站来发现未在招聘板上广告的职位，为用户提供先机。",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "komorebi",
+    "url": "https://lgug2z.com/software/komorebi",
+    "description": "A tiling window manager software.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Pixie",
+    "url": "https://trypixie.com",
+    "description": "A platform for employing and tracking children's work to reduce tax burden and fund Roth accounts for families with businesses.",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Snaption",
+    "url": "https://snaption.cc",
+    "description": "一个自动化截图工具，通过AI分析内容并自动同步到Notion，解决开发者的截图混乱问题。",
+    "revenue": "not yet at $500/mo (just launched waitlist)",
+    "stack": [
+      "Next.js"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Control Panel for Twitter",
+    "url": "https://soitis.dev/control-panel-for-twitter",
+    "description": "A browser extension that enhances Twitter usability, especially after third-party apps were discontinued, leading to increased user adoption and revenue.",
+    "revenue": "$500 per month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "ChatKeeper",
+    "url": "https://martiansoftware.com/chatkeeper/",
+    "description": "一个将ChatGPT历史导出为本地Markdown文件的命令行工具，支持与Obsidian等工具集成，实现本地知识库管理。",
+    "revenue": "modest but growing month over month, one-time purchase",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Last Year of Carbon",
+    "url": "https://lastyearofcarbon.com",
+    "description": "A board game turned free web app about carbon reduction, originally Kickstarted.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Brezza",
+    "url": "https://brezza.cc/",
+    "description": "A fitness readiness and route planning app that uses weather forecasting, AI nutrition/gear lists, and smart watch metrics for outdoor activities like skiing, hiking, and cycling.",
+    "revenue": "over 400 MRR then started dropping",
+    "stack": [
+      "AI",
+      "full stack"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "AFI Explorer",
+    "url": "https://apps.apple.com/us/app/afi-explorer/id1564964107",
+    "description": "一个iOS应用，用于在移动设备上参考美国空军出版物，改善用户体验。",
+    "revenue": "",
+    "stack": [
+      "iOS"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "CoPlay",
+    "url": "https://coplay.io/",
+    "description": "A platform for managing fleets of gaming consoles, users, and subscriptions for pediatric hospitals, like an MDM for Xbox devices.",
+    "revenue": "$6k MRR",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "pptxmailmerge",
+    "url": "https://pptxmailmerge.com",
+    "description": "一个用于PowerPoint的邮件合并工具，支持从Excel文件获取数据，提供灵活的Excel样式寻址功能。",
+    "revenue": "some sales",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "TheMapsGuy",
+    "url": "https://TheMapsGuy.com",
+    "description": "销售激光切割装饰地图",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "AI Workshops",
+    "url": "https://build.ms/ai",
+    "description": "Making AI more accessible to regular people through hands-on workshops where participants learn to build their ideas in three hours.",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "PDF Scanner App",
+    "url": "https://www.pdfscannerapp.com/",
+    "description": "A Mac App Store scanning app that has been maintained for nearly 15 years as a hobby project.",
+    "revenue": "approximately this much a month",
+    "stack": [
+      "Apple platform development"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Saviament",
+    "url": "https://www.saviament.com/",
+    "description": "一个加泰罗尼亚语的开放获取教育网站，同时销售与网站风格一致的印刷内容",
+    "revenue": "decent source of income",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Standly",
+    "url": "https://apps.apple.com/us/app/standly-standing-desk-timer/id6502892335",
+    "description": "一款适用于iOS和Mac的站立办公伴侣应用，帮助用户通过定时提醒建立站立和伸展耐力，特别适合有下背痛问题的人群。",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "meetinghouse.cc",
+    "url": "https://meetinghouse.cc",
+    "description": "A platform for Twitter users to place themselves on a map with a bio to find and be found for connections like friends, dating, or parent meetups.",
+    "revenue": "$12 per pin, 474 pins placed",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Tredict",
+    "url": "https://www.tredict.com",
+    "description": "为耐力运动员和教练提供的训练规划和数据分析平台，涵盖预测、日志、计划、设备跟踪等功能",
+    "revenue": "500-600 Euros/month",
+    "stack": [
+      "oAuth2 API",
+      "Garmin integration",
+      "Wahoo integration",
+      "Suunto integration",
+      "Coros integration",
+      "icTrainer integration",
+      "Polar integration",
+      "Dropbox integration",
+      "Oura integration",
+      "Withings integration"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "KeywordsPal",
+    "url": "https://keywordspal.com",
+    "description": "一个关键词研究工具，扫描社交媒体如Bluesky、Mastodon、Hacker News等平台的帖子。",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "BuzzPrintCo",
+    "url": "http://buzzprintco.etsy.com",
+    "description": "为大众ID.Buzz设计和3D打印配件的项目",
+    "revenue": "$750/mo",
+    "stack": [
+      "3D printing",
+      "modeling"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Brick Ranker",
+    "url": "https://brickranker.com",
+    "description": "一个追踪乐高套装和人仔价值的网站，用户可注册并编目自己的收藏以追踪价值或查看拥有物品。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "SideProjectors",
+    "url": "https://www.sideprojectors.com",
+    "description": "一个买卖副项目和企业的市场平台。",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "youhere.org",
+    "url": "https://www.youhere.org",
+    "description": "一个面向教师、教练、乐队指挥、会议组织者等的基于应用程序的考勤服务，解决出勤问题。",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Minichord",
+    "url": "https://minichord.com/",
+    "description": "A pocket music instrument designed for portability and ease of use.",
+    "revenue": "above $500/month on 2025",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "kitecourier.com",
+    "url": "https://kitecourier.com",
+    "description": "端到端认证邮件平台，让发送法律通知像发送电子邮件一样简单。",
+    "revenue": "Some months ~$10k, some ~$100",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Unrav.io",
+    "url": "https://unrav.io",
+    "description": "一个让用户将文章、论文或视频重塑为思维导图、摘要、播客或互动问答形式的工具，以帮助他们更好地思考。",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Sportsbook API",
+    "url": "https://sportsbookapi.com/",
+    "description": "一个单一的API，用于从多个美国体育博彩公司获取赔率数据。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Tech Talks Weekly",
+    "url": "https://techtalksweekly.io/",
+    "description": "A weekly newsletter delivering the latest software engineering conference talks and podcasts.",
+    "revenue": "$500 in Nov and $700 in Dec",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "blowjobit.com",
+    "url": "https://blowjobit.com",
+    "description": "一个成人网站，最初作为学习托管、SEO和货币化的副项目，现已重建以提高性能。",
+    "revenue": "$1000/mo",
+    "stack": [
+      "Nextjs",
+      "tailwind",
+      "Wordpress",
+      "custom CMS",
+      "VPS",
+      "cloudflare R2"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Universal Symbols",
+    "url": "https://universymbols.com",
+    "description": "A tool for creating and restyling feature icons to expand an app's icon set, supporting SF Symbols, Material Symbols, and open-source styles.",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "iOS App Portfolio",
+    "url": "https://daylightgoals.com",
+    "description": "A collection of iOS apps including a daylight tracker, visionOS app launcher, and a buzzer soundboard, averaging $500/month in revenue.",
+    "revenue": "$500/mo",
+    "stack": [
+      "iOS",
+      "Apple Watch",
+      "HealthKit",
+      "visionOS"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Daily Chinese Stories",
+    "url": "https://dailychinesestories.com",
+    "description": "每天根据您的HSK水平和偏好主题提供一篇中文故事。",
+    "revenue": "a few sales each month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "drawcharts",
+    "url": "https://drawcharts.xyz",
+    "description": "一个帮助你制作美观手绘风格图表的工具。",
+    "revenue": "$500/year",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "open source project with sponsor information",
+    "url": "https://github.com/",
+    "description": "An open source tool that is the most popular in a particular niche area, with a few thousand stars on GitHub.",
+    "revenue": "$600/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Smart Notes",
+    "url": "https://smart-notes.xyz",
+    "description": "An Anki extension that embeds AI, text-to-speech, and image generation to create example sentences, audio, and explanations for studying in bulk.",
+    "revenue": "$500/mo",
+    "stack": [
+      "Anki",
+      "AI",
+      "text-to-speech",
+      "image generation"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Disk Prices on eBay and Digital Film Stock",
+    "url": "https://unli.xyz/diskprices/, https://unli.xyz/digitalfilmstock/",
+    "description": "两个项目使用200多个正则表达式解析eBay商品标题和描述，帮助用户获取硬盘价格和数字胶片库存信息。",
+    "revenue": "$400 ~ $600/mo",
+    "stack": [
+      "regex"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Formester",
+    "url": "",
+    "description": "A product built as a side hustle, now generating revenue with a focus on user experience and customer service.",
+    "revenue": "$7000/month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Microlandia",
+    "url": "https://microlandia.city",
+    "description": "一款残酷诚实的城市建设游戏。",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "tools.dsebastien.net",
+    "url": "https://tools.dsebastien.net",
+    "description": "A collection of tools, courses, apps, community, and books generating revenue.",
+    "revenue": "$3K/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Compta",
+    "url": "https://compta.libremen.com",
+    "description": "An accounting app built as a SaaS for small businesses, originally created to replace a Windows Access application.",
+    "revenue": "$500/year",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Slouch Sniper",
+    "url": "https://slouchsniper.com",
+    "description": "An app that uses your webcam and local AI models to predict if you are sitting and your sitting posture to help prevent neck pain.",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "renderapp.io",
+    "url": "https://renderapp.io/",
+    "description": "一个用于数字资产管理、审查和工作流程的平台，专注于汽车配置器的图像审查。",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Multy",
+    "url": "https://multy.me",
+    "description": "一个创建和管理列表的网站，拥有约5万个列表和8千用户，通过广告和订阅产生收入。",
+    "revenue": "400€ MRR",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Percento",
+    "url": "https://www.percento.app",
+    "description": "An iOS net worth tracker app combining finance knowledge and iOS development skills.",
+    "revenue": "",
+    "stack": [
+      "iOS"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Atlas AI YouTube Dubbing",
+    "url": "https://chromewebstore.google.com/detail/atlas-ai-youtube-dubbing/ggkjmkjofkcbaobpohgciabgaocebefc",
+    "description": "一个AI Chrome扩展，可将YouTube视频配音成82种以上语言，并提供更多控制功能以提升YouTube体验。",
+    "revenue": "$800/mo",
+    "stack": [
+      "AI",
+      "Chrome Extension"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Packetriot",
+    "url": "https://packetriot.com",
+    "description": "An alternative to ngrok for tunneling and reverse proxy services.",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "theblue.social",
+    "url": "https://theblue.social",
+    "description": "提供Bluesky原生工具和跨平台发布工具。",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Super Fine Cuts",
+    "url": "https://superfinecuts.com/",
+    "description": "提供超低运行量定制“黑胶”唱片服务，目前主要依赖手动处理，正在自动化部分流程。",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Troviamo",
+    "url": "https://troviamo.app",
+    "description": "A modern tool for automatically scheduling meetings among groups, tailored to specific needs.",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Timizer",
+    "url": "https://timizer.io",
+    "description": "A timesheet and activity report management app designed to simplify administrative tasks like the Compte Rendu d'Activité for freelancers.",
+    "revenue": "$1k/month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Mereth",
+    "url": "https://mereth.dev/",
+    "description": "帮助企业自动化使用Google Workspace产品的管理工作",
+    "revenue": "$500/mo",
+    "stack": [
+      "App Script",
+      "Typescript"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "The Wheel Screener",
+    "url": "https://wheelscreener.com",
+    "description": "A screener optimized for selling options",
+    "revenue": "$2K/month (combined with other projects)",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Wallpunch",
+    "url": "https://wallpunch.net/",
+    "description": "一个面向中国、伊朗和俄罗斯用户的抗审查VPN。",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "VideoToBe.com",
+    "url": "https://videotobe.com",
+    "description": "为音频/视频提供转录和聊天服务的平台，适用于董事会会议、讲座笔记、教堂召唤等场景。",
+    "revenue": "$200 to $600 per month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "MrNoFap Block Porn Sites",
+    "url": "https://chromewebstore.google.com/detail/mrnofap-block-porn-sites/cpigeaemojebhijbmencldogableknlf",
+    "description": "A Chrome extension that blocks porn sites, originally created to help a friend with porn addiction.",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "500 Bucks a Month Idea Catalog",
+    "url": "https://dlebedev.com/500-bucks-a-month-idea/",
+    "description": "A catalog of side projects that generate around $500 per month, created for research and record-keeping purposes.",
+    "revenue": "Not specified",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "FFmpeg API",
+    "url": "https://ffmpeg-api.com",
+    "description": "A REST API for FFmpeg service, now adding MCPs and AI endpoints to simplify command usage.",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "TechnicalC",
+    "url": "https://jacobdoescode.com/technicalc",
+    "description": "A scientific calculator for iOS, iPadOS, and macOS with a one-time payment model.",
+    "revenue": "Not specified",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Receipt Genie",
+    "url": "https://receipt-genie.com",
+    "description": "一个iOS收据整理和追踪应用，便于管理和分享收据。",
+    "revenue": "$200/mo",
+    "stack": [
+      "iOS"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "damninteresting.com",
+    "url": "damninteresting.com",
+    "description": "一个长期运行的网站及其相关项目，如omiword.com，提供有趣内容",
+    "revenue": "$700/month profit",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "AdMakeAI",
+    "url": "https://admakeai.com",
+    "description": "A tool to simplify creating ads for platforms like Facebook and TikTok, addressing challenges in ad creation.",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Whenish",
+    "url": "https://apps.apple.com/us/app/whenish/id6745035749",
+    "description": "An iMessage extension app that helps schedule events and find availability directly within group chats.",
+    "revenue": "some beer money",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "CondoAlly / HOAAlly",
+    "url": "https://www.condoally.com/",
+    "description": "为小型或自管业主协会提供简单而强大的管理工具。",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Gravity Analytica",
+    "url": "www.gravityanalytica.com",
+    "description": "A front-end SaaS application for analyzing securities and events, aiming to provide a bot-free alternative to platforms like iHub and StockTwits for professional money managers.",
+    "revenue": "$500+/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "NumeroMoney",
+    "url": "https://www.numeromoney.com",
+    "description": "A tool for importing and categorizing bank statement transactions to simplify household spending decisions.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Jamp Audio",
+    "url": "https://www.jamp-audio.com",
+    "description": "为iOS制作音频插件的项目",
+    "revenue": "$300/month",
+    "stack": [
+      "iOS"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "SFX Engine",
+    "url": "https://sfxengine.com/",
+    "description": "A sound effects engine for generating audio.",
+    "revenue": "~1.2k MRR",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "n0c0de.com",
+    "url": "https://www.n0c0de.com",
+    "description": "A no-code platform for experienced operators to start their own business.",
+    "revenue": "$500/mo to $3-5K/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "CineQuote",
+    "url": "https://cinequote.net",
+    "description": "一个每日电影台词猜谜游戏，使用音频台词。",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "PodLP",
+    "url": "https://podlp.com",
+    "description": "A podcast app designed for flip phones.",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "CodeApprove",
+    "url": "https://codeapprove.com",
+    "description": "一个为怀念Critique的前谷歌员工设计的GitHub代码审查界面。",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "You Don't Need JS",
+    "url": "https://theosoti.com/you-dont-need-js/",
+    "description": "一本关于现代HTML和CSS的书籍，旨在用尽可能少的JavaScript创建网站。",
+    "revenue": "$300-500/month",
+    "stack": [
+      "HTML",
+      "CSS"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "ShoppingScraper",
+    "url": "https://shoppingscraper.com/features",
+    "description": "将EAN/GTIN转换为定价信息、产品规格、内容或图像的API服务。",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Find Boxes",
+    "url": "https://www.findboxes.co",
+    "description": "A project and inventory management tool for audio visual companies.",
+    "revenue": "$300 a month",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "OnlyRecipeApp",
+    "url": "https://onlyrecipeapp.com",
+    "description": "一个专注于食谱管理的应用程序，用户可以从其他应用迁移并订阅服务。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "AccelPrompt",
+    "url": "https://accelprompt.xyz",
+    "description": "A tool to generate instructions for different AIs.",
+    "revenue": "Not monetized yet",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "bewCloud",
+    "url": "https://bewcloud.com",
+    "description": "一个更简单的Nextcloud替代方案，适用于不需要大量自定义选项的用户。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Half Lemons",
+    "url": "https://halflemons.com",
+    "description": "一款iOS应用，根据您的食材寻找食谱。",
+    "revenue": "freemium model with lifetime purchases and monthly subscription",
+    "stack": [
+      "iOS"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "abot.app",
+    "url": "https://abot.app/",
+    "description": "A bot application.",
+    "revenue": "$2k/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "PickYour.Photos",
+    "url": "https://pickyour.photos/",
+    "description": "A SaaS designed for photographers targeting the Latin American market.",
+    "revenue": "$790/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Save For Later",
+    "url": "https://saveforlater.pro",
+    "description": "一个AI驱动的书签管理器，可重新展示您保存的内容",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "StockEvents",
+    "url": "https://stockevents.app",
+    "description": "A stock events tracking application.",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "StockEvents",
+    "url": "https://stockevents.app",
+    "description": "A stock events tracking application.",
+    "revenue": "",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Olly.bot",
+    "url": "https://olly.bot",
+    "description": "AI assistant in your iMessage group chats",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Norma",
+    "url": "norma.grouplabs.ca",
+    "description": "帮助您整理数据集以尽可能多地捕捉模型训练信号的工具。",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "PrivacyPolicyURL.com",
+    "url": "https://privacypolicyurl.com",
+    "description": "快速生成实时隐私政策URL，用于表单填写，一分钟内完成。",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Smitten",
+    "url": "https://smittenstories.com",
+    "description": "一个有趣的情色故事生成器，旨在为情侣增添情趣。",
+    "revenue": "paywall",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "happybara.io",
+    "url": "https://happybara.io",
+    "description": "A portfolio of Slack apps including Nightowl and Channitor, focusing on multi-DM broadcasting and channel management.",
+    "revenue": "Not explicitly mentioned, but revenue is implied from customers paying after adding a paywall.",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "minigenitals.com",
+    "url": "https://www.minigenitals.com",
+    "description": "一个允许私人派对购买画布空间以解决争端的网站。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Photographic Prints",
+    "url": "https://leejo.github.io/2025/11/01/print_costs/",
+    "description": "A side project selling photographic prints, detailing income and costs for the year.",
+    "revenue": "Not explicitly mentioned, but implied from income breakdown.",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "Trendyzip.com",
+    "url": "https://trendyzip.com",
+    "description": "提供房屋销售趋势，帮助买家做出明智决策。",
+    "revenue": "$5 per basic report",
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "zine.baby",
+    "url": "https://zine.baby",
+    "description": "用于制作小型艺术书籍的软件，专注于实体书创作。",
+    "revenue": null,
+    "stack": [],
+    "year": 2025
+  },
+  {
+    "name": "replayer",
+    "url": "https://github.com/kx0101/replayer",
+    "description": "一个用Go编写的HTTP请求重放和比较工具，用于重放真实流量、比较多个环境、检测损坏的端点、生成HTML/JSON报告和分析延迟。",
+    "revenue": "$0/mo",
+    "stack": [
+      "Go"
+    ],
+    "year": 2025
+  },
+  {
+    "name": "Lightnote",
+    "url": "https://www.lightnote.co/",
+    "description": "An interactive Music Theory course with intuitive learning tools like pianos and guitars.",
+    "revenue": "Enough to pay rent each month",
+    "stack": [
+      "Tone.js",
+      "Stripe",
+      "PayPal"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "FreeSolitaire.win",
+    "url": "https://FreeSolitaire.win",
+    "description": "一个轻量级的Klondike Solitaire渐进式网络应用（PWA），旨在保持简约和高效。",
+    "revenue": "$500/mo",
+    "stack": [
+      "PWA",
+      "No framework"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "pastmaps.com",
+    "url": "https://pastmaps.com",
+    "description": "一个类似谷歌地图但专注于旧地图的平台，提供美国全境的高分辨率地理参考地图、卫星、LiDAR和3D图层，用于时空探索。",
+    "revenue": "$5000/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Lulim Jewelry",
+    "url": "lulimjewelry.com",
+    "description": "A custom jewelry side business using 3D printing and a custom pipeline for personalized engravings like fingerprints and signatures on rings.",
+    "revenue": "decent profits (enough to pay family for support and shipping)",
+    "stack": [
+      "fabric.js",
+      "flask",
+      "blender",
+      "LLM"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Aptakube",
+    "url": "https://aptakube.com",
+    "description": "一个自定义的Kubernetes用户界面，旨在改进现有UI选项。",
+    "revenue": "$99 per license, used by hundreds of companies",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "RankPic",
+    "url": "https://www.rankpic.info",
+    "description": "一个帮助用户众包选择最佳照片的应用程序，适用于约会应用、专业照片等场景。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "ExploreHere",
+    "url": "https://explorehere.app",
+    "description": "一个通过推送通知帮助你在旅行中学习周围历史标记的免费增值应用。",
+    "revenue": "just under $1k/month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "BlueRetro",
+    "url": "https://blueretro.com",
+    "description": "一款适用于几乎所有前USB游戏主机的通用蓝牙控制器适配器。",
+    "revenue": "$1000/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "NanaGram.co",
+    "url": "https://nanagram.co",
+    "description": "一个让用户通过短信发送照片到特定号码，每月打印并邮寄给亲人的服务，特别适合作为给祖父母的节日礼物。",
+    "revenue": "enough to work full-time",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Festival Payment Software",
+    "url": "",
+    "description": "为在线和现场节日活动提供支付解决方案的软件，用于入场、食品和饮料支付",
+    "revenue": "well over $500/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Unlisted Jobs",
+    "url": "https://www.unlistedjobs.com/",
+    "description": "一个从公司网站直接抓取职位列表的应用程序，帮助求职者找到未在招聘网站列出的工作。",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Sink It for Reddit",
+    "url": "https://gosinkit.com",
+    "description": "一款适用于Safari/Chrome/Firefox/Edge的浏览器扩展，旨在提升Reddit在网页上的可用性，支持所有Reddit设计并积极开发。",
+    "revenue": "four figures a month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Heliographe",
+    "url": "https://heliographe.net",
+    "description": "专注于Apple平台的摄影软件，遵循UNIX哲学，旨在为摄影师提供实用工具。",
+    "revenue": "通过App Store获得收入，最近几个月收入增长",
+    "stack": [
+      "Apple platforms"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "FoxEV",
+    "url": "https://foxev.io/batteries",
+    "description": "提供定制电动汽车和可再生能源知识的免费知识库和YouTube系列，包括开源工具支持。",
+    "revenue": "$400/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "SmoothTrack",
+    "url": "https://smoothtrack.app",
+    "description": "一款无需额外设备的头动追踪应用，适用于iOS和Android，让玩家在模拟游戏中通过头部动作控制游戏摄像头，类似TrackIR但更经济实惠。",
+    "revenue": "$15",
+    "stack": [
+      "iOS",
+      "Android"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "LeetCode Wizard",
+    "url": "https://leetcodewizard.io",
+    "description": "一个简单的ChatGPT/Claude包装器，作为不可见的Electron应用，用于在编码面试或在线评估中作弊。",
+    "revenue": "$15K/month",
+    "stack": [
+      "Electron",
+      "ChatGPT",
+      "Claude"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "The Greatest Books",
+    "url": "https://thegreatestbooks.org",
+    "description": "A website listing the greatest books, created in 2008 and maintained since, ranking #1 for best/greatest books searches.",
+    "revenue": "$2k a month",
+    "stack": [
+      "Rails",
+      "Postgresql"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Hacker Newsletter",
+    "url": "https://hackernewsletter.com/",
+    "description": "一个运行了15年、拥有超过6万订阅者的黑客新闻通讯项目，专注于改进和赞助收入。",
+    "revenue": "sponsors",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Pink Pigeon",
+    "url": "https://pinkpigeon.co.uk",
+    "description": "一个快速、移动友好的CMS，专注于低JavaScript、良好SEO和易于管理，适合不熟练的用户。",
+    "revenue": "£500/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Audiala",
+    "url": "https://audiala.com",
+    "description": "为全球城市的历史和旅游景点创建音频导览。",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "cophone.io",
+    "url": "https://cophone.io",
+    "description": "一个在线智能手机，提供云端Android系统，可通过浏览器访问，支持麦克风和摄像头，适用于会议等场景。",
+    "revenue": "Not specified",
+    "stack": [
+      "Android",
+      "Cloud"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Log Cabin Airbnb",
+    "url": "https://studiozenkai.com/post/airbnb-the-good-the-bad-the-profitable/",
+    "description": "A remotely operated Airbnb log cabin using smart home devices and local cleaning services, started during the pandemic.",
+    "revenue": "$3k to $6k",
+    "stack": [
+      "smart home devices",
+      "AI agent (planned)"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "check.supply",
+    "url": "https://check.supply",
+    "description": "一款iOS应用，提供类似现金应用的体验，用于邮寄支票，适用于只接受支票的房东、园丁等场景。",
+    "revenue": null,
+    "stack": [
+      "iOS",
+      "Plaid"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Mockoon",
+    "url": "https://mockoon.com",
+    "description": "一个为开发者设计的API模拟工具，创建于2017年，最初是业余项目，现已全职投入并引入云选项以确保可持续性。",
+    "revenue": "growing slowly but steadily, making a living from it",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "The Stoned Craftsmen",
+    "url": "https://www.etsy.com/shop/TheStonedCraftsmen",
+    "description": "A niche maker of solid wood rolling trays designed and sold on Etsy.",
+    "revenue": "$1200-2000 per month",
+    "stack": [
+      "Etsy",
+      "Shopify",
+      "Social Media"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Krane Build Relationships",
+    "url": "https://apps.apple.com/ca/app/krane-build-relationships/id6738585311",
+    "description": "An app to scan business cards and export them to CSV, helping manage contacts after networking events.",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "ScrapeNinja",
+    "url": "https://scrapeninja.net",
+    "description": "一个网络抓取API，拥有超过1万订阅者，使用Node.js构建，支持两种渲染引擎和多种代理提供商。",
+    "revenue": "Bootstrapped",
+    "stack": [
+      "node.js",
+      "puppeteer"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Laser Cut Wall Art",
+    "url": "",
+    "description": "通过激光切割制作墙艺并在Facebook市场上销售。",
+    "revenue": "$2000-5000/month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Janitorial partnership business",
+    "url": "",
+    "description": "与当地清洁公司合作，针对工业客户提供夜间清洁服务，通过客户支持和SEO获取收入。",
+    "revenue": "$6-7k/mo",
+    "stack": [
+      "Apollo.AI"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Story Treasure",
+    "url": "https://www.storytreasure.ai/",
+    "description": "A way to create illustrated children's books, especially for bilingual families.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "rigged.ai",
+    "url": "https://rigged.ai",
+    "description": "A platform for statistical processing and breakdown of options sweep data, providing real-time alerts to copy trade big Wall Street traders and a strategy playground for testing trading bot strategies.",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Web Design Agency for Small Companies",
+    "url": "",
+    "description": "A web design agency providing subscription-based website management, SEO, and lead tracking services for small businesses, particularly architectural firms.",
+    "revenue": "$2,000/month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "terminal.shop",
+    "url": "ssh terminal.shop",
+    "description": "通过终端销售咖啡的在线商店。",
+    "revenue": "6 figures in revenue the first year",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "FreeBSD/EC2",
+    "url": "",
+    "description": "将FreeBSD移植到EC2平台并维护该项目，始于个人需求，后获得赞助。",
+    "revenue": "sponsorship from Amazon and Patreon",
+    "stack": [
+      "FreeBSD",
+      "EC2"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Cronitor.io",
+    "url": "https://cronitor.io",
+    "description": "A SaaS for monitoring cron jobs and scheduled tasks.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "AI chatbot for OnlyFans models",
+    "url": null,
+    "description": "An AI chatbot that allows OnlyFans models' fans to interact with them via a third-party messaging app, using Llama 3 with few-shot prompting to mimic the models' communication style.",
+    "revenue": "$15k/mo",
+    "stack": [
+      "Llama 3",
+      "custom GPU infrastructure"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "FLX Websites",
+    "url": "https://flxwebsites.com",
+    "description": "为本地小型企业设计和建设网站",
+    "revenue": "$11k/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Deezign.io",
+    "url": "https://www.deezign.io",
+    "description": "A Figma to Bubble.io converter that speeds up development by generating code for no-code platforms.",
+    "revenue": "$1.4K MRR",
+    "stack": [
+      "Figma",
+      "Bubble.io"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Skippies",
+    "url": "https://blog.labsbell.com/blog/SkippiesPart2",
+    "description": "A project selling $4.99 shoes, offering insights into ecommerce operations.",
+    "revenue": "$4.99 per sale",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "News Minimalist",
+    "url": "https://www.newsminimalist.com/",
+    "description": "一个新闻聚合器，所有新闻按重要性从0到10排名，允许读者设置重要性阈值以忽略低于该值的新闻。",
+    "revenue": "$1000/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "FormTester365",
+    "url": "https://formtester365.com",
+    "description": "A service that ensures forms are always working by filling them out like a human and confirming submissions, preventing lost leads.",
+    "revenue": "over $1k/mo",
+    "stack": [
+      "Gravity Forms",
+      "Wordpress",
+      "API"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Security Newsletter",
+    "url": "https://securitynewsletter.co",
+    "description": "一份每周发布的网络安全通讯，总结有趣文章并列出已知的数据泄露和软件问题。",
+    "revenue": "$25k/year",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Forest Friends",
+    "url": "https://forestfriends.tech",
+    "description": "A zine on system evaluations for LLM-driven applications, designed to help AI engineers implement maintainable production systems without jargon.",
+    "revenue": "Not specified",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "5/3/1 app",
+    "url": "https://fivethreeone.app/",
+    "description": "一个用于5/3/1训练计划的应用程序，帮助用户跟踪和管理他们的锻炼。",
+    "revenue": "$1000/month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "labs.iximiuz.com",
+    "url": "https://labs.iximiuz.com",
+    "description": "A learning-by-doing platform for DevOps, SRE, and infrastructure engineers.",
+    "revenue": "$3K MRR, ~$25K in annual revenue from Black Friday sale",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "TradeInsight",
+    "url": "https://tradeinsight.info",
+    "description": "A website that alerts people about insider trading and congressional trading.",
+    "revenue": "Not $500/month yet, but towards it",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "gifmemes.io",
+    "url": "https://gifmemes.io",
+    "description": "一个生成GIF表情包的网站，代码已多年未更新。",
+    "revenue": "$100-300/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "PortDroid",
+    "url": "https://portdroid.net",
+    "description": "一个Android端口扫描器和网络工具包，最初为个人学习而开发，现已获得约80万次下载。",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "VoiceType",
+    "url": "https://carelesswhisper.app/",
+    "description": "A Mac dictation tool using Whisper Large Turbo for fast, accurate transcription, especially for technical terms like Rust library names.",
+    "revenue": null,
+    "stack": [
+      "Whisper Large Turbo",
+      "OpenAI",
+      "Mac"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Digest",
+    "url": "https://usedigest.com",
+    "description": "一个允许你创建个性化每日摘要的平台，汇总并AI总结来自Reddit、Google Calendar、Instagram、X、TikTok、Stripe、Hacker News、Weather、YouTube、Product Hunt、RSS、Google News、Stocks、Crypto等来源的内容，并通过新闻简报或电子邮件发送。",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Tomotcha",
+    "url": "https://tomotcha.com",
+    "description": "A Japanese green tea-of-the-month club run as a side project.",
+    "revenue": "$2000/month gross, $500/month net",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "SMS to Slack",
+    "url": "https://smstoslack.com",
+    "description": "A tool that enables two-way SMS messaging from Slack channels, useful for receiving 2FA codes and customer support.",
+    "revenue": null,
+    "stack": [
+      "Elixir",
+      "Fly",
+      "GCP",
+      "Stripe"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Zwemindex",
+    "url": "https://zwemindex.nl",
+    "description": "荷兰所有游泳池和开放水域游泳地点的网站，提供无谷歌地图的地点搜索，专注于移动友好性和可访问性。",
+    "revenue": "$500/mo",
+    "stack": [
+      "PHP",
+      "MongoDB",
+      "Google Sheets",
+      "Bulma CSS",
+      "Cloudflare",
+      "autocomplete.js"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Jummbo",
+    "url": "https://www.jummbo.ai",
+    "description": "通过谷歌搜索、研究和撰写定制邮件及通话脚本，快速寻找和开发B2B销售潜在客户，消除销售过程中的犹豫。",
+    "revenue": "$hundreds per month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "konfig.xyz",
+    "url": "https://konfig.xyz/",
+    "description": "一个使用3D模型而非图像的产品配置器，专注于可定制固定尺寸产品，如颜色、材料更换或对象开关。",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Tunnelmole",
+    "url": "https://tunnelmole.com/",
+    "description": "An open source tunneling tool similar to ngrok, now developed into a bootstrapped one-person company.",
+    "revenue": "$500 (AUD) per month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "fiction podcast",
+    "url": "https://news.ycombinator.com/item?id=42380474",
+    "description": "A fiction podcast that launched on HN and is now earning revenue.",
+    "revenue": "$1100 USD monthly",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "vpzen.io",
+    "url": "https://vpzen.io",
+    "description": "提供按需付费的专用VPN服务器，适用于偶尔需要VPN的用户，无需下载客户端，支持原生VPN客户端。",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "canine.sh",
+    "url": "https://canine.sh",
+    "description": "一个平台，使任何Kubernetes集群像Heroku一样易于部署Web应用、定时任务等。",
+    "revenue": ">$500/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "DIGRIN",
+    "url": "https://DIGRIN.com",
+    "description": "A dividend tracking website focused on providing valuable data for dividend growth investing.",
+    "revenue": "$740/mo",
+    "stack": [
+      "bootstrap"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "WolfTickets.ai",
+    "url": "https://wolftickets.ai",
+    "description": "一个使用AI预测即将到来的UFC比赛的平台，提供战斗和拳手的分析以及相关统计数据。",
+    "revenue": "$500/mo",
+    "stack": [
+      "gen-ai",
+      "AIML"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Baby Teeth Tracker",
+    "url": "getbabyteeth.app",
+    "description": "一个简单可爱的iOS应用，用于追踪宝宝的牙齿生长情况。",
+    "revenue": "1-2k EUR/mo",
+    "stack": [
+      "Expo",
+      "Swift",
+      "SwiftUI"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Reminder Sync for Obsidian",
+    "url": "https://turquoisehexagon.co.uk/remindersync/",
+    "description": "A tool that syncs reminders for tasks created in Obsidian, providing notifications for users.",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Cluehound",
+    "url": "https://cluehound.com",
+    "description": "An illustrated narrative puzzle magazine, similar to escape games but more story-driven and easy to do in short sessions.",
+    "revenue": "$500 profit per month",
+    "stack": [
+      "Node.js",
+      "Stripe",
+      "Meta pixel",
+      "JavaScript"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "SweetClay",
+    "url": "https://sweetclay.net",
+    "description": "一个在线购买有机密西西比甜薯的网站。",
+    "revenue": "$910 in the first three weeks",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "BrainDump",
+    "url": "https://voicebraindump.com/",
+    "description": "一个基于苹果生态系统的语音笔记/日记应用，结合语音转文字和LLM重写功能，帮助用户记录想法、事件和会议笔记。",
+    "revenue": "",
+    "stack": [
+      "whisper",
+      "LLMs"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "BudgetSheet",
+    "url": "https://www.budgetsheet.com",
+    "description": "一个Google Sheets插件，通过Plaid导入银行交易，自动分类并格式化数据。",
+    "revenue": "$5,000/month",
+    "stack": [
+      "Google Sheets",
+      "Plaid"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Elite Hoops",
+    "url": "https://elitehoopsapp.com",
+    "description": "A basketball coaching app that generates $3.5k/month and is growing.",
+    "revenue": "$3.5k/month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Pikuma",
+    "url": "https://pikuma.com",
+    "description": "A platform teaching computer science, retro programming, and mathematics.",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Filestash",
+    "url": "https://github.com/mickael-kerjean/filestash",
+    "description": "一个开源的类Dropbox前端，支持多种云存储和协议（如S3、SFTP、FTP、SMB、NFS等），通过插件实现定制化和企业功能。",
+    "revenue": "来自定制化和企业插件（如SSO、审计插件等）的收入",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Team Fortress 2 Pixel (Hat) Trading",
+    "url": "https://marketplace.tf",
+    "description": "在视频游戏《军团要塞2》中买卖像素（帽子），是该游戏主要第三方市场上最大的卖家之一。",
+    "revenue": "$10k-15k per month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "pdf.to",
+    "url": "https://www.pdf.to",
+    "description": "一个PDF工具网站，最初因域名可用而创建，用于解决PDF相关问题。",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "interviewsolver.com",
+    "url": "https://interviewsolver.com",
+    "description": "一个AI副驾驶，帮助您准备LeetCode面试。",
+    "revenue": "$6000/month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Canyon",
+    "url": "https://www.usecanyon.com/",
+    "description": "A tool to help jobseekers land their dream job by perfecting resumes, speeding up job applications, and practicing with mock interviews.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Littlerbooks",
+    "url": "https://littlerbooks.com",
+    "description": "分享非小说类书籍摘要和笔记的平台。",
+    "revenue": "making a little",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "AdBlocker Detection SaaS",
+    "url": "",
+    "description": "A mini-SaaS that identifies content or scripts blocked by AdBlockers, Firefox Tracking Protection, and similar tools on websites.",
+    "revenue": "$600/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "tender.run",
+    "url": "https://tender.run",
+    "description": "一款个人理财应用，采用类似邮箱的滑动、键盘快捷键和收件箱式工作流程来审查交易。",
+    "revenue": null,
+    "stack": [
+      "automerge CRDT",
+      "sqlite"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "clearpayments.ca",
+    "url": "https://clearpayments.ca",
+    "description": "通过口碑和推荐提供支付处理服务，为客户提供最佳费率。",
+    "revenue": "$3500/m - $5000/m",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "SparkFX",
+    "url": "https://sparkfxstudio.com/",
+    "description": "A work-in-progress app designed to enhance efficiency and functionality in Davinci Resolve.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "monitorprices.org",
+    "url": "https://monitorprices.org",
+    "description": "一个提供更多筛选选项的亚马逊显示器列表网站。",
+    "revenue": "$125/mo, maybe double if there’s a creator reward campaign running",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Marin Labs",
+    "url": "https://www.marinlabs.io",
+    "description": "一个工作室，开发各种创意项目，最近推出了针对拉丁美洲的热带化流行问答游戏。",
+    "revenue": "$14.00 MRR",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Minute Master",
+    "url": "https://minute-master.com",
+    "description": "为基金管理人、信托公司等提供董事会治理和会议纪要生成工具，简化会议流程。",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Hyperpaper",
+    "url": "https://hyperpaper.me/",
+    "description": "为电子墨水平板电脑（如 reMarkable、Supernote 和 Kindle Scribe）定制的规划器/日历生成器。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Substack2Kindle",
+    "url": "https://substack2kindle.com",
+    "description": "A service that allows users to read Substack newsletters on their Kindle devices.",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Bike Parts",
+    "url": "https://bike-parts.cc",
+    "description": "销售自行车配件的副业项目，通过自定义中间件集成到亲戚的ERP系统中。",
+    "revenue": null,
+    "stack": [
+      "ERP system",
+      "custom middleware",
+      "home-hosted infrastructure",
+      "database",
+      "500mbps home internet"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Attic Manager",
+    "url": "https://guacosoft.com/attic/",
+    "description": "A home inventory software that can import Quicken Home Inventory data, created for personal use during a move.",
+    "revenue": "some months over $500",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Heuristica",
+    "url": "https://www.heuristi.ca/",
+    "description": "一个基于订阅的AI驱动的概念映射工具，帮助可视化学习和研究。",
+    "revenue": "pays for my rent",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "IELTSIELTS",
+    "url": "https://ieltsielts.com/",
+    "description": "提供简单的语音跟读练习，帮助人们备考雅思口语。",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "NRI Meet",
+    "url": "https://www.nrimeet.app/",
+    "description": "一个专为印度人和非居民印度人设计的约会/聚会应用，可在iOS和Android上使用。",
+    "revenue": "$250 per month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Wavekit",
+    "url": "https://wavekit.app/",
+    "description": "一个音频托管服务，提供高质量音频和无品牌定制播放器，主要面向销售音频产品或服务的客户。",
+    "revenue": "not hitting $500 consistently",
+    "stack": [
+      "web components",
+      "iframes",
+      "API"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "ESP32 Rainbow",
+    "url": "https://www.esp32rainbow.com/",
+    "description": "A hardware project involving ESP32, aiming to start a hardware company.",
+    "revenue": null,
+    "stack": [
+      "ESP32"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Virtual Graph Paper",
+    "url": "https://virtual-graph-paper.com",
+    "description": "一个用于在网格上绘图的网络应用，类似于有限制的矢量图形编辑器，旨在易于使用，适用于不适合Illustrator或CAD软件的场景。",
+    "revenue": "通过可下载的Electron应用或订阅的付费版本产生收入",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Skybear",
+    "url": "https://www.skybear.net",
+    "description": "一个自动化HTTP API测试的托管平台，基于Hurl文件运行，支持自动报告持久化、定时执行和多文件处理。",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Tapflow",
+    "url": "https://tapflow.co",
+    "description": "一个帮助技术专业人士将内部文档、模板和工作流程快速打包成付费产品以创造被动收入的平台。",
+    "revenue": "$2–3k/month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "coverLetterGPT.xyz",
+    "url": "https://coverLetterGPT.xyz",
+    "description": "一个超级简单的GPT包装器，用于生成求职信",
+    "revenue": "$600/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Custom Scraper APIs",
+    "url": "",
+    "description": "提供针对客户用例的私有API，从Google、Bing、Walmart、eBay等平台抓取数据并集成到工作流程中。",
+    "revenue": "$600/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "ScreenMemory",
+    "url": "https://screenmemory.app",
+    "description": "一款macOS应用，记录屏幕活动并允许在时间线或日历中导航，类似Rewind.ai的替代品。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Chesscraft",
+    "url": "www.chesscraft.ca",
+    "description": "一个国际象棋变体AI沙盒，帮助应对通勤时间，已在Google Play和Steam上发布。",
+    "revenue": "$400/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "SerpentineGame",
+    "url": "https://SerpentineGame.com",
+    "description": "A clone of Tangleword, which is a clone of Boggle, originally written in 2008 and currently being rewritten due to outdated technology.",
+    "revenue": "close to that with advertisements and premium subscriptions",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Vidi",
+    "url": "https://vidi.plomo.se/",
+    "description": "A modular media center compatible with Stremio addons for Apple platforms.",
+    "revenue": "one-time purchase",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "ClickConnector",
+    "url": "https://clickconnector.com/",
+    "description": "A customer support platform for SaaS products integrating HelpDesk, Knowledge Base, and other tools to enhance customer success.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Open Courser",
+    "url": "https://opencourser.com",
+    "description": "一个在线课程目录/聚合器，帮助用户发现和比较来自edX、Treehouse等平台的课程。",
+    "revenue": "通过主要在线课程平台的联盟关系获得收入，具体金额未提及。",
+    "stack": [
+      "Flask",
+      "Jinja",
+      "JavaScript"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Invoice Maker Quote Builder",
+    "url": "https://apps.apple.com/app/invoice-maker-quote-builder/id1538355349",
+    "description": "一款适用于iOS和macOS的发票制作应用，支持自定义文件格式。",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Rogue Star Gun",
+    "url": "https://roguestargun.com",
+    "description": "Solo developed VR starfighter combat sim for Quest, PCVR, and soon PICO4.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "File Transfer & Notification App for Law Firm",
+    "url": "",
+    "description": "为律师事务所开发的小型应用程序，支持文件传输、通知用户应上传的文件并显示进度。",
+    "revenue": "€10000 in 6 months",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "hortus.dev",
+    "url": "https://hortus.dev",
+    "description": "一个销售LED徽章的网站，作为小型企业项目运行。",
+    "revenue": "Not enough to live off, but sustains itself and funds future projects",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Paivarinne Farm",
+    "url": "www.paivarinne.farm",
+    "description": "销售牧场散养鸡蛋，通过Facebook农民市场直接销售给客户。",
+    "revenue": "€3k/mo gross, €2k/mo profit",
+    "stack": [
+      "Facebook-based Reko-rings",
+      "Susckovich style chicken tractors"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "SpaceShout",
+    "url": "https://spaceshout.com",
+    "description": "专注于用户内容和互动的社交地图平台",
+    "revenue": "not yet making money",
+    "stack": [
+      "iOS",
+      "Android"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "FitBee",
+    "url": "https://apps.apple.com/us/app/fitbee-calorie-counter/id6443979108",
+    "description": "一个更快的卡路里和宏量营养素追踪应用，帮助用户轻松记录饮食并保持健康。",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "gadabout.ai",
+    "url": "https://gadabout.ai",
+    "description": "A tool for marketing teams to run deep competitor analysis and monitoring, built with multimodal LLMs and computer use to reduce user testing burden.",
+    "revenue": "Two pilot customers through word of mouth expected to double next month.",
+    "stack": [
+      "multimodal LLMs",
+      "computer use"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Data Integration Guide",
+    "url": "https://www.udemy.com/course/data-integration-guide/",
+    "description": "A course on data integration based on lessons from complex projects, appreciated by professionals.",
+    "revenue": "300€/month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Keila",
+    "url": "https://www.keila.io",
+    "description": "An Open Source email marketing platform built with Elixir/Phoenix.",
+    "revenue": "MRR threshold",
+    "stack": [
+      "Elixir",
+      "Phoenix"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "The Maps Guy",
+    "url": "themapsguy.com",
+    "description": "销售3D激光制造地图",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "OnlineOrNot",
+    "url": "https://onlineornot.com",
+    "description": "A service that monitors whether your team's website, API, or cron jobs are online.",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Blymp",
+    "url": "https://blymp.ca",
+    "description": "A B2B SaaS platform for out-of-home advertising, providing tools for media owners to sell and market their inventory, similar to what Shopify does for small businesses.",
+    "revenue": "$600/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Batch Compress",
+    "url": "https://batchcompress.com/en",
+    "description": "一个在线图像压缩工具，可将图像转换为WebP或JPEG格式，大幅减小文件大小，提供无限免费使用。",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Audjust",
+    "url": "https://www.audjust.com/",
+    "description": "A service for manipulating audio (shorten, lengthen, loop) for video editors and music producers.",
+    "revenue": "enough to cover costs and make some profit",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "MyTestament.io",
+    "url": "https://mytestament.io/",
+    "description": "一个安全存储和指定数字遗产的平台，让您在离世后与亲人分享数字记忆和重要信息。",
+    "revenue": "$500/mo (projected)",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "asset.plus",
+    "url": "https://asset.plus/",
+    "description": "A market making platform bridging decentralized and centralized exchanges, currently generating revenue through trading bots.",
+    "revenue": "Not specified",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "achromatic.dev",
+    "url": "https://achromatic.dev",
+    "description": "一个不糟糕的Next.js SaaS启动工具包，专注于功能和客户需求。",
+    "revenue": null,
+    "stack": [
+      "Next.js"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Olympiad Math Exercises for Kids",
+    "url": "https://mathclub.ai/math-exercises",
+    "description": "一个为儿童提供数学奥林匹克练习的平台，每周提供两套来自过去数学竞赛的题目，并配备AI助手来检查答案和解答问题。",
+    "revenue": "$50/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Atomic Note-Taking",
+    "url": "https://atomicnotetaking.com",
+    "description": "A book/course on note-taking that has sold in 69 countries.",
+    "revenue": "$1K a month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "CodeApprove",
+    "url": "https://codeapprove.com",
+    "description": "一个为GitHub团队设计的更好的代码审查界面，提供快速单页体验和键盘快捷键。",
+    "revenue": "Doesn't make enough money to be my full-time job, but enough to keep me interested over the past 3+ years.",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Produktly",
+    "url": "https://produktly.com/",
+    "description": "一套无需编码的工具套件，用于改善用户引导、产品采用和留存，包括产品导览、清单、反馈小部件和更新日志。",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "strands.today",
+    "url": "https://strands.today",
+    "description": "A website for checking daily Strands puzzle answers and playing previous games.",
+    "revenue": "$600 per month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Reqres",
+    "url": "https://reqres.in/",
+    "description": "A fake API for testing and prototyping, generating ad revenue.",
+    "revenue": "roughly that much in ads revenue",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "WhatDinner",
+    "url": "https://whatdinner.com/",
+    "description": "Basically Tinder to decide what to eat",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Inbox Zero",
+    "url": "https://getinboxzero.com",
+    "description": "AI个人助理，帮助您将处理电子邮件的时间减少50%。",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Figmage",
+    "url": "https://figmage.com",
+    "description": "一个Figma插件，用于更轻松地上传、托管和管理Figma中的图像。",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "FIXParser",
+    "url": "https://fixparser.dev",
+    "description": "一个用于学习高频交易的FIX协议解析器，已维护超过10年并被多家公司使用。",
+    "revenue": "doesn't make much money",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Sports Toto Match Analysis App",
+    "url": "https://play.google.com/store/apps/details?id=com.tistory.ddaying.pm",
+    "description": "一款在韩国分析体育Toto比赛结果的应用程序，通过应用内购买产生收入。",
+    "revenue": "$500–550 per month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "3D Printing Products",
+    "url": "",
+    "description": "专注于销售3D打印产品，包括商业兼容的CC许可或已购买许可的模型，计划学习Autodesk Fusion以创建自己的功能性产品。",
+    "revenue": "$500-1000/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "runjs.app",
+    "url": "https://runjs.app",
+    "description": "一个用于轻松运行JavaScript和测试想法的在线工具。",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Loan Kundli",
+    "url": "https://loankundli.com/",
+    "description": "A tool for estimating savings from prepayments during a home loan tenure, allowing users to choose to reduce EMI or tenure for each prepayment.",
+    "revenue": "$0/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Everyday Chengyu",
+    "url": "https://everydaychengyu.com/",
+    "description": "一个帮助学习者学习常用中文成语的语言学习应用，提供免费网站内容和儿童友好的应用程序，包含闪卡和间隔重复功能。",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "PostalAgent",
+    "url": "https://postalagent.com",
+    "description": "一个在线构建邮件列表和发送明信片的工具",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "SnipCSS",
+    "url": "https://chromewebstore.google.com/detail/snipcss/hbdnoadcmapfbngbodpppofgagiclicf",
+    "description": "A tool for converting CSS snippets, recently added Tailwind conversion.",
+    "revenue": "$500-$1k/mo",
+    "stack": [
+      "Tailwind"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "HostedGitea and Dopeloop.ai",
+    "url": "https://hostedgitea.com, https://dopeloop.ai",
+    "description": "Hosted Gitea service and AI-powered music app platform generating revenue.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Comicsmaker.ai",
+    "url": "https://www.comicsmaker.ai",
+    "description": "A service where users can create comics using AI generated artwork.",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "reddit-saved.com",
+    "url": "https://reddit-saved.com",
+    "description": "一个用于搜索和组织Reddit收藏内容的工具，方便用户稍后回顾。",
+    "revenue": "not monetized",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Plant Care Identify Flowers",
+    "url": "https://apps.apple.com/app/plant-care-identify-flowers/id1610611017",
+    "description": "一个用于iOS和macOS的植物护理应用，帮助识别花卉。",
+    "revenue": "few hundreds $$$",
+    "stack": [
+      "iOS",
+      "macOS"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "LinkedIn Profile Optimizer",
+    "url": "http://profileoptimizer.org/",
+    "description": "AI-driven service to enhance LinkedIn profiles with personalized recommendations.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "ZenMic",
+    "url": "https://zenmic.com",
+    "description": "AI Podcast Generator",
+    "revenue": "Zero MRR but makes money indirectly through freelancing clients",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "spl.ing",
+    "url": "https://spl.ing",
+    "description": "一个网站拼写检查和校对工具",
+    "revenue": null,
+    "stack": [
+      "aws step functions"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Professional Resume Builder",
+    "url": "https://apps.apple.com/app/professional-resume-builder/id1358430976",
+    "description": "An iOS and macOS app for creating professional resumes.",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "OneQuery",
+    "url": "https://www.onequery.app",
+    "description": "An AI web agent that fetches detailed information by browsing sites.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Getloaf",
+    "url": "https://getloaf.io/",
+    "description": "一个允许自定义SVG动画的应用，内置动画库。",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "SendBroadcast",
+    "url": "https://sendbroadcast.net",
+    "description": "一个用于发送广播消息的工具，最初为自己构建，后来开始销售。",
+    "revenue": "$1500 USD over 2 months",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "PathApp",
+    "url": "https://pathapp.co.uk",
+    "description": "A side project built with ex-colleagues, generating income through non-revenue means.",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Violinist.io",
+    "url": "https://violinist.io",
+    "description": "一个PHP/Composer更新服务，于2017年建立。",
+    "revenue": "未明确提及收入",
+    "stack": [
+      "PHP",
+      "Composer"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "PhotoVortex",
+    "url": "https://www.photovortex.com",
+    "description": "AI photo generator (SD/FLUX wrapper) that has crossed $500MRR last month.",
+    "revenue": "$500/mo",
+    "stack": [
+      "SD",
+      "FLUX"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Hands-on Scala",
+    "url": "https://www.handsonscala.com/",
+    "description": "A book on Scala programming that continues to generate revenue years after release.",
+    "revenue": "$300-400/month",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "MeetEffective",
+    "url": "https://meeteffective.com/",
+    "description": "一个用于高效一对一会议的工具",
+    "revenue": "$0/mo",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "agentic marketplace",
+    "url": "",
+    "description": "A marketplace where users create agents that earn a portion of task prices when participating in task chains.",
+    "revenue": "more than $500",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "volt.fm",
+    "url": "https://volt.fm",
+    "description": "A project related to music or audio streaming, but not specified in detail.",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Loshadki",
+    "url": "https://loshadki.app",
+    "description": "Mac/iOS apps",
+    "revenue": "Stable between 1000-1500 monthly",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "thatsexquiz.com",
+    "url": "thatsexquiz.com",
+    "description": "A quiz for couples to improve their intimacy.",
+    "revenue": "$50 per day",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Rows and Tables",
+    "url": "https://rowsandtables.com",
+    "description": "一个SQL卡牌游戏",
+    "revenue": "",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Notion Boost",
+    "url": "https://gourav.io/blog/notion-boost",
+    "description": "An open-source side project that enhances Notion functionality.",
+    "revenue": "$10k total",
+    "stack": [],
+    "year": 2024
+  },
+  {
+    "name": "Instabooks.ai",
+    "url": "https://instabooks.ai",
+    "description": "一个AI书籍生成器，允许用户在任何主题上即时生成200多页的书籍，以PDF、EPUB和印刷形式销售。",
+    "revenue": "Not explicitly mentioned",
+    "stack": [
+      "Large Language Models (e.g., GPT-4)"
+    ],
+    "year": 2024
+  },
+  {
+    "name": "Label.live and MyDPI",
+    "url": "https://label.live, https://mydpi.com",
+    "description": "A design app for creating and printing barcode labels on Mac, bundled with high-quality label printers.",
+    "revenue": "5-figures per week for the app, 4-figures per week for the printers",
+    "stack": [
+      "react",
+      "electron"
+    ],
+    "year": 2023
+  },
+  {
+    "name": "OnlineOrNot",
+    "url": "https://onlineornot.com",
+    "description": "一个支持网站、API和JavaScript应用正常运行时间监控、定时任务监控以及内置状态页面的服务。",
+    "revenue": "Not explicitly mentioned",
+    "stack": [],
+    "year": 2023
+  },
+  {
+    "name": "screenprices.info",
+    "url": "https://www.screenprices.info/",
+    "description": "一个简单的界面，帮助用户找到合适的显示器，专注于数据范围和质量。",
+    "revenue": "$500 for November",
+    "stack": [],
+    "year": 2023
+  },
+  {
+    "name": "Refined GitHub",
+    "url": "https://github.com/refined-github/refined-github",
+    "description": "A browser extension that enhances the GitHub interface with useful features.",
+    "revenue": "about that amount per month in GitHub Sponsorships",
+    "stack": [],
+    "year": 2023
+  },
+  {
+    "name": "FundedList",
+    "url": "https://www.fundedlist.com",
+    "description": "A service that curates and sells leads of recently funded startups to agencies and marketers, delivered weekly.",
+    "revenue": "$1100/month",
+    "stack": [],
+    "year": 2023
+  },
+  {
+    "name": "ScreenMemory",
+    "url": "https://screenmemory.app/",
+    "description": "一款macOS应用，持续截取屏幕截图，允许用户在时间线上浏览并搜索屏幕上的文本。",
+    "revenue": "not recurring but passed $500/mo recently",
+    "stack": [
+      "macOS"
+    ],
+    "year": 2023
+  },
+  {
+    "name": "t3x.org",
+    "url": "http://t3x.org",
+    "description": "A collection of books generating revenue.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2023
+  },
+  {
+    "name": "webtoapp.design",
+    "url": "https://webtoapp.design",
+    "description": "A service that helps customers create and publish apps from websites, handling the entire process including dealing with Google and Apple.",
+    "revenue": "Enough to live off after costs, not specified as a precise amount",
+    "stack": [],
+    "year": 2023
+  },
+  {
+    "name": "ChatGPT Writer",
+    "url": "https://chatgptwriter.ai",
+    "description": "A freemium ChatGPT extension.",
+    "revenue": "$7k MRR",
+    "stack": [],
+    "year": 2023
+  },
+  {
+    "name": "Stratospheric",
+    "url": "https://stratospheric.dev/",
+    "description": "一本关于使用Spring Boot和AWS从零到生产的电子书及配套在线课程。",
+    "revenue": "$1300/month",
+    "stack": [
+      "Spring Boot",
+      "AWS"
+    ],
+    "year": 2023
+  },
+  {
+    "name": "Blackslate",
+    "url": "https://www.blackslate.io/articles",
+    "description": "A tech journal publishing articles and news on open source, AI, ML, blockchain, cloud, mobile, and other latest technologies.",
+    "revenue": "$0/mo",
+    "stack": [],
+    "year": 2023
+  },
+  {
+    "name": "KTool",
+    "url": "https://ktool.io",
+    "description": "一个将网页文章、新闻通讯和RSS源转发到Kindle的工具，帮助减少屏幕时间并对抗无意义滚动。",
+    "revenue": "$580 MRR",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "MessageDuck",
+    "url": "https://www.messageduck.com",
+    "description": "A solution for SMS data marketing, built to provide an alternative to expensive options like MailCharts SMS.",
+    "revenue": "Not specified, aiming for $500 by 2023",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "OnlineOrNot",
+    "url": "https://onlineornot.com",
+    "description": "这是一个托管的服务状态页面，内置正常运行时间监控。",
+    "revenue": null,
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "Junior to Senior",
+    "url": "https://www.holloway.com/b/junior-to-senior",
+    "description": "A book helping software engineers transition from junior to senior roles, focusing on soft skills.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "Velomapa.pl",
+    "url": "https://velomapa.pl",
+    "description": "波兰的自行车相关内容网站，包括路线、比赛、照片等",
+    "revenue": "$1000/month",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "Checkvisaslots.com",
+    "url": "https://checkvisaslots.com",
+    "description": "A Chrome extension for checking visa slots, recently recognized as one of Google's 12 favorite extensions for 2022.",
+    "revenue": "Not specified",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "Gaintrain",
+    "url": "https://gaintrainapp.com/",
+    "description": "A meal planning app designed to help users optimize their muscle gain.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "Vlad Studio Wallpapers",
+    "url": "https://vlad.studio/",
+    "description": "A collection of hand-drawn wallpapers sold through subscription accounts, maintained for over 20 years.",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "Mailsac.com",
+    "url": "https://mailsac.com",
+    "description": "用于质量保证和开发团队的临时电子邮件服务。",
+    "revenue": "",
+    "stack": [
+      "Node.js",
+      "mongodb",
+      "golang",
+      "Postgres",
+      "custom micro services"
+    ],
+    "year": 2022
+  },
+  {
+    "name": "PEP Checker",
+    "url": "https://pepchecker.com",
+    "description": "一个用于搜索政治敏感人物和监控制裁的简单API/仪表板。",
+    "revenue": "",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "MesoSim",
+    "url": "https://portal.deltaray.io",
+    "description": "一个高级期权回测工具，帮助用户快速迭代SPX、BTCUSD和ETHUSD期权的交易系统开发。",
+    "revenue": "",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "Sleeve",
+    "url": "https://replay.software/sleeve",
+    "description": "一款适用于Mac的“正在播放”桌面配件",
+    "revenue": "$700/mo",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "ValidBot",
+    "url": "https://www.validbot.com",
+    "description": "一个用于测试其他网站配置有效性的网站，类似于增强版的Chrome Lighthouse，具有自动监控和警报功能。",
+    "revenue": "",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "nitrohire.co",
+    "url": "https://nitrohire.co",
+    "description": "A reference checking tool for hiring managers.",
+    "revenue": "a few $100s",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "Inveester",
+    "url": "https://www.inveester.com",
+    "description": "一款专注于股息/被动收入的股票投资组合追踪移动应用。",
+    "revenue": "$100 MRR",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "Breeze Order Manager",
+    "url": "http://breeze.humbersoft.ca",
+    "description": "批量打印您的PayPal订单",
+    "revenue": "",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "Delta Outpost",
+    "url": "https://deltaoutpost.io/",
+    "description": "提供私有以太坊节点服务。",
+    "revenue": "$2000/mo",
+    "stack": [],
+    "year": 2022
+  },
+  {
+    "name": "Computer Engineering for Babies",
+    "url": "https://www.kickstarter.com/projects/computer-engineering-for-babies/computer-engineering-for-babies",
+    "description": "一本带有按钮和LED的简单书籍，用于演示不同的逻辑门。",
+    "revenue": "$250k (Kickstarter funding)",
+    "stack": [
+      "hardware",
+      "electronics",
+      "educational materials"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Tradytics",
+    "url": "https://tradytics.com",
+    "description": "一个基于数据分析技术为零售投资者生成交易想法的分析平台。",
+    "revenue": "$120k/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Colombian Coffee Farm",
+    "url": "",
+    "description": "A coffee farm in Colombia with growing production and profitability.",
+    "revenue": "$800/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Vlad.studio",
+    "url": "https://vlad.studio/",
+    "description": "A side project selling desktop wallpaper subscriptions with unlimited downloads, run by an artist in Russia.",
+    "revenue": "$400/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Labrador USB Oscilloscope",
+    "url": "https://espotek.com/labrador",
+    "description": "An open-source USB oscilloscope for hardware projects.",
+    "revenue": "$4k/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "5.15 climbing card game",
+    "url": "https://www.google.com/search?q=5.15+climbing+card+game",
+    "description": "A niche board game targeting rock climbers, with orders mailed out weekly.",
+    "revenue": "below minimum wage",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "inlets",
+    "url": "https://inlets.dev/",
+    "description": "一个自托管的开源项目，通过WebSocket和HTTP代理提供隧道服务，支持容器和Kubernetes，用于接收webhooks和TCP/HTTPS流量。",
+    "revenue": "个人层按月订阅，公司按年付费",
+    "stack": [
+      "WebSocket",
+      "HTTP proxy",
+      "Kubernetes",
+      "containers"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "e-commerce business portfolio",
+    "url": "",
+    "description": "A portfolio of e-commerce businesses acquired and scaled from a side project, now generating significant monthly profit.",
+    "revenue": "$30k/mo profit from the first business, plus ~$10k/mo from two others",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Filestash",
+    "url": "https://github.com/mickael-kerjean/filestash",
+    "description": "一个开源文件管理器前端，支持多种后端存储和身份验证，灵感来自Dropbox的HN发布。",
+    "revenue": "$600/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Drink Your Daily Water",
+    "url": "https://drinkyourdailywater.com/",
+    "description": "销售针对办公桌工作者的玻璃水壶，以提醒人们喝足够的水。",
+    "revenue": null,
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Wandering Labs",
+    "url": "https://wanderinglabs.com/",
+    "description": "A service that scrapes campground websites and alerts users about availability.",
+    "revenue": "more a month than the day job",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Oaka",
+    "url": "https://www.kickstarter.com/projects/oaka/oaka-the-worlds-healthiest-dress-shoes",
+    "description": "A healthier men's dress shoe designed for comfort and wellness.",
+    "revenue": "$100K in preorders",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Magic Lasso Adblock",
+    "url": "https://www.magiclasso.co/",
+    "description": "Safari广告拦截应用，适用于iOS和macOS，提供免费使用和可选专业订阅。",
+    "revenue": "> $500/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Escape Team",
+    "url": "https://www.escape-team.com",
+    "description": "一个可打印的逃脱房间游戏，用户下载并打印任务PDF，通过应用内购买解锁音频叙事和游戏玩法。",
+    "revenue": "$800/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Free Sudoku Sites",
+    "url": "https://fiendishsudoku.com",
+    "description": "一系列免费的数独网站，通过广告和捐赠自2005年以来每月赚取约1000美元。",
+    "revenue": "$1000/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Patreon",
+    "url": "https://patreon.com/shawwn",
+    "description": "A Patreon page where the creator receives monthly support from patrons, used to fund personal projects and purchases.",
+    "revenue": "$100/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Algeo",
+    "url": "https://play.google.com/store/apps/details?id=com.algeo.algeo",
+    "description": "一个有趣的Android应用程序，允许用户涉足前端和UI设计。",
+    "revenue": "$500/mo",
+    "stack": [
+      "Android"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Forward Email",
+    "url": "https://forwardemail.net",
+    "description": "一个电子邮件转发服务，允许用户自定义域名并转发邮件。",
+    "revenue": "several thousand per month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "VersionSQL",
+    "url": "https://www.versionsql.com/",
+    "description": "A tool that fills a gap in Microsoft tooling by providing version control for SQL databases.",
+    "revenue": "growing nicely now",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "fadel.io and podbuddy.app",
+    "url": "https://fadel.io/, https://podbuddy.app/",
+    "description": "Mac utilities and iOS apps, including Podbuddy.",
+    "revenue": "$4k/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "My Book Bag",
+    "url": "https://mybookbag.com.au/",
+    "description": "A social emotional development book and activity subscription service for primary school children.",
+    "revenue": "Not explicitly mentioned, but implied as low profit margins.",
+    "stack": [
+      "Stripe"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "3geonames",
+    "url": "https://api.3geonames.org",
+    "description": "一个免费的反向地理编码API，用户可通过GCP和AWS市场启动自己的服务器付费使用。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Marketing and Advertising Management SaaS",
+    "url": "",
+    "description": "A web-based application for managing marketing and advertising, built for a large company.",
+    "revenue": "$2500/mo",
+    "stack": [
+      "php",
+      "javascript"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Finance YouTube Channel and E-Learning Platform",
+    "url": "",
+    "description": "A finance-focused YouTube channel that has evolved into an e-learning company, offering career courses, a newsletter, and investment help sites, with YouTube as its primary marketing base.",
+    "revenue": "$30k/mo",
+    "stack": [
+      "ffmpeg"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "FreeBSD/EC2 platform",
+    "url": "https://www.patreon.com/cperciva",
+    "description": "一个为FreeBSD在EC2上提供支持的项目，最初源于Tarsnap的需求，但已扩展至更广泛的功能。",
+    "revenue": "$1373/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Semi-automated YouTube channel",
+    "url": null,
+    "description": "一个使用自动化软件制作AskReddit主题视频的半自动化YouTube频道",
+    "revenue": "$1k/month",
+    "stack": [
+      "custom automation software"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "webtoapp.design",
+    "url": "https://webtoapp.design",
+    "description": "将网站转换为应用程序的服务。",
+    "revenue": "$1500/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Homechart",
+    "url": "https://homechart.app",
+    "description": "一个集成了待办事项、日历、食谱、购物、预算等个人生产力功能的一体化应用，旨在解决应用疲劳问题，提供免费自托管或云服务。",
+    "revenue": null,
+    "stack": [
+      "Go",
+      "Typescript"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Reacher",
+    "url": "https://reacher.email",
+    "description": "一个用Rust编写的开源电子邮件验证API，可自托管，不使用电子邮件数据库。",
+    "revenue": "$10k ARR",
+    "stack": [
+      "Rust"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "approximated.app",
+    "url": "https://approximated.app",
+    "description": "一个API/IAAS服务，使连接终端用户的自定义域名到任何Web应用变得非常简单，提供自动SSL和专用反向代理集群。",
+    "revenue": null,
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "redacted",
+    "url": "link redacted",
+    "description": "A phone contract comparison website for the UK market.",
+    "revenue": "$500/mo",
+    "stack": [
+      "JavaScript",
+      "Node.js",
+      "Nginx",
+      "DigitalOcean",
+      "Let's Encrypt",
+      "Cloudflare",
+      "Postgres",
+      "Redis",
+      "MeiliSearch"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Pikaso",
+    "url": "https://pikaso.me",
+    "description": "让人们将推文发布到Instagram的工具",
+    "revenue": "",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Learn Programmatic SEO",
+    "url": "https://preetamnath.com/programmatic-seo",
+    "description": "An excellent intro to SEO for newcomers, teaching the programmatic SEO approach used by companies like Canva and Zapier to grow search traffic.",
+    "revenue": "$500-$600/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "game wiki site",
+    "url": "",
+    "description": "一个十年前创建的游戏维基网站，今年开始进行SEO优化，收入接近每月900美元，目标是达到每月1000美元，非常被动，几乎不需要维护。",
+    "revenue": "$900/mo",
+    "stack": [
+      "S3",
+      "Cloudflare"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Taskito",
+    "url": "https://taskito.io/",
+    "description": "A task management and organizer tool that evolved from a personal timeline journaling app.",
+    "revenue": "$2.5K MRR",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Twenty",
+    "url": "https://news.ycombinator.com/item?id=9543005",
+    "description": "A game that gained traction from a Show HN post and continues to generate revenue.",
+    "revenue": "still earning in that ballpark",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Stockevents",
+    "url": "https://stockevents.app",
+    "description": "一款具有独特事件视图的投资追踪应用。",
+    "revenue": "$5000/mo",
+    "stack": [
+      "flutter",
+      "go",
+      "postgres",
+      "kubernetes",
+      "gcp"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Codepip",
+    "url": "https://codepip.com",
+    "description": "制作编程游戏，如Flexbox Froggy，帮助学习编码。",
+    "revenue": null,
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Amazon affiliate websites",
+    "url": "https://www.hayksaakian.com",
+    "description": "总结热门产品的优点，帮助用户了解为什么人们可能喜欢它们。",
+    "revenue": "$500 per month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "unitprice.org and okaycup.com",
+    "url": "https://unitprice.org, https://okaycup.com",
+    "description": "Track Amazon prices for specific product sets to find the best price per unit, not always the largest quantity item.",
+    "revenue": "all from affiliate links",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Remote Leaf",
+    "url": "https://remoteleaf.com",
+    "description": "A platform for remote job listings and company profiles, aiming to connect remote employers with job seekers.",
+    "revenue": "$2k/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "serverthiefbait.com",
+    "url": "http://serverthiefbait.com",
+    "description": "A project built in a weekend and left untouched for over a year, yet still generates revenue.",
+    "revenue": "pretty well",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Blue Fox Music",
+    "url": "https://bluefoxmusic.com",
+    "description": "提供高质量、免版税音乐的网站。",
+    "revenue": "$800/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "micro ISP",
+    "url": "",
+    "description": "为约100家企业提供千兆互联网接入的微型互联网服务提供商，通过自服务平台实现自动化管理。",
+    "revenue": "$4.5k/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "TypeNine Ultimate T9 Style Keyboard",
+    "url": "https://itunes.apple.com/us/app/typenine-ultimate-t9-style-keyboard/id926008509?ls=1&mt=8",
+    "description": "一款为iOS设计的增强型多语言T9键盘，提供更好的打字体验。",
+    "revenue": "$600/mo",
+    "stack": [
+      "Swift"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Checkbot",
+    "url": "https://www.checkbot.io/",
+    "description": "Chrome扩展，用于批量检测网站的SEO、速度和安全问题，支持本地开发环境。",
+    "revenue": "",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Hacker Newsletter",
+    "url": "https://hackernewsletter.com",
+    "description": "每周整理Hacker News内容的新闻简报，最近推出了每日版本。",
+    "revenue": "",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Part Time Larry",
+    "url": "https://youtube.com/parttimelarry",
+    "description": "一个制作Python金融教程的YouTube频道",
+    "revenue": "$5K/month",
+    "stack": [
+      "Python"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "3D printing company",
+    "url": "",
+    "description": "一家3D打印公司，主要生产小型塑料夹子和连接器，面向收藏家，并在eBay上销售适配器和夹具。",
+    "revenue": "$2000/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "MetaSnake Store",
+    "url": "https://store.metasnake.com",
+    "description": "提供按需Python和数据科学课程，主要业务是企业培训。",
+    "revenue": "$2000/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "BeeLine Reader",
+    "url": "http://www.beelinereader.com",
+    "description": "A reading enhancement technology that generates passive income through licensing to companies like Blackboard, with B2C tools including browser extensions and iOS apps.",
+    "revenue": "substantial passive income",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "GreenBooks",
+    "url": "https://greenbooks.app",
+    "description": "一个简单的个人理财应用",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Relm",
+    "url": "https://www.relm.us",
+    "description": "一个为生活教练设计的浏览器内3D世界，提供音频和视频聊天，以游戏化方式促进健康、幸福和个人成长的探索与社交。",
+    "revenue": "$400/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "HSK Tests",
+    "url": "https://hsktests.com/",
+    "description": "A site providing study materials and practice tests for the HSK Chinese language exam, similar to TOEFL, with digital delivery.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Etsy store for illustrations",
+    "url": "https://www.etsy.com/shop/rithmdesignco/",
+    "description": "An Etsy store selling illustrations, with potential for growth if more time is invested.",
+    "revenue": "$500/mo (averaged over a year)",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Eclidus",
+    "url": "http://eclidus.com",
+    "description": "A Rubik's cube style game for mobile phones.",
+    "revenue": "sales died down, now free",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "sport result apps",
+    "url": "",
+    "description": "Sports result apps for iOS and Android, generating significant revenue.",
+    "revenue": "$100k/mo",
+    "stack": [
+      "iOS",
+      "Android"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Rows and Tables",
+    "url": "https://rowsandtables.com",
+    "description": "A card game designed to introduce SQL concepts.",
+    "revenue": "",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "AppMasker",
+    "url": "https://appmasker.com",
+    "description": "基于Caddy的反向代理即服务，轻松为Web应用添加自定义域名。",
+    "revenue": "",
+    "stack": [
+      "Caddy"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Golf Forecast",
+    "url": "https://www.golfforecast.co.uk",
+    "description": "A golf betting algorithm website that provides forecasts and subscriptions.",
+    "revenue": "$3-5k/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Automations.io",
+    "url": "https://automations.io",
+    "description": "A solo SaaS for workflows, playbooks, iPaaS, and task management, developed part-time/full-time over two years with plans to grow and stay bootstrapped.",
+    "revenue": null,
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Pins",
+    "url": "https://news.ycombinator.com/item?id=25881622",
+    "description": "A Pinboard.in client for iOS and macOS with a free trial and in-app purchase for full features.",
+    "revenue": "$15 per full unlock",
+    "stack": [
+      "iOS",
+      "iPadOS",
+      "macOS"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Newsy",
+    "url": "https://www.newsy.co",
+    "description": "一个工具，让你基于未使用的域名创建内容网站。",
+    "revenue": "",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Video/Photo/Livestream Production Company",
+    "url": "",
+    "description": "A video, photo, and livestream production company generating revenue through various projects.",
+    "revenue": "$6k to $12k per month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "pdf2qrcode.com",
+    "url": "https://pdf2qrcode.com",
+    "description": "A tool that converts PDF files to QR codes.",
+    "revenue": "$600/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Online Solitaire",
+    "url": "https://online-solitaire.com/",
+    "description": "一个在线纸牌游戏网站，提供单人纸牌游戏。",
+    "revenue": "$10.000+",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "TurnShift",
+    "url": "https://turnshift.app",
+    "description": "一个用于在Slack中分享任务、职责和管理轮班的应用程序。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Excel Converter",
+    "url": "https://excel-converter.com",
+    "description": "将Excel文件转换为HTML表格的工具。",
+    "revenue": "",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Travi",
+    "url": "https://apps.apple.com/us/app/travi-your-trip-planned/id1536647608",
+    "description": "帮助用户从可信的当地居民那里获取活动、必去地点和可做之事的资讯，并自动将选定的活动安排成行程格式。",
+    "revenue": null,
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Weekly Robotics",
+    "url": "https://weeklyrobotics.com/",
+    "description": "A newsletter about robotics.",
+    "revenue": "$600 a month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Medicaid Case Management and Billing System",
+    "url": "",
+    "description": "A case management and billing system designed for Medicaid providers, requiring significant initial effort but minimal maintenance for ongoing features.",
+    "revenue": "$3k/month annualized",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Nodewood",
+    "url": "https://nodewood.com/",
+    "description": "一个SaaS启动套件/样板，提供无限应用许可证。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Landscaping Company",
+    "url": "",
+    "description": "A landscaping business started in July, providing capital equipment and management, with a partner handling bids and jobs.",
+    "revenue": "$10,000/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Linguakit",
+    "url": "http://linguakit.com",
+    "description": "一个多语言自然语言处理API的前端MVP，通过AdSense广告产生收入。",
+    "revenue": "$400/month",
+    "stack": [
+      "react"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "getgeoapi",
+    "url": "https://getgeoapi.com",
+    "description": "一个提供地理位置数据和货币转换API的服务",
+    "revenue": "$1000-$1800/mo",
+    "stack": [
+      "Django",
+      "Digital Ocean",
+      "Stripe",
+      "RapidAPI"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Hanami.run / Mailwip.com",
+    "url": "https://mailwip.com",
+    "description": "An email forwarding service with advanced features like SMTP, IMAP via Maillog, API integration, webhooks, and complex routing.",
+    "revenue": null,
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Boomla",
+    "url": "https://boomla.com/",
+    "description": "免费的无代码网站构建器和网络应用平台，采用独特的覆盖操作系统方法简化开发",
+    "revenue": "not collected for now (future revenue from domain registrar)",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Fitloop",
+    "url": "https://fitloop.app",
+    "description": "一个帮助初学者通过YouTube视频学习自重健身和锻炼的应用程序。",
+    "revenue": "$1000/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Airsoft Bazaar",
+    "url": "https://www.airsoftbazaar.com",
+    "description": "一个面向气枪装备的C2C市场，用户可买卖复制品、配件和工具。",
+    "revenue": "€600/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Self-published Science Fiction",
+    "url": "",
+    "description": "A side project involving self-publishing science fiction books, where income fluctuates but increases with each new release.",
+    "revenue": "$500/mo (fluctuating)",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Vue.js courses on Udemy",
+    "url": "https://www.udemy.com/user/lachlan-miller-4/",
+    "description": "Vue.js课程在Udemy上销售",
+    "revenue": "$500/mo",
+    "stack": [
+      "Vue.js"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "KyeFox Patreon",
+    "url": "https://www.patreon.com/kyefox",
+    "description": "提供独特且实用的音乐制作包和预设，区别于市场上常见的批量预设销售。",
+    "revenue": "$110/month",
+    "stack": [
+      "Serum",
+      "Pigments",
+      "wavetable synthesis",
+      "analog emulation",
+      "sample/granular synthesis"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "UrbEmSketches",
+    "url": "https://www.etsy.com/shop/UrbEmSketches",
+    "description": "一个Etsy商店，销售定制水彩房屋肖像和各种印刷品。",
+    "revenue": null,
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Castup",
+    "url": "https://useCastup.com",
+    "description": "A podcast editing startup launched in January 2019.",
+    "revenue": "$500/month profit",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Varianto25",
+    "url": "https://varianto25.com/",
+    "description": "An e-commerce store selling merchandise for developers.",
+    "revenue": "$400/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "codereview.doctor",
+    "url": "http://codereview.doctor/",
+    "description": "一个静态分析SaaS，可检测错误和代码异味，并在GitHub PR中直接提供修复建议，无需切换上下文，只需点击提交即可继续工作。",
+    "revenue": null,
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "OnlineOrNot",
+    "url": "https://onlineornot.com/",
+    "description": "一个用于JavaScript应用（也支持普通网站）的正常运行时间检查器。",
+    "revenue": "$300/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "ExtraStatic",
+    "url": "ExtraStatic.com",
+    "description": "一个静态博客托管网站",
+    "revenue": "nearing 50 paid monthly subscribers",
+    "stack": [
+      "GitLab"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "OldSchool Runescape Market Bot",
+    "url": "https://discord.com/",
+    "description": "一个Discord机器人，用于分析OldSchool Runescape游戏的市场价格，提供实时价格、图表和价格波动通知。",
+    "revenue": "$1k/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Fityou",
+    "url": "https://apps.apple.com/am/app/fityou-lose-weight-in-30-days/id1551994061",
+    "description": "A fitness app for iOS and Android to help lose weight in 30 days.",
+    "revenue": "$200/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Server and infrastructure management service for nonprofits and small businesses",
+    "url": "",
+    "description": "为成长超出托管主机能力但收入不足以雇佣全职系统管理员的非营利组织、生活方式企业和爱好网站提供服务器及其他虚拟基础设施管理服务",
+    "revenue": "$2K/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "ChessCraft",
+    "url": "https://www.chesscraft.ca",
+    "description": "一个国际象棋变体AI沙盒，支持在线游戏和分享，采用赞助软件内购模式。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "PancakeSwap Pools",
+    "url": "https://pancakeswap.finance/pools",
+    "description": "A decentralized finance platform for yield farming and staking, allowing users to earn returns on cryptocurrency investments.",
+    "revenue": "$460/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "EasyTeeGolf",
+    "url": "https://easyteegolf.com/",
+    "description": "一个让高尔夫球场预订开球时间并通过Square处理支付的简单应用",
+    "revenue": "less than $1K MRR",
+    "stack": [
+      "Square"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Airbnb Fee Management Software",
+    "url": "",
+    "description": "A software that handles early and late fee charges for large Airbnb hosts.",
+    "revenue": "$1200/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Community Questions",
+    "url": "https://questions-answers-community.com/",
+    "description": "一个用于Confluence Cloud的问答插件，类似于团队版Stack Overflow，适用于使用Atlassian套件的公司。",
+    "revenue": "$1000/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "VATComply",
+    "url": "https://vatcomply.com",
+    "description": "一个完整的增值税合规API产品，集成了地理编码、汇率显示和增值税号码验证功能。",
+    "revenue": "",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "classplacer.com",
+    "url": "classplacer.com",
+    "description": "帮助小学进行学生分班的算法平台，涉及有趣的数学问题。",
+    "revenue": "$500/month or $6k per summer",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Unison Hosting",
+    "url": "https://unisonhosting.com",
+    "description": "A Discourse hosting company",
+    "revenue": "$2k/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Writing for Software Developers",
+    "url": "https://philipkiely.com/wfsd/",
+    "description": "A book launched in 2020 that continues to generate residual sales, reaching new readers with minimal marketing.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "ahhlife.com",
+    "url": "https://ahhlife.com",
+    "description": "一个每日日记服务，通过回复提示邮件来记录生活，是OhLife的克隆版。",
+    "revenue": "$500 per month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "CurrentsAPI",
+    "url": "https://currentsapi.services/",
+    "description": "一个新闻爬虫服务，提供API访问新闻数据。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Krok.link",
+    "url": "https://krok.link/",
+    "description": "一个链接管理系统，用于集中管理所有链接，可在社交媒体中作为生物链接使用，避免每次发布非可用链接。",
+    "revenue": "$300/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "timestamp.online",
+    "url": "https://timestamp.online/",
+    "description": "一个用于时间戳和日期之间转换的网站。",
+    "revenue": "$100/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "ReviewSignal",
+    "url": "https://ReviewSignal.com",
+    "description": "A web hosting review site that uses sentiment analysis on Twitter data to avoid fake reviews by leveraging large datasets.",
+    "revenue": "revenue has gone down",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "bestinclassiosapp.com",
+    "url": "bestinclassiosapp.com",
+    "description": "A five-book series on iOS development that has generated significant revenue since May.",
+    "revenue": "$100,000k since May",
+    "stack": [
+      "iOS"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "usukhbayar-batbayar's apps",
+    "url": "https://apps.apple.com/mn/developer/usukhbayar-batbayar/id1532655863",
+    "description": "A collection of apps by the developer, generating small revenue.",
+    "revenue": "$8/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Bankfeeds.io",
+    "url": "https://bankfeeds.io",
+    "description": "将Stripe和其他支付处理器的数据同步到Xero，为独立开发者和小型企业自动化记账。",
+    "revenue": "$2.5k/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Gematrix.org",
+    "url": "https://www.gematrix.org",
+    "description": "A Gematria calculator for different types of Gematria values.",
+    "revenue": "$500/mo",
+    "stack": [
+      "MySQL"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Italian Telegram Bot",
+    "url": null,
+    "description": "A widely used Telegram bot in Italy that generates passive income through highly targeted advertising, focusing on one monthly ad campaign to reach a large user base.",
+    "revenue": "~0.012 euros per user reached",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Jammed",
+    "url": "https://jammed.app",
+    "description": "音乐排练室预订软件",
+    "revenue": "£400/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Medical Supplies E-commerce",
+    "url": "",
+    "description": "One-man e-commerce business selling medical supplies.",
+    "revenue": "$4k/month",
+    "stack": [
+      "iPhone",
+      "Shopify",
+      "Instagram",
+      "PayPal",
+      "Google Sheets",
+      "Gmail"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Decentraland NFT",
+    "url": "https://decentraland.org",
+    "description": "An NFT purchased on Decentraland generating monthly revenue.",
+    "revenue": "$500/mo",
+    "stack": [
+      "Ethereum",
+      "NFT",
+      "Decentraland"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "inspect.dev",
+    "url": "http://inspect.dev",
+    "description": "A developer tool for macOS, Linux, and Windows to inspect and debug mobile web apps and websites on iOS devices.",
+    "revenue": "$1000+ MRR",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "CareerSwitchToCoding.com",
+    "url": "https://CareerSwitchToCoding.com",
+    "description": "帮助人们转向编程职业的网站，通过付费写作和书籍销售获得收入。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Dynamo for Mac",
+    "url": "https://dynamoformac.com/",
+    "description": "A video speed extension for Safari that also allows skipping YouTube ads.",
+    "revenue": "$1000 a month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Mailboxfiler",
+    "url": "https://mailboxfiler.com/",
+    "description": "A side project for organizing emails.",
+    "revenue": "close to $500/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "SyncX Colors",
+    "url": "https://syncxcolors.xyz/",
+    "description": "一个完全动画化的链上以太坊NFT，允许所有者用不同颜色重新制作代币。",
+    "revenue": "$20k",
+    "stack": [
+      "Ethereum",
+      "NFT"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Habit Zap",
+    "url": "https://www.habitzap.com",
+    "description": "一个类似番茄工作法播放列表的生产力应用。",
+    "revenue": "starting to slowly grow",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "gettoknowapp",
+    "url": "https://gettoknowapp.com",
+    "description": "一个有趣的Slack问答机器人，用于玩转Elixir技术。",
+    "revenue": "",
+    "stack": [
+      "Elixir"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "NoisyCamp",
+    "url": "https://noisycamp.com",
+    "description": "A web app to help musicians find and book places to play music.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Construction Site Business iOS App",
+    "url": "",
+    "description": "An iOS app with backend for construction site businesses.",
+    "revenue": "$700/month",
+    "stack": [
+      "iOS",
+      "Backend"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Anvere",
+    "url": "https://anvere.net",
+    "description": "An Algolia alternative launching soon.",
+    "revenue": "$700",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "JustRead",
+    "url": "https://justread.link/",
+    "description": "一个可定制、功能丰富的阅读模式工具。",
+    "revenue": "around that",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "CSSBattle",
+    "url": "https://cssbattle.dev/",
+    "description": "一个CSS编码挑战平台，让用户通过编写CSS代码来复制目标图像。",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "TabbyData",
+    "url": "https://www.tabbydata.com",
+    "description": "A data-related service or product launched this year.",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Slotted",
+    "url": "https://slotted.co",
+    "description": "一个用于安排预约的应用，如办公时间、开放麦克风、披萨订购等。",
+    "revenue": "",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Bruzu.com",
+    "url": "https://Bruzu.com",
+    "description": "一个用于即时生成图像的酷API。",
+    "revenue": "$204/m",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Fonts for Stories Reels Art",
+    "url": "https://apps.apple.com/us/app/fonts-for-stories-reels-art/id1532873338",
+    "description": "一个iOS键盘应用，提供自定义字体，用于故事、卷轴和艺术创作。",
+    "revenue": "$20/month",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "Bitcoin Mining Basement Setup",
+    "url": "",
+    "description": "在自家地下室使用两台Antminer S17+ 73T/hs矿机进行比特币挖矿，每月产生约1000美元利润。",
+    "revenue": "$1000/mo",
+    "stack": [
+      "Antminer S17+",
+      "Bitcoin mining hardware"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "New Business Monitor",
+    "url": "https://newbusinessmonitor.co.uk/",
+    "description": "A B2B lead generation and marketing SaaS for the UK market, providing daily-updated search and filter capabilities through millions of Companies House records.",
+    "revenue": null,
+    "stack": [
+      "Haskell"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "Cryptocurrency Mining Setup",
+    "url": "",
+    "description": "A home-based cryptocurrency mining operation using various ASIC and GPU miners to generate revenue and heat the house.",
+    "revenue": "$100/day profit after electricity",
+    "stack": [
+      "L3++",
+      "AvalonMiner 1246",
+      "RTX 3080",
+      "RTX 3090",
+      "GPU grow tent",
+      "HVAC system"
+    ],
+    "year": 2021
+  },
+  {
+    "name": "alovez",
+    "url": "https://www.alovez.com",
+    "description": "A website and store for Windows apps, generating revenue.",
+    "revenue": "$550",
+    "stack": [],
+    "year": 2021
+  },
+  {
+    "name": "WebRender",
+    "url": "https://webrender.io/",
+    "description": "A quick and easy solution for server-side rendering (SSR) using Cloudflare Workers to serve pre-rendered pages to crawlers while passing regular traffic through.",
+    "revenue": "enough to keep the lights on",
+    "stack": [
+      "Cloudflare Workers"
+    ],
+    "year": 2020
+  },
+  {
+    "name": "Productized SaaS SEO Business",
+    "url": null,
+    "description": "A productized SaaS offering SEO, content, and graphic design services at a fixed monthly rate for SMEs.",
+    "revenue": "$2500",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "Google Search API",
+    "url": "https://goog.io",
+    "description": "一个Google搜索API服务，最初在RapidAPI上发布，现在正在迁移到独立网站。",
+    "revenue": "$6k+ total since 2020",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "violinist.io",
+    "url": "https://violinist.io",
+    "description": "A service for automatically updating PHP (Composer) dependencies, built to solve a personal need.",
+    "revenue": "profit after server costs",
+    "stack": [
+      "PHP",
+      "Composer"
+    ],
+    "year": 2020
+  },
+  {
+    "name": "Egnastickers",
+    "url": "https://egnastickers.se",
+    "description": "An online sticker business selling through Etsy and a dedicated website, with machinery acquired from a print shop auction.",
+    "revenue": "€1k in sales for October on Etsy",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "AlgoDaily",
+    "url": "https://algodaily.com",
+    "description": "面向初学者的技术面试课程，通过视觉化方式提供易于理解的学习体验，类似于LeetCode但提供更多指导。",
+    "revenue": "$3k MRR",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "Bullish Email",
+    "url": "https://bullish.email",
+    "description": "一个完全自动化和被动的股票市场通讯",
+    "revenue": "",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "Castup",
+    "url": "https://www.useCastup.com",
+    "description": "提供产品化服务的播客编辑，利用软件将编辑时间减少70%，以较低价格提供高质量服务。",
+    "revenue": "",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "UserTrack",
+    "url": "https://www.usertrack.net",
+    "description": "一个自托管的分析平台",
+    "revenue": "$1k-$2k/month",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "Panelbear",
+    "url": "https://panelbear.com",
+    "description": "一个私有的网站分析套件，提供比Plausible、Fathom或Simple Analytics更完整的工具集，专注于简单易用和自动化。",
+    "revenue": "Not yet at $500 MRR",
+    "stack": [
+      "Python",
+      "React",
+      "Postgres",
+      "Clickhouse",
+      "Redis",
+      "Kubernetes",
+      "Terraform",
+      "Kustomize",
+      "AWS"
+    ],
+    "year": 2020
+  },
+  {
+    "name": "Tune Transcriber",
+    "url": "https://www.tunetranscriber.com/",
+    "description": "A tool for transcribing music or audio, accidentally gaining high search ranking for slow down mp3 keywords and generating passive income.",
+    "revenue": "a small bit of cash each month",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "bufr.sh",
+    "url": "https://bufr.sh",
+    "description": "为现有客户所需功能而构建的服务",
+    "revenue": "",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "JoyBuddies and OpenSimWorld",
+    "url": "https://joybuddies.com, https://opensimworld.com/",
+    "description": "A social gaming community for middle-aged ladies and a virtual worlds community.",
+    "revenue": "",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "Sitesauce",
+    "url": "https://sitesauce.app",
+    "description": "一个简单的方法，将您的网站或博客静态化，无需担心插件或特定技术栈的替代方案。",
+    "revenue": "",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "Checkbot",
+    "url": "https://www.checkbot.io/",
+    "description": "一个Chrome扩展，批量检查网站页面的常见SEO、速度和安全性问题。",
+    "revenue": "Free and paid version",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "gosourcingwise.com",
+    "url": "https://gosourcingwise.com",
+    "description": "A Quickbooks Online enhancement that enables companies to request quotations from suppliers.",
+    "revenue": "",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "buyfunnyaprons.com",
+    "url": "https://buyfunnyaprons.com/",
+    "description": "一个完全在线的按需打印商店，销售有趣的围裙。",
+    "revenue": "",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "LogMyHours",
+    "url": "https://logmyhours.com",
+    "description": "时间跟踪和发票软件。",
+    "revenue": "$1K/mo",
+    "stack": [],
+    "year": 2020
+  },
+  {
+    "name": "Fine Word Clocks",
+    "url": "www.finewordclocks.com",
+    "description": "A hobby project producing and selling refined word clocks in low volume, made in a basement workshop.",
+    "revenue": "low volume sales",
+    "stack": [
+      "CNC machine (Probotix Asteroid)"
+    ],
+    "year": 2019
+  },
+  {
+    "name": "diskprices.com and battprices.com",
+    "url": "https://diskprices.com, https://battprices.com",
+    "description": "A price comparison website for hard drives and batteries, earning revenue through Amazon affiliate fees.",
+    "revenue": ">$500/mo",
+    "stack": [],
+    "year": 2019
+  },
+  {
+    "name": "Amazing Marvin",
+    "url": "https://amazingmarvin.com/",
+    "description": "A productivity tool that has gained traction despite competition, showing there's always room for improvement.",
+    "revenue": "Not explicitly mentioned",
+    "stack": [],
+    "year": 2019
+  },
+  {
+    "name": "Sun Locator",
+    "url": "http://www.sunlocator.com",
+    "description": "一款帮助摄影师和户外爱好者预测太阳位置及山地阴影的Android应用。",
+    "revenue": "a bit of spending money on the side",
+    "stack": [
+      "Android"
+    ],
+    "year": 2019
+  },
+  {
+    "name": "browsenodes.com",
+    "url": "https://www.browsenodes.com",
+    "description": "提供亚马逊产品分类的CSV文件下载服务。",
+    "revenue": "$500+ in first month",
+    "stack": [],
+    "year": 2019
+  },
+  {
+    "name": "Lignin and Light",
+    "url": "http://ligninandlight.com",
+    "description": "一个销售激光切割工艺品的Etsy商店",
+    "revenue": null,
+    "stack": [],
+    "year": 2019
+  },
+  {
+    "name": "SmartEdit",
+    "url": "https://www.smart-edit.com/",
+    "description": "一款面向创意作家的Microsoft Word插件。",
+    "revenue": "more than $500 a month",
+    "stack": [],
+    "year": 2019
+  },
+  {
+    "name": "Checkbot for Chrome",
+    "url": "https://www.checkbot.io",
+    "description": "Checks hundreds of pages on your website for SEO, speed, and security issues like broken links, duplicate content, and invalid code.",
+    "revenue": null,
+    "stack": [],
+    "year": 2019
+  },
+  {
+    "name": "Playing in a band",
+    "url": "",
+    "description": "A music band side project that earns variable income from gigs.",
+    "revenue": "$4K to $6K per year",
+    "stack": [
+      "Electro-Voice Evolve system",
+      "bluetooth",
+      "phone app"
+    ],
+    "year": 2019
+  },
+  {
+    "name": "ZeroMac",
+    "url": "https://zeromac.com",
+    "description": "A hosting service for Mac VMs with hourly billing.",
+    "revenue": "Not specified, but mentions margins less lucrative than traditional software startups.",
+    "stack": [],
+    "year": 2019
+  },
+  {
+    "name": "Adpexity",
+    "url": "https://adpexity.com",
+    "description": "A platform for advertising and monetization, generating significant monthly revenue.",
+    "revenue": "$200,000 a month",
+    "stack": [],
+    "year": 2019
+  },
+  {
+    "name": "wanderandponder",
+    "url": "wanderandponder.com",
+    "description": "一个管理技术和商业方面的网站，专注于旅行和思考内容。",
+    "revenue": "$30/mo",
+    "stack": [],
+    "year": 2019
+  },
+  {
+    "name": "Reqloot",
+    "url": "https://reqloot.com",
+    "description": "一个在线加密货币游戏，接近每月产生该收入。",
+    "revenue": "接近每月产生该收入",
+    "stack": [],
+    "year": 2019
+  },
+  {
+    "name": "useCastup.com",
+    "url": "https://useCastup.com",
+    "description": "提供专业播客编辑服务，起价为每发布分钟40美分。",
+    "revenue": null,
+    "stack": [],
+    "year": 2019
+  },
+  {
+    "name": "Traffic Ticker",
+    "url": "https://trafficticker.com",
+    "description": "A side project that the husband doesn't talk about much, possibly related to traffic or analytics.",
+    "revenue": "",
+    "stack": [],
+    "year": 2019
+  }
+]
