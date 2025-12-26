@@ -24,7 +24,7 @@ const YEARS: Record<number, string> = {
   2017: "15148804",
 };
 
-const DATA_FILE = path.join(process.cwd(), "data/projects.json");
+const DATA_DIR = path.join(process.cwd(), "data");
 
 interface Project {
   name: string;
@@ -33,6 +33,7 @@ interface Project {
   revenue: string;
   stack: string[];
   year: number;
+  author: string;
   hn_discussion_url?: string;
   comment_count?: number;
 }
@@ -101,6 +102,7 @@ async function processYear(year: number, threadId: string): Promise<Project[]> {
           const project: Project = {
             ...result,
             year,
+            author: comment.by,
             hn_discussion_url: `https://news.ycombinator.com/item?id=${kidId}`,
             comment_count: comment.kids?.length || 0,
           };
@@ -128,31 +130,41 @@ async function processYear(year: number, threadId: string): Promise<Project[]> {
 
 async function main() {
   console.log("Starting crawl with DeepSeek AI...");
-  console.log("This will process ALL comments from all years.");
+  console.log("This will process comments and save each year to a separate file.");
 
-  let allProjects: Project[] = [];
+  const updateYear = process.env.UPDATE_YEAR
+    ? parseInt(process.env.UPDATE_YEAR)
+    : null;
 
   // Sort years descending to process newest first
-  const sortedYears = Object.keys(YEARS)
+  let sortedYears = Object.keys(YEARS)
     .map(Number)
     .sort((a, b) => b - a);
+
+  if (updateYear) {
+    if (!YEARS[updateYear]) {
+      console.error(`Year ${updateYear} is not defined in YEARS configuration.`);
+      process.exit(1);
+    }
+    sortedYears = [updateYear];
+    console.log(`Updating year ${updateYear} only.`);
+  }
 
   for (const year of sortedYears) {
     const threadId = YEARS[year];
     const yearProjects = await processYear(year, threadId);
-    allProjects = [...allProjects, ...yearProjects];
-
-    // Save intermediate results after each year
-    await fs.mkdir(path.dirname(DATA_FILE), { recursive: true });
-    await fs.writeFile(DATA_FILE, JSON.stringify(allProjects, null, 2));
+    
+    // Save year data specifically
+    const yearFile = path.join(DATA_DIR, `projects-${year}.json`);
+    await fs.mkdir(DATA_DIR, { recursive: true });
+    await fs.writeFile(yearFile, JSON.stringify(yearProjects, null, 2));
+    
     console.log(
-      `Saved intermediate results: ${allProjects.length} total projects\n`
+      `Saved results for ${year}: ${yearProjects.length} projects to ${yearFile}\n`
     );
   }
 
   console.log(`\n✅ Crawl completed!`);
-  console.log(`Total projects extracted: ${allProjects.length}`);
-  console.log(`Data saved to: ${DATA_FILE}`);
 }
 
 main().catch(console.error);

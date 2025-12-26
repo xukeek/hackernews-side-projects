@@ -1,0 +1,175 @@
+[
+  {
+    "name": "Fine Word Clocks",
+    "url": "www.finewordclocks.com",
+    "description": "A hobby project producing and selling refined word clocks in low volume, originally started as gifts and now sold through a website.",
+    "revenue": "low volume sales",
+    "stack": [
+      "CNC machine (Probotix Asteroid)"
+    ],
+    "year": 2019,
+    "author": "matt_the_bass",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20905395",
+    "comment_count": 1
+  },
+  {
+    "name": "diskprices.com and battprices.com",
+    "url": "https://diskprices.com, https://battprices.com",
+    "description": "Price comparison websites for computer drives and batteries that generate Amazon affiliate revenue.",
+    "revenue": ">$500/mo",
+    "stack": [],
+    "year": 2019,
+    "author": "synack",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20899932",
+    "comment_count": 9
+  },
+  {
+    "name": "Amazing Marvin",
+    "url": "https://amazingmarvin.com/",
+    "description": "A productivity tool that has gained traction despite competition.",
+    "revenue": "Not specified",
+    "stack": [],
+    "year": 2019,
+    "author": "marktucker",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20901813",
+    "comment_count": 1
+  },
+  {
+    "name": "Sun Locator",
+    "url": "http://www.sunlocator.com",
+    "description": "An Android app that helps photographers and outdoorsy people predict the sun's position and shadows from mountains and hills.",
+    "revenue": "makes a bit of spending money on the side",
+    "stack": [
+      "Android"
+    ],
+    "year": 2019,
+    "author": "folli",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20899942",
+    "comment_count": 1
+  },
+  {
+    "name": "BrowseNodes",
+    "url": "https://www.browsenodes.com",
+    "description": "A tool to download Amazon product categories as CSV files.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2019,
+    "author": "QueensGambit",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20900491",
+    "comment_count": 3
+  },
+  {
+    "name": "Lignin and Light",
+    "url": "http://ligninandlight.com",
+    "description": "An Etsy store selling laser-cut crafts.",
+    "revenue": null,
+    "stack": [],
+    "year": 2019,
+    "author": "dangrossman",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20902019",
+    "comment_count": 2
+  },
+  {
+    "name": "SmartEdit",
+    "url": "https://www.smart-edit.com/",
+    "description": "A Microsoft Word Add-In for creative writers.",
+    "revenue": "more than $500 a month",
+    "stack": [],
+    "year": 2019,
+    "author": "DarrenDev",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20902348",
+    "comment_count": 0
+  },
+  {
+    "name": "Checkbot for Chrome",
+    "url": "https://www.checkbot.io",
+    "description": "A Chrome extension that checks hundreds of pages on a website for SEO, speed, and security issues like broken links, duplicate content, and invalid code.",
+    "revenue": null,
+    "stack": [],
+    "year": 2019,
+    "author": "seanwilson",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20906400",
+    "comment_count": 0
+  },
+  {
+    "name": "Band",
+    "url": "",
+    "description": "A side project playing in a band that earns revenue from gigs and sound equipment upgrades.",
+    "revenue": "$4K to $6K per year",
+    "stack": [
+      "Electro-Voice Evolve system",
+      "bluetooth",
+      "phone app"
+    ],
+    "year": 2019,
+    "author": "blisterpeanuts",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20934331",
+    "comment_count": 0
+  },
+  {
+    "name": "ZeroMac",
+    "url": "https://zeromac.com",
+    "description": "A hosting service for Mac VMs charging by the hour.",
+    "revenue": "Not specified",
+    "stack": [],
+    "year": 2019,
+    "author": "scottjg",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20901704",
+    "comment_count": 2
+  },
+  {
+    "name": "Adpexity",
+    "url": "https://adpexity.com",
+    "description": "A platform for advertising and monetization, generating significant monthly revenue.",
+    "revenue": "$200,000 a month",
+    "stack": [],
+    "year": 2019,
+    "author": "entrepre1999",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20902171",
+    "comment_count": 2
+  },
+  {
+    "name": "wanderandponder",
+    "url": "wanderandponder.com",
+    "description": "A website managed for tech/business purposes, generating revenue through Brave tips and nanoinfluencer gigs.",
+    "revenue": "$30/mo",
+    "stack": [],
+    "year": 2019,
+    "author": "AwesomeFaic",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20918663",
+    "comment_count": 0
+  },
+  {
+    "name": "Reqloot",
+    "url": "https://reqloot.com",
+    "description": "An online cryptocurrency game that is close to generating revenue per month.",
+    "revenue": "~$100-150 daily active players (revenue not explicitly stated, but implied close to generating per month)",
+    "stack": [],
+    "year": 2019,
+    "author": "flignats",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20930370",
+    "comment_count": 0
+  },
+  {
+    "name": "useCastup",
+    "url": "useCastup.com",
+    "description": "Professional podcast editing services starting at 40 cents per published minute.",
+    "revenue": "Not specified",
+    "stack": [],
+    "year": 2019,
+    "author": "anmolparashar",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20902388",
+    "comment_count": 0
+  },
+  {
+    "name": "Traffic Ticker",
+    "url": "https://trafficticker.com",
+    "description": "A website for tracking traffic metrics.",
+    "revenue": null,
+    "stack": [],
+    "year": 2019,
+    "author": "shrutipathak",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=20912869",
+    "comment_count": 0
+  }
+]

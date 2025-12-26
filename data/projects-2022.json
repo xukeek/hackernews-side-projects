@@ -1,0 +1,195 @@
+[
+  {
+    "name": "KTool",
+    "url": "https://ktool.io",
+    "description": "A tool that forwards web articles, newsletters, and RSS feeds to your Kindle to help reduce screen time and combat doom-scrolling.",
+    "revenue": "$580 MRR",
+    "stack": [],
+    "year": 2022,
+    "author": "longnguyen",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34195032",
+    "comment_count": 2
+  },
+  {
+    "name": "MessageDuck",
+    "url": "https://www.messageduck.com",
+    "description": "A solution for SMS data marketing, built as an alternative to pricey options like MailCharts SMS.",
+    "revenue": null,
+    "stack": [],
+    "year": 2022,
+    "author": "machilin",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34363424",
+    "comment_count": 0
+  },
+  {
+    "name": "OnlineOrNot",
+    "url": "https://onlineornot.com",
+    "description": "A hosted status page with built-in uptime monitoring for websites, web apps, and APIs.",
+    "revenue": null,
+    "stack": [],
+    "year": 2022,
+    "author": "rozenmd",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34194508",
+    "comment_count": 1
+  },
+  {
+    "name": "Junior to Senior",
+    "url": "https://www.holloway.com/b/junior-to-senior",
+    "description": "A book helping software engineers transition from junior to senior roles.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2022,
+    "author": "dglass",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34191462",
+    "comment_count": 2
+  },
+  {
+    "name": "Velomapa",
+    "url": "https://velomapa.pl",
+    "description": "A website with cycling-related content like routes, races, and photos in Poland.",
+    "revenue": "$1000/month",
+    "stack": [],
+    "year": 2022,
+    "author": "caspg",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34195173",
+    "comment_count": 2
+  },
+  {
+    "name": "Checkvisaslots.com",
+    "url": "https://checkvisaslots.com",
+    "description": "A Chrome extension for checking visa slots, recognized as one of Google's favorite extensions in 2022.",
+    "revenue": "Not specified",
+    "stack": [],
+    "year": 2022,
+    "author": "saradhi",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34190657",
+    "comment_count": 1
+  },
+  {
+    "name": "Gaintrain",
+    "url": "https://gaintrainapp.com/",
+    "description": "A meal planning app designed to help users optimize their muscle gain.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2022,
+    "author": "middleman90",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34195615",
+    "comment_count": 0
+  },
+  {
+    "name": "Vlad Studio Wallpapers",
+    "url": "https://vlad.studio/",
+    "description": "A service selling access to hand-drawn wallpapers created over the last 20+ years.",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2022,
+    "author": "vladstudio",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34200908",
+    "comment_count": 1
+  },
+  {
+    "name": "Mailsac",
+    "url": "https://mailsac.com",
+    "description": "A disposable email service for quality assurance and development teams.",
+    "revenue": null,
+    "stack": [
+      "Node.js",
+      "MongoDB",
+      "Golang",
+      "Postgres",
+      "custom microservices"
+    ],
+    "year": 2022,
+    "author": "ruffrey",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34191930",
+    "comment_count": 3
+  },
+  {
+    "name": "Pepchecker",
+    "url": "https://pepchecker.com",
+    "description": "An API and dashboard for searching politically exposed people and monitoring sanctions.",
+    "revenue": null,
+    "stack": [],
+    "year": 2022,
+    "author": "eerikkivistik",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34194716",
+    "comment_count": 0
+  },
+  {
+    "name": "MesoSim",
+    "url": "https://portal.deltaray.io",
+    "description": "An advanced options backtester for SPX, BTCUSD, and ETHUSD options to develop and validate trading strategies.",
+    "revenue": null,
+    "stack": [],
+    "year": 2022,
+    "author": "lockdown22",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34194400",
+    "comment_count": 0
+  },
+  {
+    "name": "Sleeve",
+    "url": "https://replay.software/sleeve",
+    "description": "A 'now playing' desktop accessory for the Mac.",
+    "revenue": "$700/mo",
+    "stack": [],
+    "year": 2022,
+    "author": "sgottit",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34196005",
+    "comment_count": 1
+  },
+  {
+    "name": "ValidBot",
+    "url": "https://www.validbot.com",
+    "description": "A website to test other websites for valid configurations, similar to Chrome Lighthouse but with automated monitoring and alerting capabilities.",
+    "revenue": null,
+    "stack": [],
+    "year": 2022,
+    "author": "offsky",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34197885",
+    "comment_count": 1
+  },
+  {
+    "name": "nitrohire.co",
+    "url": "https://nitrohire.co",
+    "description": "A reference checking tool for hiring managers.",
+    "revenue": "a few $100s",
+    "stack": [],
+    "year": 2022,
+    "author": "dmundhra",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34203500",
+    "comment_count": 0
+  },
+  {
+    "name": "Inveester",
+    "url": "https://www.inveester.com",
+    "description": "A stock portfolio tracker mobile app with a focus on dividends and passive income.",
+    "revenue": "$100 MRR",
+    "stack": [],
+    "year": 2022,
+    "author": "tmms",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34198140",
+    "comment_count": 1
+  },
+  {
+    "name": "Breeze Order Manager",
+    "url": "http://breeze.humbersoft.ca",
+    "description": "A tool for batch printing PayPal orders.",
+    "revenue": null,
+    "stack": [],
+    "year": 2022,
+    "author": "gregohumber",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34192944",
+    "comment_count": 0
+  },
+  {
+    "name": "Delta Outpost",
+    "url": "https://deltaoutpost.io/",
+    "description": "A service providing private Ethereum nodes.",
+    "revenue": "$2000/mo",
+    "stack": [],
+    "year": 2022,
+    "author": "throw298340",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=34199490",
+    "comment_count": 1
+  }
+]

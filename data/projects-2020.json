@@ -1,0 +1,204 @@
+[
+  {
+    "name": "WebRender",
+    "url": "https://webrender.io/",
+    "description": "A service that provides server-side rendering for modern frontend frameworks using Cloudflare Workers, caching pre-rendered pages for crawlers while passing regular traffic through.",
+    "revenue": "enough to keep the lights on",
+    "stack": [
+      "Cloudflare Workers"
+    ],
+    "year": 2020,
+    "author": "jasonkester",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24959316",
+    "comment_count": 0
+  },
+  {
+    "name": "Productized SaaS SEO Business",
+    "url": null,
+    "description": "A productized SaaS offering SEO, content, and graphic design services at a fixed monthly rate for SMEs.",
+    "revenue": "$2500",
+    "stack": [],
+    "year": 2020,
+    "author": "milanspeaks",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24949621",
+    "comment_count": 1
+  },
+  {
+    "name": "Google Search API",
+    "url": "https://goog.io",
+    "description": "A Google Search API service that was launched in 2020 and is being moved to a standalone website.",
+    "revenue": "$6k+ total",
+    "stack": [],
+    "year": 2020,
+    "author": "tuangeek",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24953533",
+    "comment_count": 1
+  },
+  {
+    "name": "Violinist.io",
+    "url": "https://violinist.io",
+    "description": "A service for automatically updating PHP (Composer) dependencies.",
+    "revenue": "making a profit after server costs",
+    "stack": [
+      "PHP",
+      "Composer"
+    ],
+    "year": 2020,
+    "author": "orkj",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24949894",
+    "comment_count": 0
+  },
+  {
+    "name": "Egnastickers",
+    "url": "https://egnastickers.se",
+    "description": "An online sticker shop selling stickers through Etsy and a dedicated website.",
+    "revenue": "€1k in sales for October",
+    "stack": [],
+    "year": 2020,
+    "author": "brtkdotse",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24954212",
+    "comment_count": 2
+  },
+  {
+    "name": "AlgoDaily",
+    "url": "https://algodaily.com",
+    "description": "A technical interview course that focuses on being accessible to beginners through visuals, similar to LeetCode with more guidance.",
+    "revenue": "$3k MRR",
+    "stack": [],
+    "year": 2020,
+    "author": "sciencewolf",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24950826",
+    "comment_count": 0
+  },
+  {
+    "name": "Bullish Email",
+    "url": "https://bullish.email",
+    "description": "A fully automated and passive stock market newsletter.",
+    "revenue": null,
+    "stack": [],
+    "year": 2020,
+    "author": "blakbelt78",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24951820",
+    "comment_count": 0
+  },
+  {
+    "name": "Castup",
+    "url": "https://www.useCastup.com",
+    "description": "A productized service offering podcast editing with software that reduces editing time by 70%, providing high-quality services at affordable rates.",
+    "revenue": null,
+    "stack": [],
+    "year": 2020,
+    "author": "anmolparashar",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24950123",
+    "comment_count": 1
+  },
+  {
+    "name": "UserTrack",
+    "url": "https://www.usertrack.net",
+    "description": "A self-hosted analytics platform.",
+    "revenue": "$1k-$2k/month",
+    "stack": [],
+    "year": 2020,
+    "author": "XCSme",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24955525",
+    "comment_count": 0
+  },
+  {
+    "name": "Panelbear",
+    "url": "https://panelbear.com",
+    "description": "A private analytics suite for websites offering a more complete toolset than alternatives like Plausible, Fathom, or Simple Analytics.",
+    "revenue": "Not yet at $500 MRR",
+    "stack": [
+      "Python",
+      "React",
+      "Postgres",
+      "Clickhouse",
+      "Redis",
+      "Kubernetes",
+      "Terraform",
+      "Kustomize",
+      "AWS"
+    ],
+    "year": 2020,
+    "author": "amzans",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24982186",
+    "comment_count": 3
+  },
+  {
+    "name": "Tune Transcriber",
+    "url": "https://www.tunetranscriber.com/",
+    "description": "A tool that transcribes music or audio files, which accidentally gained high ranking for certain keywords and generates passive income.",
+    "revenue": "a small bit of cash each month",
+    "stack": [],
+    "year": 2020,
+    "author": "notdan",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24954957",
+    "comment_count": 0
+  },
+  {
+    "name": "bufr.sh",
+    "url": "https://bufr.sh",
+    "description": "A tool built for existing clients who wanted specific functionality.",
+    "revenue": "",
+    "stack": [],
+    "year": 2020,
+    "author": "kahlonel",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24949415",
+    "comment_count": 0
+  },
+  {
+    "name": "Sitesauce",
+    "url": "https://sitesauce.app",
+    "description": "A service that makes websites or blogs static by cloning them to Vercel quickly and updating automatically when changes occur.",
+    "revenue": null,
+    "stack": [],
+    "year": 2020,
+    "author": "m1guelpf",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24961570",
+    "comment_count": 0
+  },
+  {
+    "name": "Checkbot",
+    "url": "https://www.checkbot.io/",
+    "description": "A Chrome extension that bulk checks website pages for common SEO, speed, and security issues.",
+    "revenue": "Paid version available",
+    "stack": [],
+    "year": 2020,
+    "author": "seanwilson",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24949936",
+    "comment_count": 0
+  },
+  {
+    "name": "GoSourcingWise",
+    "url": "https://gosourcingwise.com",
+    "description": "An enhancement for Quickbooks Online that allows companies to request quotations from their suppliers.",
+    "revenue": null,
+    "stack": [],
+    "year": 2020,
+    "author": "nocubicles",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24949168",
+    "comment_count": 0
+  },
+  {
+    "name": "buyfunnyaprons.com",
+    "url": "https://buyfunnyaprons.com/",
+    "description": "A print-on-demand store selling funny aprons fully online.",
+    "revenue": null,
+    "stack": [],
+    "year": 2020,
+    "author": "merkul204",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24949528",
+    "comment_count": 2
+  },
+  {
+    "name": "LogMyHours",
+    "url": "https://logmyhours.com",
+    "description": "Time tracking and invoicing software.",
+    "revenue": "$1K/mo",
+    "stack": [],
+    "year": 2020,
+    "author": "jwho82",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=24949065",
+    "comment_count": 2
+  }
+]

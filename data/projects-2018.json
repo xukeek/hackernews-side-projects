@@ -1,0 +1,318 @@
+[
+  {
+    "name": "180 Fitness",
+    "url": "https://180fitness.co.uk",
+    "description": "A fully automated unmanned gym with automated door access, lights, air conditioning, TVs, and a membership system.",
+    "revenue": "£4,000 profit/month",
+    "stack": [],
+    "year": 2018,
+    "author": "roybarberuk",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17794671",
+    "comment_count": 6
+  },
+  {
+    "name": "Circa",
+    "url": "http://omgenomics.com/circa",
+    "description": "An easy-to-use tool for building circos plots with genomics data.",
+    "revenue": "$1,500 every month",
+    "stack": [
+      "D3.js",
+      "Electron"
+    ],
+    "year": 2018,
+    "author": "marianattestad",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17790991",
+    "comment_count": 2
+  },
+  {
+    "name": "Fitloop",
+    "url": "https://fitloop.co/",
+    "description": "A site for teaching bodyweight fitness with tracking and configuration features.",
+    "revenue": "$500 - $1000 MRR",
+    "stack": [],
+    "year": 2018,
+    "author": "_august",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17790950",
+    "comment_count": 4
+  },
+  {
+    "name": "U2F Zero",
+    "url": "https://www.amazon.com/gp/product/B01L9DUPK6",
+    "description": "An open-source U2F token and two-factor authentication device.",
+    "revenue": "$500-$1000 per month",
+    "stack": [],
+    "year": 2018,
+    "author": "conorpp",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17791497",
+    "comment_count": 2
+  },
+  {
+    "name": "Down For Everyone Or Just Me",
+    "url": "https://downforeveryoneorjustme.com/",
+    "description": "A website that checks if a site is down for everyone or just the user.",
+    "revenue": "$1,000 a month gross",
+    "stack": [
+      "AWS"
+    ],
+    "year": 2018,
+    "author": "bwb",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17795553",
+    "comment_count": 2
+  },
+  {
+    "name": "usebx",
+    "url": "https://usebx.com/app",
+    "description": "A solid accounting and project management app with good service and sales to corporate customers.",
+    "revenue": "a few hundred thousand GBP per month",
+    "stack": [],
+    "year": 2018,
+    "author": "osrec",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17790954",
+    "comment_count": 4
+  },
+  {
+    "name": "Manypixels",
+    "url": "https://www.manypixels.co",
+    "description": "A productized service started as a side project by a digital nomad in Bangkok.",
+    "revenue": "$40,000/month",
+    "stack": [],
+    "year": 2018,
+    "author": "vinrob92",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17792846",
+    "comment_count": 3
+  },
+  {
+    "name": "ClickClackClunk",
+    "url": "https://www.youtube.com/c/ClickClackClunk",
+    "description": "A YouTube channel focused on woodworking hobby projects.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2018,
+    "author": "ramijames",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17793557",
+    "comment_count": 0
+  },
+  {
+    "name": "Cronote",
+    "url": "https://www.cronote.com",
+    "description": "A simple website for sending reminders with features like templates, recurring reminders, and variables for recipient names.",
+    "revenue": "$600 per month after all expenses paid",
+    "stack": [],
+    "year": 2018,
+    "author": "aabajian",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17790905",
+    "comment_count": 3
+  },
+  {
+    "name": "ServiceHQ",
+    "url": "https://servicehq.ca",
+    "description": "A generic and modular platform built to satisfy customer requirements, now averaging revenue with plans to expand features and integrations.",
+    "revenue": "$1000/month",
+    "stack": [
+      "Ruby",
+      "Rails",
+      "React",
+      "React Native"
+    ],
+    "year": 2018,
+    "author": "jasdeepsingh",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17792559",
+    "comment_count": 3
+  },
+  {
+    "name": "WooRender",
+    "url": "https://woorender.com",
+    "description": "A service that provides easy access to GPU compute by leasing a deep learning server with 10x 1080ti cards.",
+    "revenue": "$100/day",
+    "stack": [],
+    "year": 2018,
+    "author": "freediver",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17791273",
+    "comment_count": 5
+  },
+  {
+    "name": "Traccar",
+    "url": "https://www.traccar.org/",
+    "description": "An open source GPS tracking solution that generates revenue through SaaS, support, and customization services.",
+    "revenue": "Not specified in the comment.",
+    "stack": [],
+    "year": 2018,
+    "author": "tananaev",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17791265",
+    "comment_count": 1
+  },
+  {
+    "name": "Sound Shelter",
+    "url": "https://www.soundshelter.net",
+    "description": "A vinyl marketplace connecting record buyers with small independent record stores.",
+    "revenue": "Revenue from affiliate sales and subscriptions from record stores listing inventory",
+    "stack": [],
+    "year": 2018,
+    "author": "siquick",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17793958",
+    "comment_count": 0
+  },
+  {
+    "name": "Coders School",
+    "url": "http://coders.school",
+    "description": "A side project teaching C++ and programming tools to programmers with basics, focusing on advanced topics and professional skills.",
+    "revenue": "over 2k USD/month",
+    "stack": [
+      "C++",
+      "git",
+      "make",
+      "cmake",
+      "vim",
+      "Scrum",
+      "STL",
+      "TDD",
+      "Modern C++ (C++11/14/17)",
+      "templates"
+    ],
+    "year": 2018,
+    "author": "Lukin",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17813835",
+    "comment_count": 0
+  },
+  {
+    "name": "CardSync Teams",
+    "url": "https://teams.cardsync.xyz/",
+    "description": "A Trello Power-Up that started as a Trello bot, now generating revenue.",
+    "revenue": "$1200/mo",
+    "stack": [
+      "Heroku"
+    ],
+    "year": 2018,
+    "author": "fiatjaf",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17795920",
+    "comment_count": 0
+  },
+  {
+    "name": "Market Godfathers",
+    "url": "www.marketgodfathers.com",
+    "description": "A website and Discord channel that automates sharing of trading entries and exits from options trading, allowing followers to replicate trades.",
+    "revenue": "Not explicitly mentioned",
+    "stack": [],
+    "year": 2018,
+    "author": "marketgod",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17792222",
+    "comment_count": 2
+  },
+  {
+    "name": "SmallBatchMade",
+    "url": "SmallBatchMade.com",
+    "description": "A CNC machine shop selling custom-designed trinkets online.",
+    "revenue": "$700/mo",
+    "stack": [],
+    "year": 2018,
+    "author": "hapabrah",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17799960",
+    "comment_count": 0
+  },
+  {
+    "name": "ChatterBox",
+    "url": "www.heychatterbox.com",
+    "description": "A service for lawyers and medical/health services like spas and chiropractors, with marketing done by email and service delivery outsourced or automated.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2018,
+    "author": "goatherders",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17796857",
+    "comment_count": 0
+  },
+  {
+    "name": "Gematrix",
+    "url": "https://www.gematrix.org",
+    "description": "An English and Hebrew Gematria calculator for calculating Gimatria values for words and phrases.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2018,
+    "author": "caviv",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17835690",
+    "comment_count": 0
+  },
+  {
+    "name": "Defqt",
+    "url": "https://itunes.apple.com/app/defqt/id817026377",
+    "description": "An iOS glitch camera app that creates unique photo effects.",
+    "revenue": "$500/mo",
+    "stack": [
+      "iOS"
+    ],
+    "year": 2018,
+    "author": "fakeElonMusk",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17809078",
+    "comment_count": 0
+  },
+  {
+    "name": "Wokabulary",
+    "url": "https://wokabulary.com/",
+    "description": "A vocabulary trainer for macOS and iOS that started as a free tool and later became a paid product.",
+    "revenue": null,
+    "stack": [],
+    "year": 2018,
+    "author": "tonyjstark",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17793299",
+    "comment_count": 0
+  },
+  {
+    "name": "Netho",
+    "url": "https://netho.me/",
+    "description": "A website traffic estimator tool that also allows voting to tag sites as legit or scam and shows free domain name alternatives.",
+    "revenue": "$500/month",
+    "stack": [
+      "PHP",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "year": 2018,
+    "author": "mr4k",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17802789",
+    "comment_count": 0
+  },
+  {
+    "name": "Meet Kaori",
+    "url": "http://www.meetkaori.com",
+    "description": "Multilingual virtual assistants service currently focused on Japanese/English with plans to expand to other languages like Chinese.",
+    "revenue": null,
+    "stack": [],
+    "year": 2018,
+    "author": "joewee",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17791135",
+    "comment_count": 1
+  },
+  {
+    "name": "The Sequencing Center",
+    "url": "https://thesequencingcenter.com/",
+    "description": "A family genome sequencing facility generating revenue as a side project.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2018,
+    "author": "rfc",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17807136",
+    "comment_count": 2
+  },
+  {
+    "name": "placecard.me",
+    "url": "https://www.placecard.me/",
+    "description": "A service selling place card templates and formatting.",
+    "revenue": "$800/month",
+    "stack": [],
+    "year": 2018,
+    "author": "czue",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17840314",
+    "comment_count": 0
+  },
+  {
+    "name": "ConvertCsv.com",
+    "url": "https://convertcsv.com",
+    "description": "A tool that converts delimited data to and from various formats including JSON, XML, SQL, and HTML Table.",
+    "revenue": null,
+    "stack": [],
+    "year": 2018,
+    "author": "ddgflorida",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=17818599",
+    "comment_count": 1
+  }
+]

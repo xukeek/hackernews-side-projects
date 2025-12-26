@@ -15,6 +15,7 @@ interface StatisticsPanelProps {
 export function StatisticsPanel({ projects, filteredProjects }: StatisticsPanelProps) {
     // Calculate statistics
     const stats = useMemo(() => {
+        if (!filteredProjects) return { totalProjects: 0, avgRevenue: 0, maxRevenue: 0, totalRevenue: 0 };
         const revenues = filteredProjects.map(p => parseRevenue(p.revenue)).filter(r => r > 0);
         const totalRevenue = revenues.reduce((sum, r) => sum + r, 0);
         const avgRevenue = revenues.length > 0 ? totalRevenue / revenues.length : 0;
@@ -30,6 +31,7 @@ export function StatisticsPanel({ projects, filteredProjects }: StatisticsPanelP
 
     // Revenue distribution data
     const revenueDistribution = useMemo(() => {
+        if (!filteredProjects) return [];
         const ranges = [
             { name: "$0-500", min: 0, max: 500, count: 0, color: "#10b981" },
             { name: "$500-1k", min: 500, max: 1000, count: 0, color: "#3b82f6" },
@@ -51,12 +53,15 @@ export function StatisticsPanel({ projects, filteredProjects }: StatisticsPanelP
 
     // Tech stack frequency
     const techStackFrequency = useMemo(() => {
+        if (!filteredProjects) return [];
         const techCount: Record<string, number> = {};
 
         filteredProjects.forEach(p => {
-            p.stack.forEach(tech => {
-                techCount[tech] = (techCount[tech] || 0) + 1;
-            });
+            if (p.stack && Array.isArray(p.stack)) {
+                p.stack.forEach(tech => {
+                    techCount[tech] = (techCount[tech] || 0) + 1;
+                });
+            }
         });
 
         return Object.entries(techCount)
@@ -67,6 +72,7 @@ export function StatisticsPanel({ projects, filteredProjects }: StatisticsPanelP
 
     // Year distribution
     const yearDistribution = useMemo(() => {
+        if (!filteredProjects) return [];
         const yearCount: Record<number, number> = {};
 
         filteredProjects.forEach(p => {

@@ -1,0 +1,615 @@
+[
+  {
+    "name": "Hosted Apache Solr",
+    "url": "https://hostedapachesolr.com",
+    "description": "A hosted Apache Solr service started in 2013 for personal search indexes, now automated with Ansible, Jenkins, and PHP.",
+    "revenue": "Not explicitly mentioned",
+    "stack": [
+      "Ansible",
+      "Jenkins",
+      "PHP"
+    ],
+    "year": 2017,
+    "author": "geerlingguy",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149774",
+    "comment_count": 4
+  },
+  {
+    "name": "Custom Fields",
+    "url": "https://customfields.bonify.io",
+    "description": "An app for Shopify that allows users to add custom fields and upload files to their stores.",
+    "revenue": "$5,000 / month",
+    "stack": [],
+    "year": 2017,
+    "author": "donutdan4114",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149528",
+    "comment_count": 7
+  },
+  {
+    "name": "Wanqu",
+    "url": "https://wanqu.co",
+    "description": "A side project curating 5 English articles on tech and startups daily for Chinese makers, with a website, iOS and Android apps, and automation tools.",
+    "revenue": "$1200/month",
+    "stack": [
+      "Django",
+      "Swift",
+      "React Native"
+    ],
+    "year": 2017,
+    "author": "wanqu",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150622",
+    "comment_count": 2
+  },
+  {
+    "name": "Leap Second",
+    "url": "https://www.leapsecond.co",
+    "description": "An app that generates videos by storing everything in the Photos app, developed quickly over a weekend.",
+    "revenue": "$1-3k per month",
+    "stack": [],
+    "year": 2017,
+    "author": "jonandersense",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150076",
+    "comment_count": 3
+  },
+  {
+    "name": "Wandering Labs",
+    "url": "http://reserve.wanderinglabs.com/",
+    "description": "A service that screens scrapes camping reservations and sends notifications when campsites become available.",
+    "revenue": null,
+    "stack": [],
+    "year": 2017,
+    "author": "timmaah",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149391",
+    "comment_count": 5
+  },
+  {
+    "name": "DonaldTrumpDogPoopBags.com",
+    "url": "DonaldTrumpDogPoopBags.com",
+    "description": "An e-commerce site selling dog poop bags with a political theme.",
+    "revenue": "$500/day",
+    "stack": [],
+    "year": 2017,
+    "author": "lxmorj",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150024",
+    "comment_count": 2
+  },
+  {
+    "name": "Namevine",
+    "url": "https://namevine.com/",
+    "description": "A domain name and social media handle search tool that generates revenue through affiliate referrals for domain registrations.",
+    "revenue": "modest amount of profit each month",
+    "stack": [],
+    "year": 2017,
+    "author": "mikejarema",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149475",
+    "comment_count": 4
+  },
+  {
+    "name": "Workroll",
+    "url": "https://workroll.com",
+    "description": "A platform automating freelance sales workflows to save time on lead generation.",
+    "revenue": "$2k a month",
+    "stack": [],
+    "year": 2017,
+    "author": "mitchellbryson",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150250",
+    "comment_count": 1
+  },
+  {
+    "name": "Hydra",
+    "url": "https://github.com/ory/hydra",
+    "description": "An OAuth2 server service that started as a side project and is now a go-to solution for setting up OAuth2 servers.",
+    "revenue": "$700/mo",
+    "stack": [],
+    "year": 2017,
+    "author": "arekkas",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149610",
+    "comment_count": 1
+  },
+  {
+    "name": "BacktestMarket",
+    "url": "https://www.backtestmarket.com/",
+    "description": "A service providing historical financial data and Expert Advisors to help retail traders access high-quality information.",
+    "revenue": "$1.5k per month",
+    "stack": [],
+    "year": 2017,
+    "author": "BacktestMarket",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150026",
+    "comment_count": 0
+  },
+  {
+    "name": "FantasyMath",
+    "url": "https://fantasymath.com",
+    "description": "A fantasy football model that uses correlations across same-opposing team players to provide an edge.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2017,
+    "author": "peacetreefrog",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149497",
+    "comment_count": 2
+  },
+  {
+    "name": "EmailOctopus",
+    "url": "https://emailoctopus.com",
+    "description": "An email marketing service that the founder went full-time on after reaching $5k a month in revenue.",
+    "revenue": "$5k a month",
+    "stack": [],
+    "year": 2017,
+    "author": "02thoeva",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150456",
+    "comment_count": 0
+  },
+  {
+    "name": "acct229.com",
+    "url": "https://acct229.com",
+    "description": "An accounting tutoring website for students at specific colleges.",
+    "revenue": "> $500/month",
+    "stack": [],
+    "year": 2017,
+    "author": "aarondf",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150077",
+    "comment_count": 1
+  },
+  {
+    "name": "Publir Subscriptions",
+    "url": "https://subscriptions.publir.com/",
+    "description": "A stack for web publishers to remove programmatic ads client-side when users pay a subscription fee, used by many law and economics blogs.",
+    "revenue": null,
+    "stack": [],
+    "year": 2017,
+    "author": "malchow",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149442",
+    "comment_count": 1
+  },
+  {
+    "name": "The Final Six Days",
+    "url": "http://timecrossers.com/",
+    "description": "A science fiction novel, the first in a series, with revenue generated from promotions.",
+    "revenue": "close to a thousand on months that I am promoting it heavily",
+    "stack": [],
+    "year": 2017,
+    "author": "joeax",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149979",
+    "comment_count": 1
+  },
+  {
+    "name": "Kernl",
+    "url": "https://kernl.us",
+    "description": "A side project that has been developed for over two years, focusing on business growth and market finding.",
+    "revenue": "$650/month",
+    "stack": [],
+    "year": 2017,
+    "author": "vital101",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149598",
+    "comment_count": 0
+  },
+  {
+    "name": "Craig Cherlet Blog",
+    "url": "http://www.craigcherlet.com",
+    "description": "A blog featuring how-to articles and affiliate promotions for SaaS applications.",
+    "revenue": "$1,000/mo",
+    "stack": [],
+    "year": 2017,
+    "author": "craigcherlet",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15156129",
+    "comment_count": 0
+  },
+  {
+    "name": "Funtober",
+    "url": "https://www.funtober.com",
+    "description": "A one-stop shop for fall festivals, Oktoberfest, haunted houses, pumpkin patches, and costume store launched in 2012.",
+    "revenue": "Still working on the right revenue model",
+    "stack": [],
+    "year": 2017,
+    "author": "funtober",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149734",
+    "comment_count": 1
+  },
+  {
+    "name": "Simple Check-in",
+    "url": "https://play.google.com/store/apps/details?id=com.matthewrathbone.simplecheckin",
+    "description": "Android app to check-in to Foursquare/Swarm in one click, with revenue from an in-app upgrade.",
+    "revenue": "$400/day for a week at launch, now minimal",
+    "stack": [
+      "Android"
+    ],
+    "year": 2017,
+    "author": "rathboma",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149950",
+    "comment_count": 0
+  },
+  {
+    "name": "Bugfender",
+    "url": "https://bugfender.com",
+    "description": "A tool for remotely accessing iOS and Android log files to debug issues that cannot be reproduced locally.",
+    "revenue": "€7300 MRR (~$8600/month)",
+    "stack": [],
+    "year": 2017,
+    "author": "znq",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149901",
+    "comment_count": 0
+  },
+  {
+    "name": "Recapped",
+    "url": "https://www.recapped.io",
+    "description": "Sales-enablement tool that helps sales reps communicate, collaborate, and engage with potential customers.",
+    "revenue": "$600/mo",
+    "stack": [],
+    "year": 2017,
+    "author": "markfer",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15151304",
+    "comment_count": 1
+  },
+  {
+    "name": "datastarta",
+    "url": "http://datastarta.com",
+    "description": "A project launched 3 months ago with an MVP built in a month using Bubble.",
+    "revenue": "$1350/mo",
+    "stack": [
+      "Bubble"
+    ],
+    "year": 2017,
+    "author": "andygor",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150691",
+    "comment_count": 1
+  },
+  {
+    "name": "localname.io",
+    "url": "https://localname.io",
+    "description": "A tool that provides a publicly accessible URL to your computer for server-side development and testing, especially useful for mobile apps and webhooks.",
+    "revenue": "Not yet $500",
+    "stack": [
+      "Swift",
+      "node.js"
+    ],
+    "year": 2017,
+    "author": "jgimenez",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15152557",
+    "comment_count": 2
+  },
+  {
+    "name": "RESTfender",
+    "url": "https://restfender.com",
+    "description": "A tool to connect and secure IoT devices.",
+    "revenue": "",
+    "stack": [],
+    "year": 2017,
+    "author": "jaypaulynice",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149534",
+    "comment_count": 0
+  },
+  {
+    "name": "Marketvulture",
+    "url": "https://marketvulture.com",
+    "description": "Monitors dramatic events worldwide to spot profitable opportunities using machine learning.",
+    "revenue": null,
+    "stack": [
+      "php7",
+      "python",
+      "redis",
+      "mariadb",
+      "workers",
+      "queues",
+      "NLP",
+      "machine learning"
+    ],
+    "year": 2017,
+    "author": "marketvulture",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150181",
+    "comment_count": 2
+  },
+  {
+    "name": "AppToolkit",
+    "url": "https://apptoolkit.io",
+    "description": "A service for app developers offering Super User and Cloud Config features.",
+    "revenue": "$500 monthly",
+    "stack": [
+      "AWS"
+    ],
+    "year": 2017,
+    "author": "GoLocalApps",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15151354",
+    "comment_count": 0
+  },
+  {
+    "name": "GanttPlanner",
+    "url": "https://www.ganttplanner.com",
+    "description": "A tool to turn your Google Calendar into a Gantt chart.",
+    "revenue": "$1200/month",
+    "stack": [
+      "Heroku"
+    ],
+    "year": 2017,
+    "author": "Schweigi",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15152248",
+    "comment_count": 2
+  },
+  {
+    "name": "livereacting",
+    "url": "http://livereacting.com/",
+    "description": "A SaaS app for live reacting, launched about 8 months ago and largely automated to run on autopilot with minimal manual intervention.",
+    "revenue": "$3k/mo",
+    "stack": [],
+    "year": 2017,
+    "author": "archiolidius",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15152169",
+    "comment_count": 1
+  },
+  {
+    "name": "Custom-designed handbags",
+    "url": "",
+    "description": "A side project creating custom-designed handbags for individuals through word-of-mouth and social media.",
+    "revenue": "$500+ per month",
+    "stack": [],
+    "year": 2017,
+    "author": "billwear",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150040",
+    "comment_count": 2
+  },
+  {
+    "name": "ParrotQA",
+    "url": "https://www.parrotqa.com/",
+    "description": "A tool for overseeing non-deterministic Selenium tests to reduce hassle in quality assurance workflows.",
+    "revenue": "$1k/mo",
+    "stack": [],
+    "year": 2017,
+    "author": "kring462",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149514",
+    "comment_count": 1
+  },
+  {
+    "name": "Planeol",
+    "url": "https://www.planeol.com",
+    "description": "A subscription service that notifies IT administrators about upcoming End of Life for purchased software to aid in planning, budgeting, and security.",
+    "revenue": null,
+    "stack": [],
+    "year": 2017,
+    "author": "FloayYerBoat",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150038",
+    "comment_count": 1
+  },
+  {
+    "name": "KidGenius",
+    "url": "https://kidgenius.daycareiq.com/",
+    "description": "Childcare management software that helps childcare centers run daily operations and connect with parents.",
+    "revenue": "",
+    "stack": [],
+    "year": 2017,
+    "author": "giarc",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149352",
+    "comment_count": 0
+  },
+  {
+    "name": "Read Across The Aisle",
+    "url": "http://www.ReadAcrossTheAisle.com",
+    "description": "A free iOS app and Chrome extension that provides access to WSJ articles through a partnership, generating revenue from donations.",
+    "revenue": "several thousand from donations",
+    "stack": [],
+    "year": 2017,
+    "author": "gnicholas",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149560",
+    "comment_count": 0
+  },
+  {
+    "name": "DocsApp",
+    "url": "https://www.docsapp.io/",
+    "description": "A platform to easily publish documentation in minutes without building a site.",
+    "revenue": "profitable since few months ago",
+    "stack": [],
+    "year": 2017,
+    "author": "docsapp_io",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150094",
+    "comment_count": 0
+  },
+  {
+    "name": "UI Movement",
+    "url": "https://uimovement.com/",
+    "description": "A UI design newsletter featuring daily/weekly design inspiration and resources.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2017,
+    "author": "khuknows",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149962",
+    "comment_count": 0
+  },
+  {
+    "name": "Backtrac",
+    "url": "https://backtrac.io",
+    "description": "A visual regression tool for websites.",
+    "revenue": "$500+/mo",
+    "stack": [],
+    "year": 2017,
+    "author": "ygerasimov",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15156210",
+    "comment_count": 0
+  },
+  {
+    "name": "Cronitor.io",
+    "url": "https://cronitor.io",
+    "description": "A monitoring service for cron jobs and scheduled tasks.",
+    "revenue": "Enough to pay two mortgages in the San Francisco Bay Area",
+    "stack": [],
+    "year": 2017,
+    "author": "encoderer",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150205",
+    "comment_count": 1
+  },
+  {
+    "name": "GDPRapp",
+    "url": "https://gdprapp.com",
+    "description": "A software tool for data protection officers and IT auditors to assist with compliance and auditing processes, initially focused on GDPR with plans to integrate other security standards.",
+    "revenue": null,
+    "stack": [],
+    "year": 2017,
+    "author": "pypetey",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15151216",
+    "comment_count": 0
+  },
+  {
+    "name": "apibot.co",
+    "url": "https://apibot.co",
+    "description": "A testing and monitoring tool for REST APIs.",
+    "revenue": "Sales are going slow but smoothly (no specific revenue mentioned).",
+    "stack": [],
+    "year": 2017,
+    "author": "fernandohur",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149663",
+    "comment_count": 2
+  },
+  {
+    "name": "dotlayer",
+    "url": "https://dotlayer.com",
+    "description": "A service that helps users solve issues with WordPress, originally started to assist friends.",
+    "revenue": null,
+    "stack": [],
+    "year": 2017,
+    "author": "eulid55",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149376",
+    "comment_count": 2
+  },
+  {
+    "name": "AWS Lambda Guide eBook",
+    "url": "https://www.amazon.com/AWS-Lambda-Guide-Serverless-Microservices-ebook/dp/B016JOMAEE",
+    "description": "An eBook on AWS Lambda and serverless microservices, generating monthly revenue.",
+    "revenue": "decent monthly revenue",
+    "stack": [
+      "AWS Lambda"
+    ],
+    "year": 2017,
+    "author": "cddotdotslash",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150165",
+    "comment_count": 0
+  },
+  {
+    "name": "LogMyHours",
+    "url": "https://logmyhours.com",
+    "description": "Hour tracking and invoicing service with iOS and Android apps that sync with the website.",
+    "revenue": "$700/month",
+    "stack": [],
+    "year": 2017,
+    "author": "jwho82",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149738",
+    "comment_count": 0
+  },
+  {
+    "name": "Meta Meme",
+    "url": "https://itunes.apple.com/zw/app/meta-meme/id1173783944?mt=8",
+    "description": "An app for creating and sharing memes, generating revenue through in-app purchases.",
+    "revenue": "$500-700/month",
+    "stack": [],
+    "year": 2017,
+    "author": "par",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150307",
+    "comment_count": 0
+  },
+  {
+    "name": "StatusGator",
+    "url": "https://statusgator.com",
+    "description": "Aggregates public service status pages for cloud services, providing automatic notifications and Slack integration.",
+    "revenue": "$1,000 month",
+    "stack": [],
+    "year": 2017,
+    "author": "colinbartlett",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149579",
+    "comment_count": 2
+  },
+  {
+    "name": "AMQP Hosting",
+    "url": "https://www.amqphosting.com",
+    "description": "A RabbitMQ as a service company providing managed hosting solutions.",
+    "revenue": "$1k/month",
+    "stack": [],
+    "year": 2017,
+    "author": "RabbitmqGuy",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15153699",
+    "comment_count": 0
+  },
+  {
+    "name": "Sanity Check",
+    "url": "https://www.sanitycheck.io",
+    "description": "A service offering productised consulting with a 'done for you' option.",
+    "revenue": "$970 per month",
+    "stack": [],
+    "year": 2017,
+    "author": "nickswan",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149798",
+    "comment_count": 0
+  },
+  {
+    "name": "doorbell.io",
+    "url": "https://doorbell.io",
+    "description": "A side project started in 2013 for providing feedback and communication tools.",
+    "revenue": "$2,800/month",
+    "stack": [],
+    "year": 2017,
+    "author": "manavo11",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15153075",
+    "comment_count": 1
+  },
+  {
+    "name": "Custom Handbag Design",
+    "url": "",
+    "description": "A custom handbag design service creating unique bags tailored to each person's specifications.",
+    "revenue": "$500+ per month",
+    "stack": [],
+    "year": 2017,
+    "author": "billwear",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150004",
+    "comment_count": 1
+  },
+  {
+    "name": "Optimage for Mac",
+    "url": "http://getoptimage.com",
+    "description": "A visually lossless image optimization tool for Mac.",
+    "revenue": null,
+    "stack": [],
+    "year": 2017,
+    "author": "vladdanilov",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15150030",
+    "comment_count": 0
+  },
+  {
+    "name": "TechPressList",
+    "url": "http://www.techpresslist.com",
+    "description": "A platform for tech press lists.",
+    "revenue": "$480 since August 25",
+    "stack": [],
+    "year": 2017,
+    "author": "petecodes",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15152713",
+    "comment_count": 0
+  },
+  {
+    "name": "Top Talked Books",
+    "url": "http://toptalkedbooks.com",
+    "description": "A website that shows the most mentioned books from Hacker News, Stack Overflow, and Reddit.",
+    "revenue": "$0/mo",
+    "stack": [],
+    "year": 2017,
+    "author": "guohuang",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149593",
+    "comment_count": 2
+  },
+  {
+    "name": "VisaOK",
+    "url": "http://www.visaok.in/",
+    "description": "A curated job board listing jobs with employers who sponsor or transfer work visas in over 30 countries, including Europe's startup visa programs.",
+    "revenue": "$700 in June",
+    "stack": [],
+    "year": 2017,
+    "author": "justboxing",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15149890",
+    "comment_count": 0
+  },
+  {
+    "name": "The Success Manual Guides",
+    "url": "https://www.thesuccessmanual.in",
+    "description": "A website offering guides and resources for success.",
+    "revenue": null,
+    "stack": [],
+    "year": 2017,
+    "author": "pramit",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=15154676",
+    "comment_count": 0
+  }
+]

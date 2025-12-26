@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Label.live",
+    "url": "https://label.live",
+    "description": "A Mac app for designing and printing barcode labels using spreadsheets.",
+    "revenue": "5-figures per week",
+    "stack": [
+      "react",
+      "electron"
+    ],
+    "year": 2023,
+    "author": "semireg",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=38469624",
+    "comment_count": 7
+  },
+  {
+    "name": "OnlineOrNot",
+    "url": "https://onlineornot.com",
+    "description": "A service providing uptime monitoring for websites, APIs, and JavaScript apps, along with cron job monitoring and built-in status pages.",
+    "revenue": null,
+    "stack": [],
+    "year": 2023,
+    "author": "rozenmd",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=38471446",
+    "comment_count": 1
+  },
+  {
+    "name": "screenprices.info",
+    "url": "https://www.screenprices.info/",
+    "description": "A simple interface to help find the right monitor by comparing prices and specifications, designed to be less convoluted than other sites.",
+    "revenue": "$500 for November",
+    "stack": [],
+    "year": 2023,
+    "author": "arbn",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=38475239",
+    "comment_count": 3
+  },
+  {
+    "name": "FundedList",
+    "url": "https://www.fundedlist.com",
+    "description": "A service that curates and sells leads of recently funded startups to agencies and marketers.",
+    "revenue": "$1100/month",
+    "stack": [],
+    "year": 2023,
+    "author": "dhruvkar",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=38479991",
+    "comment_count": 1
+  },
+  {
+    "name": "ScreenMemory",
+    "url": "https://screenmemory.app/",
+    "description": "A macOS app that continuously takes screenshots, allowing users to explore them on a timeline and search for text on the screen.",
+    "revenue": null,
+    "stack": [],
+    "year": 2023,
+    "author": "wingerlang",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=38473529",
+    "comment_count": 1
+  },
+  {
+    "name": "t3x.org books",
+    "url": "http://t3x.org",
+    "description": "A collection of books generating combined monthly revenue.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2023,
+    "author": "nils-m-holm",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=38471703",
+    "comment_count": 4
+  },
+  {
+    "name": "webtoapp.design",
+    "url": "https://webtoapp.design",
+    "description": "A service that converts websites into mobile apps and assists with the entire app creation and publishing process, including dealing with Google and Apple.",
+    "revenue": "enough to live off of after costs, but not an appropriate software engineer salary for Europe",
+    "stack": [],
+    "year": 2023,
+    "author": "Aulig",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=38473544",
+    "comment_count": 0
+  },
+  {
+    "name": "ChatGPT Writer",
+    "url": "https://chatgptwriter.ai",
+    "description": "A freemium ChatGPT extension for writing assistance.",
+    "revenue": "$7k MRR",
+    "stack": [],
+    "year": 2023,
+    "author": "jerrygoyal",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=38471679",
+    "comment_count": 2
+  },
+  {
+    "name": "Stratospheric - From Zero to Production with Spring Boot and AWS",
+    "url": "https://stratospheric.dev/",
+    "description": "An ebook and companion online course teaching how to build and deploy applications using Spring Boot and AWS.",
+    "revenue": "$1300/month",
+    "stack": [
+      "Spring Boot",
+      "AWS"
+    ],
+    "year": 2023,
+    "author": "BjoernKW",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=38473094",
+    "comment_count": 0
+  },
+  {
+    "name": "Blackslate",
+    "url": "https://www.blackslate.io/articles",
+    "description": "A tech journal publishing articles and news about open source, AI, ML, blockchain, cloud, mobile, and other latest technologies.",
+    "revenue": "Currently not making $500 but has potential over time",
+    "stack": [],
+    "year": 2023,
+    "author": "blackslate",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=38472434",
+    "comment_count": 0
+  }
+]

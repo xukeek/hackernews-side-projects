@@ -1,14 +1,89 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+/* @plugin "tailwindcss-animate"; */
+
 @custom-variant dark (&:is(.dark *));
 
 @theme {
-  --color-primary: #3b82f6;
-  --color-accent: #8b5cf6;
+  --color-primary: var(--primary);
+  --color-accent: var(--accent);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
 }
 
 :root {
+  /* Light Mode - Clean White Theme */
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.129 0.042 264.695);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.129 0.042 264.695);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.129 0.042 264.695);
+  --primary: oklch(0.208 0.042 265.755);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.967 0.001 286.375);
+  --secondary-foreground: oklch(0.208 0.042 265.755);
+  --muted: oklch(0.967 0.001 286.375);
+  --muted-foreground: oklch(0.552 0.016 285.938);
+  --accent: oklch(0.967 0.001 286.375);
+  --accent-foreground: oklch(0.208 0.042 265.755);
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.577 0.245 27.325);
+  --border: oklch(0.92 0.004 286.32);
+  --input: oklch(0.92 0.004 286.32);
+  --ring: oklch(0.705 0.015 286.067);
+  --radius: 0.5rem;
+  
+  --chart-1: oklch(0.646 0.222 41.116);
+  --chart-2: oklch(0.6 0.118 184.704);
+  --chart-3: oklch(0.398 0.07 227.392);
+  --chart-4: oklch(0.828 0.189 84.429);
+  --chart-5: oklch(0.769 0.188 70.08);
+
+  /* Specific vars override for light mode */
+  --card-bg: rgba(255, 255, 255, 0.8);
+  --card-border: rgba(0, 0, 0, 0.1);
+  
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.141 0.005 285.823);
+  --sidebar-primary: oklch(0.21 0.006 285.885);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.967 0.001 286.375);
+  --sidebar-accent-foreground: oklch(0.21 0.006 285.885);
+  --sidebar-border: oklch(0.92 0.004 286.32);
+  --sidebar-ring: oklch(0.705 0.015 286.067);
+}
+
+.dark {
   /* Sci-Fi Theme Color Palette - Cyan/Blue dominant */
   --background: oklch(0.05 0.02 240); /* Deep dark blue/black */
   --foreground: oklch(0.9 0.05 200); /* Cyan-tinted white */
@@ -43,7 +118,7 @@
   --chart-3: oklch(0.8 0.1 180); /* Teal */
   --chart-4: oklch(0.6 0.15 30); /* Orange */
   --chart-5: oklch(0.9 0.05 200); /* White */
-  
+
   --sidebar: oklch(0.08 0.03 240);
   --sidebar-foreground: oklch(0.9 0.05 200);
   --sidebar-primary: oklch(0.7 0.15 220);
@@ -52,26 +127,29 @@
   --sidebar-accent-foreground: oklch(0.9 0.05 200);
   --sidebar-border: oklch(0.2 0.05 220);
   --sidebar-ring: oklch(0.7 0.15 220);
-  
+
   /* Sci-fi specific vars */
   --card-bg: rgba(10, 15, 30, 0.7);
   --card-border: rgba(60, 200, 255, 0.2);
   --radius: 0.25rem; /* Sharp corners for tech feel */
 }
 
-/* Removed .dark selector and merged into :root to enforce dark mode */
-
 body {
+  background-color: var(--background);
+  min-height: 100vh;
+  color: var(--foreground);
+  font-feature-settings: "ss01", "ss02", "cv01", "cv02";
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Dark mode specific background */
+.dark body {
   background-color: #050510;
-  /* Tech Grid Background */
   background-image: 
     linear-gradient(rgba(0, 255, 255, 0.03) 1px, transparent 1px),
     linear-gradient(90deg, rgba(0, 255, 255, 0.03) 1px, transparent 1px),
     radial-gradient(circle at 50% 0%, rgba(0, 200, 255, 0.15), transparent 60%);
   background-size: 40px 40px, 40px 40px, 100% 100%;
-  min-height: 100vh;
-  color: var(--foreground);
-  font-feature-settings: "ss01", "ss02", "cv01", "cv02";
 }
 
 @utility glass {
@@ -83,11 +161,20 @@ body {
 }
 
 @utility tech-border {
+  border: 1px solid var(--border);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+.dark .tech-border {
   border: 1px solid rgba(0, 255, 255, 0.2);
   box-shadow: 0 0 10px rgba(0, 255, 255, 0.05);
 }
 
 @utility tech-glow {
+  text-shadow: none;
+}
+
+.dark .tech-glow {
   text-shadow: 0 0 5px rgba(0, 255, 255, 0.5);
 }
 
@@ -99,78 +186,32 @@ body {
     @apply bg-background text-foreground;
   }
   
-  /* Sci-fi scrollbar */
-  ::-webkit-scrollbar {
+  /* Sci-fi scrollbar - only in dark mode */
+  .dark ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
   }
-  ::-webkit-scrollbar-track {
+  .dark ::-webkit-scrollbar-track {
     background: rgba(0, 0, 0, 0.3);
   }
-  ::-webkit-scrollbar-thumb {
+  .dark ::-webkit-scrollbar-thumb {
     background: rgba(0, 255, 255, 0.2);
     border-radius: 2px;
   }
-  ::-webkit-scrollbar-thumb:hover {
+  .dark ::-webkit-scrollbar-thumb:hover {
     background: rgba(0, 255, 255, 0.4);
   }
 }
 
 @utility text-gradient {
-  background: linear-gradient(to right, #60a5fa, #c084fc);
+  background: linear-gradient(to right, #2563eb, #7c3aed);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   color: transparent; 
 }
 
-@theme inline {
-  --radius-sm: calc(var(--radius) - 4px);
-  --radius-md: calc(var(--radius) - 2px);
-  --radius-lg: var(--radius);
-  --radius-xl: calc(var(--radius) + 4px);
-  --radius-2xl: calc(var(--radius) + 8px);
-  --radius-3xl: calc(var(--radius) + 12px);
-  --radius-4xl: calc(var(--radius) + 16px);
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --color-card: var(--card);
-  --color-card-foreground: var(--card-foreground);
-  --color-popover: var(--popover);
-  --color-popover-foreground: var(--popover-foreground);
-  --color-primary: var(--primary);
-  --color-primary-foreground: var(--primary-foreground);
-  --color-secondary: var(--secondary);
-  --color-secondary-foreground: var(--secondary-foreground);
-  --color-muted: var(--muted);
-  --color-muted-foreground: var(--muted-foreground);
-  --color-accent: var(--accent);
-  --color-accent-foreground: var(--accent-foreground);
-  --color-destructive: var(--destructive);
-  --color-border: var(--border);
-  --color-input: var(--input);
-  --color-ring: var(--ring);
-  --color-chart-1: var(--chart-1);
-  --color-chart-2: var(--chart-2);
-  --color-chart-3: var(--chart-3);
-  --color-chart-4: var(--chart-4);
-  --color-chart-5: var(--chart-5);
-  --color-sidebar: var(--sidebar);
-  --color-sidebar-foreground: var(--sidebar-foreground);
-  --color-sidebar-primary: var(--sidebar-primary);
-  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
-  --color-sidebar-accent: var(--sidebar-accent);
-  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
-  --color-sidebar-border: var(--sidebar-border);
-  --color-sidebar-ring: var(--sidebar-ring);
-}
-
-/* Dark mode variables merged into :root */
-
-@layer base {
-  * {
-    @apply border-border outline-ring/50;
-  }
-  body {
-    @apply bg-background text-foreground;
-  }
+.dark .text-gradient {
+  background: linear-gradient(to right, #60a5fa, #c084fc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }

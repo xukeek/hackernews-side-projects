@@ -1,0 +1,1934 @@
+[
+  {
+    "name": "Lightnote",
+    "url": "https://www.lightnote.co/",
+    "description": "An interactive Music Theory course with intuitive learning tools.",
+    "revenue": "Enough to pay rent each month",
+    "stack": [
+      "Tone.js",
+      "Stripe",
+      "PayPal"
+    ],
+    "year": 2024,
+    "author": "nspeller",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380418",
+    "comment_count": 33
+  },
+  {
+    "name": "FreeSolitaire.win",
+    "url": "https://FreeSolitaire.win",
+    "description": "A minimal and lightweight Klondike Solitaire progressive web application.",
+    "revenue": "$500/mo",
+    "stack": [
+      "PWA"
+    ],
+    "year": 2024,
+    "author": "palsecam",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380517",
+    "comment_count": 9
+  },
+  {
+    "name": "pastmaps.com",
+    "url": "https://pastmaps.com",
+    "description": "A solo bootstrapped project offering old maps with georeferenced high-resolution coverage of America, including satellite, LiDAR, and 3D layers for exploring history through space and time.",
+    "revenue": "$5000/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "Soupy",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380428",
+    "comment_count": 9
+  },
+  {
+    "name": "Lulim Jewelry",
+    "url": "lulimjewelry.com",
+    "description": "A custom jewelry side business using 3D printing and a tech pipeline for personalized designs.",
+    "revenue": "decent profits",
+    "stack": [
+      "fabric.js",
+      "flask",
+      "blender",
+      "LLM"
+    ],
+    "year": 2024,
+    "author": "doctoboggan",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42379635",
+    "comment_count": 3
+  },
+  {
+    "name": "Aptakube",
+    "url": "https://aptakube.com",
+    "description": "A user-built Kubernetes UI designed to address dissatisfaction with existing options, which transitioned from a side project to a full-time job within six months.",
+    "revenue": "$99 per license, with hundreds of small to enterprise companies using it after two years",
+    "stack": [],
+    "year": 2024,
+    "author": "goenning",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42374831",
+    "comment_count": 6
+  },
+  {
+    "name": "RankPic",
+    "url": "https://www.rankpic.info",
+    "description": "An app to help users crowdsource their best photo for dating apps, professional photos, and other uses.",
+    "revenue": "$500/m",
+    "stack": [],
+    "year": 2024,
+    "author": "bengold14",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380735",
+    "comment_count": 5
+  },
+  {
+    "name": "ExploreHere",
+    "url": "https://explorehere.app",
+    "description": "An app that sends push notifications about historical markers and interesting information as you travel.",
+    "revenue": "just under $1k/month",
+    "stack": [],
+    "year": 2024,
+    "author": "wesvance",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381612",
+    "comment_count": 7
+  },
+  {
+    "name": "BlueRetro",
+    "url": "https://blueretro.com",
+    "description": "An universal Bluetooth controller adapter for nearly all pre-USB gaming consoles, with open source firmware used by product makers and sold directly.",
+    "revenue": "$1000/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "darthcloud",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380926",
+    "comment_count": 2
+  },
+  {
+    "name": "NanaGram",
+    "url": "NanaGram.co",
+    "description": "A service that allows users to text photos to a unique phone number, which are then printed and shipped monthly to loved ones.",
+    "revenue": "Enough to work on full-time",
+    "stack": [],
+    "year": 2024,
+    "author": "andygcook",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42379516",
+    "comment_count": 3
+  },
+  {
+    "name": "Festival Payment Software",
+    "url": "",
+    "description": "Software for online and in-person festival payments including entry, food, and drinks.",
+    "revenue": "over $500/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "joshstrange",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42376811",
+    "comment_count": 5
+  },
+  {
+    "name": "Unlisted Jobs",
+    "url": "https://www.unlistedjobs.com/",
+    "description": "A scraper that collects job listings directly from company websites to help users find unadvertised job opportunities.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "Jabbs",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42376246",
+    "comment_count": 11
+  },
+  {
+    "name": "Sink It for Reddit",
+    "url": "https://gosinkit.com",
+    "description": "A browser extension for Safari, Chrome, Firefox, and Edge that enhances Reddit usability on the web, supporting all Reddit designs and actively developed.",
+    "revenue": "four figures a month",
+    "stack": [],
+    "year": 2024,
+    "author": "ssiddharth",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382252",
+    "comment_count": 5
+  },
+  {
+    "name": "Heliographe",
+    "url": "https://heliographe.net",
+    "description": "Photography software for Apple platforms, built with a focus on utility and UNIX philosophy.",
+    "revenue": "increasing revenue through App Store",
+    "stack": [],
+    "year": 2024,
+    "author": "heliographe",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42374487",
+    "comment_count": 4
+  },
+  {
+    "name": "FoxEV",
+    "url": "https://foxev.io/batteries",
+    "description": "A knowledge base and YouTube series offering free information on building custom electric cars and renewable energy, with paid support services.",
+    "revenue": "$400/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "janosch_123",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381174",
+    "comment_count": 3
+  },
+  {
+    "name": "SmoothTrack",
+    "url": "https://smoothtrack.app",
+    "description": "A no-equipment head tracking app for iOS and Android that allows users to control the game camera in simulation games using head movements, similar to TrackIR but without extra hardware.",
+    "revenue": "$15 per app purchase",
+    "stack": [
+      "iOS",
+      "Android"
+    ],
+    "year": 2024,
+    "author": "epaga",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42375403",
+    "comment_count": 10
+  },
+  {
+    "name": "LeetCode Wizard",
+    "url": "https://leetcodewizard.io",
+    "description": "An invisible Electron app that wraps ChatGPT/Claude to help cheat in coding interviews or online assessments.",
+    "revenue": "$15K/month",
+    "stack": [
+      "Electron"
+    ],
+    "year": 2024,
+    "author": "leetcodewizard",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42375440",
+    "comment_count": 3
+  },
+  {
+    "name": "The Greatest Books",
+    "url": "https://thegreatestbooks.org",
+    "description": "A website listing the greatest books, created in 2008 and maintained with high traffic.",
+    "revenue": "$2k a month",
+    "stack": [
+      "Rails",
+      "Postgresql"
+    ],
+    "year": 2024,
+    "author": "wtf242",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383656",
+    "comment_count": 3
+  },
+  {
+    "name": "Hacker News Newsletter",
+    "url": "https://hackernewsletter.com/",
+    "description": "A long-running newsletter with over 60,000 subscribers, featuring sponsorships as its primary revenue source.",
+    "revenue": "sponsorships (no specific amount mentioned)",
+    "stack": [],
+    "year": 2024,
+    "author": "duck",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380370",
+    "comment_count": 7
+  },
+  {
+    "name": "Pink Pigeon",
+    "url": "https://pinkpigeon.co.uk",
+    "description": "A fast, mobile-friendly CMS designed for low-JS, good SEO, and ease of use, especially for inexperienced users.",
+    "revenue": "£500 a month",
+    "stack": [],
+    "year": 2024,
+    "author": "PinkPigeon",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42375987",
+    "comment_count": 3
+  },
+  {
+    "name": "Audiala",
+    "url": "https://audiala.com",
+    "description": "Creates audioguides for historical and touristic places in cities worldwide.",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2024,
+    "author": "audiala",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385896",
+    "comment_count": 4
+  },
+  {
+    "name": "cophone.io",
+    "url": "https://cophone.io",
+    "description": "An online smartphone with a phone number, running Android in the cloud accessible via browser, supporting microphone and webcam for meetings.",
+    "revenue": null,
+    "stack": [
+      "Android"
+    ],
+    "year": 2024,
+    "author": "t1tech",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385818",
+    "comment_count": 4
+  },
+  {
+    "name": "Log Cabin Airbnb",
+    "url": "https://studiozenkai.com/post/airbnb-the-good-the-bad-the-profitable/",
+    "description": "A log cabin rental on Airbnb operated remotely with smart home devices and local support.",
+    "revenue": "$3k to $6k",
+    "stack": [
+      "smart home devices"
+    ],
+    "year": 2024,
+    "author": "mtw",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382157",
+    "comment_count": 2
+  },
+  {
+    "name": "Check Supply",
+    "url": "https://check.supply",
+    "description": "An iOS app that provides a cash app experience for mailing checks to old school landlords, gardeners, or others who only accept checks, using Plaid for account connection and tracking printing, mailing, and delivery.",
+    "revenue": null,
+    "stack": [
+      "iOS",
+      "Plaid"
+    ],
+    "year": 2024,
+    "author": "johnjungles",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383466",
+    "comment_count": 5
+  },
+  {
+    "name": "Mockoon",
+    "url": "https://mockoon.com",
+    "description": "An API mocking tool for developers.",
+    "revenue": "growing slowly but steadily, making a living from it",
+    "stack": [],
+    "year": 2024,
+    "author": "255kb",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42374907",
+    "comment_count": 2
+  },
+  {
+    "name": "The Stoned Craftsmen",
+    "url": "https://www.etsy.com/shop/TheStonedCraftsmen",
+    "description": "A side business selling solid wood rolling trays designed by the founder and their sister, operating on Etsy.",
+    "revenue": "$1200-2000 per month",
+    "stack": [
+      "Etsy",
+      "Shopify"
+    ],
+    "year": 2024,
+    "author": "jermaustin1",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380788",
+    "comment_count": 3
+  },
+  {
+    "name": "Krane",
+    "url": "https://apps.apple.com/ca/app/krane-build-relationships/id6738585311",
+    "description": "An app to scan business cards and export them to CSV for easier contact management.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "h317",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381780",
+    "comment_count": 1
+  },
+  {
+    "name": "ScrapeNinja",
+    "url": "https://scrapeninja.net",
+    "description": "A web scraping API with multiple rendering engines and proxy providers.",
+    "revenue": null,
+    "stack": [
+      "node.js",
+      "puppeteer"
+    ],
+    "year": 2024,
+    "author": "jetter",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381508",
+    "comment_count": 2
+  },
+  {
+    "name": "Laser Cut Wall Art",
+    "url": "",
+    "description": "Selling laser cut wall art primarily through Facebook Marketplace with local pickup.",
+    "revenue": "$2000-5000/month",
+    "stack": [],
+    "year": 2024,
+    "author": "giarc",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42379793",
+    "comment_count": 4
+  },
+  {
+    "name": "Janitorial business partnership",
+    "url": "",
+    "description": "A partnership with a local janitorial company targeting industrial clients for recurring nightly cleaning services, generating passive income with minimal ongoing work.",
+    "revenue": "$6-7k/mo",
+    "stack": [
+      "Apollo.AI"
+    ],
+    "year": 2024,
+    "author": "henrygabby",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42376005",
+    "comment_count": 2
+  },
+  {
+    "name": "Story Treasure",
+    "url": "https://www.storytreasure.ai/",
+    "description": "A platform to create illustrated children's books, especially useful for bilingual families.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "guico",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42379391",
+    "comment_count": 4
+  },
+  {
+    "name": "rigged.ai",
+    "url": "https://rigged.ai",
+    "description": "A platform for statistical processing and breakdown of options sweep data, providing real-time alerts to copy trade big Wall Street traders and a strategy playground for testing trading bot strategies.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "JoeMattie",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42379691",
+    "comment_count": 2
+  },
+  {
+    "name": "Tubbie",
+    "url": "https://www.fadel.io/tubbie",
+    "description": "A simple and clean Mac YouTube downloader.",
+    "revenue": "$700/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "ronyfadel",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385618",
+    "comment_count": 1
+  },
+  {
+    "name": "Web Design Agency",
+    "url": "",
+    "description": "A subscription-based web design and SEO service for small companies, focusing on lead tracking and fast response systems.",
+    "revenue": "$2080/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "burningChrome",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385307",
+    "comment_count": 1
+  },
+  {
+    "name": "terminal.shop",
+    "url": "terminal.shop",
+    "description": "A service that sells coffee through a terminal interface.",
+    "revenue": "6 figures in revenue the first year",
+    "stack": [],
+    "year": 2024,
+    "author": "thdxr",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42379600",
+    "comment_count": 5
+  },
+  {
+    "name": "FreeBSD/EC2 platform",
+    "url": "",
+    "description": "A project to run FreeBSD on EC2, maintained since 2011.",
+    "revenue": "sponsorship from Amazon and Patreon",
+    "stack": [
+      "FreeBSD",
+      "EC2"
+    ],
+    "year": 2024,
+    "author": "cperciva",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384891",
+    "comment_count": 0
+  },
+  {
+    "name": "Cronitor.io",
+    "url": "https://cronitor.io",
+    "description": "A SaaS for monitoring cron jobs and scheduled tasks.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "encoderer",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42379313",
+    "comment_count": 3
+  },
+  {
+    "name": "AI chatbot for OnlyFans models",
+    "url": null,
+    "description": "An AI chatbot that allows OnlyFans fans to interact with models via a third-party messaging app, using Llama 3 with few-shot prompting to mimic the models' communication style.",
+    "revenue": "$15k MRR",
+    "stack": [
+      "Llama 3",
+      "custom GPU infrastructure"
+    ],
+    "year": 2024,
+    "author": "GaryNumanVevo",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42376682",
+    "comment_count": 10
+  },
+  {
+    "name": "FLX Websites",
+    "url": "https://flxwebsites.com",
+    "description": "A service designing and building websites for locally-owned small businesses.",
+    "revenue": "$11k/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "nicksergeant",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382960",
+    "comment_count": 2
+  },
+  {
+    "name": "Deezign.io",
+    "url": "https://www.deezign.io",
+    "description": "A Figma to Bubble.io converter that speeds up development by converting designs into no-code implementations.",
+    "revenue": "$1.4K MRR",
+    "stack": [
+      "Figma",
+      "Bubble.io"
+    ],
+    "year": 2024,
+    "author": "kebob",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384629",
+    "comment_count": 2
+  },
+  {
+    "name": "News Minimalist",
+    "url": "https://www.newsminimalist.com/",
+    "description": "A news aggregator that ranks news by significance on a scale from 0 to 10, allowing users to set a significance threshold to filter out less important news.",
+    "revenue": "$1000/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "yakhinvadim",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380904",
+    "comment_count": 1
+  },
+  {
+    "name": "FormTester365",
+    "url": "https://formtester365.com",
+    "description": "A service that automatically tests web forms to ensure they are working and prevent lost leads.",
+    "revenue": "over $1k/mo",
+    "stack": [
+      "Gravity Forms",
+      "Wordpress"
+    ],
+    "year": 2024,
+    "author": "jonkratz",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42386857",
+    "comment_count": 1
+  },
+  {
+    "name": "Security Newsletter",
+    "url": "https://securitynewsletter.co",
+    "description": "A weekly cybersecurity newsletter summarizing interesting articles and listing known breaches and software issues.",
+    "revenue": "$25,000/year",
+    "stack": [],
+    "year": 2024,
+    "author": "dietervds",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385240",
+    "comment_count": 2
+  },
+  {
+    "name": "Forest Friends Tech",
+    "url": "https://forestfriends.tech",
+    "description": "A zine on system evaluations for LLM-driven apps, designed to help AI engineers implement maintainable production systems without jargon.",
+    "revenue": "Not explicitly mentioned",
+    "stack": [],
+    "year": 2024,
+    "author": "iamwil",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381878",
+    "comment_count": 1
+  },
+  {
+    "name": "5/3/1 app",
+    "url": "https://fivethreeone.app/",
+    "description": "A fitness app for workout programs, generating revenue from subscriptions.",
+    "revenue": "$1000/month",
+    "stack": [],
+    "year": 2024,
+    "author": "strongpigeon",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42379838",
+    "comment_count": 2
+  },
+  {
+    "name": "labs.iximiuz.com",
+    "url": "https://labs.iximiuz.com",
+    "description": "A learning-by-doing platform for DevOps, SRE, and infrastructure engineers.",
+    "revenue": "$3K MRR, ~$25K in annual revenue from Black Friday sale",
+    "stack": [],
+    "year": 2024,
+    "author": "iximiuz",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42388538",
+    "comment_count": 0
+  },
+  {
+    "name": "TradeInsight",
+    "url": "https://tradeinsight.info",
+    "description": "A website that alerts people about insider trading and congressional trading.",
+    "revenue": "Not $500/month yet, but towards it",
+    "stack": [],
+    "year": 2024,
+    "author": "timmit",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381438",
+    "comment_count": 3
+  },
+  {
+    "name": "gifmemes.io",
+    "url": "https://gifmemes.io",
+    "description": "A website for creating and sharing GIF memes.",
+    "revenue": "$100-300/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "kebsup",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42375890",
+    "comment_count": 1
+  },
+  {
+    "name": "PortDroid",
+    "url": "https://portdroid.net",
+    "description": "An Android Port Scanner and networking toolkit developed as a passion project since 2014.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "stealthcopter",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42375215",
+    "comment_count": 1
+  },
+  {
+    "name": "VoiceType",
+    "url": "https://carelesswhisper.app/",
+    "description": "A Mac dictation tool using Whisper Large Turbo for fast, accurate transcription, especially for technical terms like Rust library names.",
+    "revenue": null,
+    "stack": [
+      "Whisper Large Turbo",
+      "OpenAI",
+      "Mac"
+    ],
+    "year": 2024,
+    "author": "Tsarp",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384498",
+    "comment_count": 1
+  },
+  {
+    "name": "Digest",
+    "url": "https://usedigest.com",
+    "description": "A personalized daily digest service that aggregates and summarizes content from various sources like Reddit, social media, calendars, and newsletters using AI.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "digest",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42409552",
+    "comment_count": 0
+  },
+  {
+    "name": "Tomotcha",
+    "url": "https://tomotcha.com",
+    "description": "A Japanese green tea-of-the-month club run as a side project.",
+    "revenue": "$2000/month gross, $500/month net",
+    "stack": [],
+    "year": 2024,
+    "author": "Xixi",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385249",
+    "comment_count": 0
+  },
+  {
+    "name": "SMS to Slack",
+    "url": "https://smstoslack.com",
+    "description": "A service that enables two-way SMS messaging from Slack channels, useful for receiving 2FA codes and customer support.",
+    "revenue": null,
+    "stack": [
+      "Elixir",
+      "Fly",
+      "GCP",
+      "Stripe"
+    ],
+    "year": 2024,
+    "author": "gordalina",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383377",
+    "comment_count": 4
+  },
+  {
+    "name": "Zwemindex",
+    "url": "https://zwemindex.nl",
+    "description": "A website listing all pools and open water swimming places in the Netherlands, built with a focus on mobile usability and accessibility.",
+    "revenue": "$500/mo",
+    "stack": [
+      "PHP",
+      "MongoDB",
+      "Bulma CSS",
+      "Cloudflare",
+      "Google Sheets"
+    ],
+    "year": 2024,
+    "author": "kasperkamperman",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42393685",
+    "comment_count": 0
+  },
+  {
+    "name": "Jummbo",
+    "url": "https://www.jummbo.ai",
+    "description": "A tool that removes filler words from B2B sales prospecting by researching and writing custom emails and call scripts.",
+    "revenue": "$hundreds per month",
+    "stack": [],
+    "year": 2024,
+    "author": "apapli",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385602",
+    "comment_count": 1
+  },
+  {
+    "name": "Konfig",
+    "url": "https://konfig.xyz/",
+    "description": "A 3D model-based product configurator for customizable fixed-size products, replacing image-based systems.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "rolandpeelen",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381885",
+    "comment_count": 2
+  },
+  {
+    "name": "Tunnelmole",
+    "url": "https://tunnelmole.com/",
+    "description": "An open source tunneling tool similar to ngrok, now operating as a bootstrapped one-person company.",
+    "revenue": "$500 (AUD) per month",
+    "stack": [],
+    "year": 2024,
+    "author": "aussieguy1234",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384704",
+    "comment_count": 0
+  },
+  {
+    "name": "fiction podcast",
+    "url": "https://news.ycombinator.com/item?id=42380474",
+    "description": "A fiction podcast launched on HN that is now earning revenue.",
+    "revenue": "$1100 USD monthly",
+    "stack": [],
+    "year": 2024,
+    "author": "I-M-S",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380494",
+    "comment_count": 1
+  },
+  {
+    "name": "vpzen.io",
+    "url": "https://vpzen.io",
+    "description": "A dedicated VPN service with pay-as-you-go pricing, working with native VPN clients on multiple platforms.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "nick_pou",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383693",
+    "comment_count": 3
+  },
+  {
+    "name": "canine.sh",
+    "url": "https://canine.sh",
+    "description": "A platform to make any Kubernetes cluster as easy to use as Heroku for deploying web apps, cron jobs, etc.",
+    "revenue": ">$500",
+    "stack": [],
+    "year": 2024,
+    "author": "czhu12",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382730",
+    "comment_count": 1
+  },
+  {
+    "name": "DIGRIN",
+    "url": "https://digrin.com",
+    "description": "A dividend tracking website focused on providing valuable data for dividend growth investing.",
+    "revenue": "$740/mo",
+    "stack": [
+      "bootstrap"
+    ],
+    "year": 2024,
+    "author": "lucas03",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42375423",
+    "comment_count": 1
+  },
+  {
+    "name": "wolftickets.ai",
+    "url": "https://wolftickets.ai",
+    "description": "A collection of AI predictions for upcoming UFC fights with private future event predictions and public past results.",
+    "revenue": "$500/month",
+    "stack": [
+      "AI",
+      "ML",
+      "gen-ai"
+    ],
+    "year": 2024,
+    "author": "wolftickets",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42399221",
+    "comment_count": 0
+  },
+  {
+    "name": "Baby Teeth",
+    "url": "getbabyteeth.app",
+    "description": "A simple and cute iOS app for tracking baby teeth.",
+    "revenue": "1-2k EUR per month",
+    "stack": [
+      "Expo",
+      "Swift",
+      "SwiftUI"
+    ],
+    "year": 2024,
+    "author": "laber",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382196",
+    "comment_count": 1
+  },
+  {
+    "name": "Reminder Sync for Obsidian",
+    "url": "https://turquoisehexagon.co.uk/remindersync/",
+    "description": "A tool that syncs reminders for tasks created in Obsidian.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "rahilb",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381343",
+    "comment_count": 0
+  },
+  {
+    "name": "Cluehound",
+    "url": "https://cluehound.com",
+    "description": "An illustrated narrative puzzle magazine similar to escape games, story-driven and designed for short sessions at your own pace.",
+    "revenue": "$500 profit per month",
+    "stack": [
+      "Node.js",
+      "Stripe",
+      "Meta pixel"
+    ],
+    "year": 2024,
+    "author": "tikotus",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42375603",
+    "comment_count": 3
+  },
+  {
+    "name": "SweetClay",
+    "url": "https://sweetclay.net",
+    "description": "A website for buying organic Mississippi sweet potatoes online.",
+    "revenue": "$910 in the first three weeks",
+    "stack": [],
+    "year": 2024,
+    "author": "greenie_beans",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381540",
+    "comment_count": 2
+  },
+  {
+    "name": "BrainDump",
+    "url": "https://voicebraindump.com/",
+    "description": "An Apple ecosystem-based voice note-taking app that transcribes voice to text using Whisper and rewrites it with LLMs for clarity, used for journaling and meeting notes.",
+    "revenue": null,
+    "stack": [
+      "Whisper",
+      "LLMs"
+    ],
+    "year": 2024,
+    "author": "Tsarp",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384525",
+    "comment_count": 2
+  },
+  {
+    "name": "BudgetSheet",
+    "url": "https://www.budgetsheet.com",
+    "description": "A Google Sheets Add-on that imports bank transactions via Plaid, formats and auto-categorizes them with custom rules, and automates nightly data imports.",
+    "revenue": "$5,000/month",
+    "stack": [
+      "Google Sheets Add-on",
+      "Plaid"
+    ],
+    "year": 2024,
+    "author": "vlucas",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42389230",
+    "comment_count": 1
+  },
+  {
+    "name": "Elite Hoops",
+    "url": "https://elitehoopsapp.com",
+    "description": "A basketball coaching app.",
+    "revenue": "$3.5k/month",
+    "stack": [],
+    "year": 2024,
+    "author": "jordanmorgan10",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381279",
+    "comment_count": 0
+  },
+  {
+    "name": "Pikuma",
+    "url": "https://pikuma.com",
+    "description": "A website teaching computer science, retro programming, and mathematics.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "gustavopezzi",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382635",
+    "comment_count": 2
+  },
+  {
+    "name": "Filestash",
+    "url": "https://github.com/mickael-kerjean/filestash",
+    "description": "An open source Dropbox-like frontend for various cloud storage and protocols.",
+    "revenue": "From customization and enterprise plugins like SSO and audit plugins.",
+    "stack": [],
+    "year": 2024,
+    "author": "mickael-kerjean",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383567",
+    "comment_count": 1
+  },
+  {
+    "name": "Team Fortress 2 Pixel (Hat) Trading",
+    "url": "https://marketplace.tf",
+    "description": "Buys and sells pixels (hats) in the video game Team Fortress 2 on a third-party marketplace.",
+    "revenue": "$10k-15k per month",
+    "stack": [],
+    "year": 2024,
+    "author": "idoma",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383958",
+    "comment_count": 3
+  },
+  {
+    "name": "pdf.to",
+    "url": "https://www.pdf.to",
+    "description": "A website for converting PDFs, created after encountering a PDF issue and acquiring the available domain.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "nadermx",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383220",
+    "comment_count": 3
+  },
+  {
+    "name": "Cadence Prints",
+    "url": "https://cadenceprints.com",
+    "description": "A service that uses Strava or fitness data to create beautiful wall art.",
+    "revenue": "a few hundred $/month",
+    "stack": [],
+    "year": 2024,
+    "author": "Ave",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385254",
+    "comment_count": 1
+  },
+  {
+    "name": "InterviewSolver",
+    "url": "https://interviewsolver.com",
+    "description": "An AI copilot for helping with LeetCode interviews.",
+    "revenue": "$6000/month",
+    "stack": [],
+    "year": 2024,
+    "author": "erics32",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383928",
+    "comment_count": 3
+  },
+  {
+    "name": "Canyon",
+    "url": "https://www.usecanyon.com/",
+    "description": "A tool to help jobseekers land their dream job by perfecting resumes, speeding up applications, and providing mock interviews.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "arahman4710",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381844",
+    "comment_count": 1
+  },
+  {
+    "name": "Littlerbooks",
+    "url": "https://littlerbooks.com",
+    "description": "A website for sharing nonfiction book summaries and notes.",
+    "revenue": "Not specified",
+    "stack": [],
+    "year": 2024,
+    "author": "ssz",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42379261",
+    "comment_count": 1
+  },
+  {
+    "name": "AdBlocker Detection SaaS",
+    "url": "",
+    "description": "A mini-SaaS tool that identifies content and scripts blocked by AdBlockers, Firefox Tracking Protection, and similar tools on websites.",
+    "revenue": "$600/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "dowakin",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380300",
+    "comment_count": 1
+  },
+  {
+    "name": "Tender",
+    "url": "https://tender.run",
+    "description": "A personal finance app with an inbox-based workflow for reviewing transactions, featuring swiping and keyboard shortcuts.",
+    "revenue": null,
+    "stack": [
+      "automerge CRDT",
+      "sqlite"
+    ],
+    "year": 2024,
+    "author": "stpn",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383394",
+    "comment_count": 0
+  },
+  {
+    "name": "clearpayments.ca",
+    "url": "clearpayments.ca",
+    "description": "A payment processing service that operates through word-of-mouth and referrals, offering clients the best rates possible.",
+    "revenue": "$3500/m - $5000/m",
+    "stack": [],
+    "year": 2024,
+    "author": "crazymoka",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380515",
+    "comment_count": 0
+  },
+  {
+    "name": "SparkFX",
+    "url": "https://sparkfxstudio.com/",
+    "description": "An app to improve workflow efficiency in Davinci Resolve.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "rstupek",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42379512",
+    "comment_count": 1
+  },
+  {
+    "name": "monitorprices.org",
+    "url": "https://monitorprices.org",
+    "description": "A website listing available monitors on Amazon with additional filters.",
+    "revenue": "$125 a month, maybe double if there's a creator reward campaign running.",
+    "stack": [],
+    "year": 2024,
+    "author": "woutr_be",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385238",
+    "comment_count": 1
+  },
+  {
+    "name": "Marin Labs",
+    "url": "https://www.marinlabs.io",
+    "description": "A studio developing various projects, including a mobile trivia game tropicalized for Latin America.",
+    "revenue": "$14.00 MRR",
+    "stack": [],
+    "year": 2024,
+    "author": "marco-dev",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381626",
+    "comment_count": 0
+  },
+  {
+    "name": "ResumeyPro",
+    "url": "https://resumey.pro/",
+    "description": "A Markdown resume builder launched as a side project in 2020.",
+    "revenue": "Consistently generating revenue via organic search with minimal active marketing.",
+    "stack": [],
+    "year": 2024,
+    "author": "kavyaj",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42386292",
+    "comment_count": 0
+  },
+  {
+    "name": "Minute Master",
+    "url": "https://minute-master.com",
+    "description": "A board governance and minutes generation tool for fund administrators and trust companies that automates regulatory meeting documentation.",
+    "revenue": "Landed a couple of clients this year with a good pipeline for next year",
+    "stack": [],
+    "year": 2024,
+    "author": "simonswords82",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385966",
+    "comment_count": 0
+  },
+  {
+    "name": "hyperpaper",
+    "url": "https://hyperpaper.me/",
+    "description": "A custom planner and calendar generator for e-ink tablets like reMarkable, Supernote, and Kindle Scribe.",
+    "revenue": "over $500/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "funksta",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380779",
+    "comment_count": 2
+  },
+  {
+    "name": "Substack2Kindle",
+    "url": "https://substack2kindle.com",
+    "description": "A service that allows users to read Substack newsletters on their Kindle.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "alpn",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382602",
+    "comment_count": 1
+  },
+  {
+    "name": "Bike Parts Store",
+    "url": "https://bike-parts.cc",
+    "description": "An online store selling bike parts, integrated with a custom middleware to an ERP system and hosted on home infrastructure.",
+    "revenue": null,
+    "stack": [
+      "ERP system",
+      "custom middleware",
+      "home-hosted infrastructure",
+      "database"
+    ],
+    "year": 2024,
+    "author": "vachina",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384859",
+    "comment_count": 0
+  },
+  {
+    "name": "Attic Manager",
+    "url": "https://guacosoft.com/attic/",
+    "description": "A home inventory software that allows users to import data from discontinued Quicken Home Inventory programs.",
+    "revenue": "over $500 per month during some months",
+    "stack": [],
+    "year": 2024,
+    "author": "babuskov",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42386209",
+    "comment_count": 0
+  },
+  {
+    "name": "Heuristica",
+    "url": "https://www.heuristi.ca/",
+    "description": "An AI-powered concept mapping tool for visualizing learning and research, based on subscriptions.",
+    "revenue": "Pays for rent",
+    "stack": [],
+    "year": 2024,
+    "author": "predictand",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42386675",
+    "comment_count": 1
+  },
+  {
+    "name": "IELTS IELTS",
+    "url": "https://ieltsielts.com/",
+    "description": "A platform offering simple speech shadowing exercises to help people train for IELTS Speaking.",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2024,
+    "author": "kimchidude",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42386570",
+    "comment_count": 0
+  },
+  {
+    "name": "NRI Meet",
+    "url": "https://www.nrimeet.app/",
+    "description": "A dating and meetup app exclusively for Indians and Non-resident Indians, available on iOS and Android.",
+    "revenue": "$250 per month",
+    "stack": [],
+    "year": 2024,
+    "author": "throwawayUS9",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383605",
+    "comment_count": 0
+  },
+  {
+    "name": "Wavekit",
+    "url": "https://wavekit.app/",
+    "description": "An audio hosting service with high quality audio and a customizable unbranded player.",
+    "revenue": "Not hitting $500 consistently",
+    "stack": [],
+    "year": 2024,
+    "author": "pier25",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381582",
+    "comment_count": 0
+  },
+  {
+    "name": "ESP32 Rainbow",
+    "url": "https://www.esp32rainbow.com/",
+    "description": "A hardware project related to ESP32 development, possibly involving colorful or creative applications.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "iamflimflam1",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381759",
+    "comment_count": 1
+  },
+  {
+    "name": "Virtual Graph Paper",
+    "url": "https://virtual-graph-paper.com",
+    "description": "A web app for sketching on a grid, serving as an approachable vector graphics editor for use-cases where tools like Illustrator or CAD aren't suitable.",
+    "revenue": "Paid version available as a downloadable Electron app or subscription, but no explicit revenue amount mentioned.",
+    "stack": [
+      "Electron"
+    ],
+    "year": 2024,
+    "author": "graphpapermaker",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380936",
+    "comment_count": 1
+  },
+  {
+    "name": "Skybear",
+    "url": "https://www.skybear.net",
+    "description": "A managed platform for automating HTTP API testing using Hurl files with features like automatic report persistence, scheduled runs, and support for multiple files.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "lambrospetrou",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42422729",
+    "comment_count": 0
+  },
+  {
+    "name": "Tapflow",
+    "url": "https://tapflow.co",
+    "description": "A platform where tech professionals can turn internal documents, templates, and workflows into paid products to create passive income.",
+    "revenue": "$2-3k/month",
+    "stack": [],
+    "year": 2024,
+    "author": "hewmax",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42447861",
+    "comment_count": 0
+  },
+  {
+    "name": "coverLetterGPT.xyz",
+    "url": "https://coverLetterGPT.xyz",
+    "description": "A super simple GPT wrapper that generates cover letters.",
+    "revenue": "$600/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "hot_town",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42451437",
+    "comment_count": 0
+  },
+  {
+    "name": "Private API Scraping Service",
+    "url": "",
+    "description": "A service providing custom private APIs for clients to integrate scraped data from Google, Bing, Walmart, and eBay into their workflows.",
+    "revenue": "$600/month",
+    "stack": [],
+    "year": 2024,
+    "author": "ruzig",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42386855",
+    "comment_count": 0
+  },
+  {
+    "name": "ScreenMemory",
+    "url": "https://screenmemory.app",
+    "description": "A macOS app that records your screens and allows you to navigate a timeline or calendar, similar to Rewind.ai.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "wingerlang",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384817",
+    "comment_count": 0
+  },
+  {
+    "name": "Chesscraft",
+    "url": "www.chesscraft.ca",
+    "description": "A chess variant AI sandbox game available on Google Play and Steam.",
+    "revenue": "$400/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "zulban",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384792",
+    "comment_count": 1
+  },
+  {
+    "name": "SerpentineGame",
+    "url": "https://SerpentineGame.com",
+    "description": "A clone of Tangleword, which is a clone of Boggle, with advertisements and premium subscriptions.",
+    "revenue": "close to $500/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "AtticusTheGreat",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380889",
+    "comment_count": 1
+  },
+  {
+    "name": "Vidi",
+    "url": "https://vidi.plomo.se/",
+    "description": "A modular media center compatible with Stremio addons for Apple platforms.",
+    "revenue": "Not specified",
+    "stack": [],
+    "year": 2024,
+    "author": "parski",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382295",
+    "comment_count": 0
+  },
+  {
+    "name": "MemoryPlugin",
+    "url": "https://www.memoryplugin.com",
+    "description": "A plugin that adds long-term memory to AI chatbots like ChatGPT, Claude, Gemini, TypingMind, and LibreChat on desktop and mobile browsers.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "asaddhamani",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384048",
+    "comment_count": 0
+  },
+  {
+    "name": "ClickConnector",
+    "url": "https://clickconnector.com/",
+    "description": "A customer support platform for SaaS products offering HelpDesk, Knowledge Base, and other tools to enhance customer success.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "ragularuban",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42386952",
+    "comment_count": 0
+  },
+  {
+    "name": "Open Courser",
+    "url": "https://opencourser.com",
+    "description": "An online course catalog and aggregator built as a personal project to help users find courses from various platforms.",
+    "revenue": "Not explicitly mentioned",
+    "stack": [
+      "Flask",
+      "Jinja",
+      "JavaScript"
+    ],
+    "year": 2024,
+    "author": "denz88",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42393154",
+    "comment_count": 0
+  },
+  {
+    "name": "Invoice Maker Quote Builder",
+    "url": "https://apps.apple.com/app/invoice-maker-quote-builder/id1538355349",
+    "description": "An invoice maker app for iOS and macOS with a custom file format for invoices.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "lpeancovschi",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382590",
+    "comment_count": 0
+  },
+  {
+    "name": "Roguestargun",
+    "url": "https://roguestargun.com",
+    "description": "A solo-developed VR starfighter combat simulator available for Quest, PCVR, and soon PICO4.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "LarsDu88",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42379218",
+    "comment_count": 1
+  },
+  {
+    "name": "File Transfer and Notification Application for Law Firm",
+    "url": "",
+    "description": "A small application for a law firm that enables file transfer, notifies users about files to upload, and displays progress.",
+    "revenue": "€10000 in 6 months",
+    "stack": [],
+    "year": 2024,
+    "author": "ramthehack",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380416",
+    "comment_count": 0
+  },
+  {
+    "name": "Hortus.dev LED pin badges",
+    "url": "https://hortus.dev",
+    "description": "A site selling LED pin badges that has grown into a self-sustaining small business.",
+    "revenue": "Not enough to live off, but sustains itself and funds future projects.",
+    "stack": [],
+    "year": 2024,
+    "author": "thip",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42408721",
+    "comment_count": 1
+  },
+  {
+    "name": "Paivarinne Farm",
+    "url": "www.paivarinne.farm",
+    "description": "A farm selling pasture-raised eggs directly to customers through Facebook-based farmers markets.",
+    "revenue": "€3,000/mo",
+    "stack": [
+      "Facebook"
+    ],
+    "year": 2024,
+    "author": "raptorraver",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42430195",
+    "comment_count": 1
+  },
+  {
+    "name": "SpaceShout",
+    "url": "https://spaceshout.com",
+    "description": "A social mapping platform focused on user content and interaction.",
+    "revenue": "Not yet making money, but on the way to start with profits.",
+    "stack": [],
+    "year": 2024,
+    "author": "flashu",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381179",
+    "comment_count": 1
+  },
+  {
+    "name": "FitBee",
+    "url": "https://apps.apple.com/us/app/fitbee-calorie-counter/id6443979108",
+    "description": "A fast and lightweight calorie and macro tracker with features like nutrition label scanning and photo logging.",
+    "revenue": null,
+    "stack": null,
+    "year": 2024,
+    "author": "yqiang",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42379744",
+    "comment_count": 1
+  },
+  {
+    "name": "Gadabout.ai",
+    "url": "https://gadabout.ai",
+    "description": "A tool using multimodal LLMs and computer use to reduce user testing burden, now positioned for marketing teams to run deep competitor analysis and monitoring.",
+    "revenue": "Two pilot customers through word of mouth expected to double next month.",
+    "stack": [
+      "multimodal LLMs",
+      "computer use"
+    ],
+    "year": 2024,
+    "author": "yanneves",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42404525",
+    "comment_count": 0
+  },
+  {
+    "name": "Data Integration Guide",
+    "url": "https://www.udemy.com/course/data-integration-guide/",
+    "description": "A course on data integration for professionals, based on lessons from complex projects.",
+    "revenue": "€300/month",
+    "stack": [],
+    "year": 2024,
+    "author": "algoghostf",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383435",
+    "comment_count": 0
+  },
+  {
+    "name": "Keila",
+    "url": "https://www.keila.io",
+    "description": "An open-source email marketing platform built with Elixir and Phoenix.",
+    "revenue": "just crossed MRR threshold",
+    "stack": [
+      "Elixir",
+      "Phoenix"
+    ],
+    "year": 2024,
+    "author": "pentacent_hq",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380127",
+    "comment_count": 0
+  },
+  {
+    "name": "The Maps Guy",
+    "url": "themapsguy.com",
+    "description": "A business selling 3D laser manufactured maps.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "trubalca",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385821",
+    "comment_count": 1
+  },
+  {
+    "name": "OnlineOrNot",
+    "url": "https://onlineornot.com",
+    "description": "A service that monitors the uptime of websites, APIs, or cron jobs to check if they are online.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "rozenmd",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42386790",
+    "comment_count": 1
+  },
+  {
+    "name": "Blymp",
+    "url": "https://blymp.ca",
+    "description": "A B2B SaaS platform that provides tools for out-of-home advertising companies to sell and market their inventory, similar to Shopify for small businesses.",
+    "revenue": "$600/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "true_pk",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384360",
+    "comment_count": 1
+  },
+  {
+    "name": "Batch Compress",
+    "url": "https://batchcompress.com/en",
+    "description": "An online image compressor that converts images to WebP or JPEG with high compression to reduce file size, offering unlimited free use without account requirements.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "jfoster",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384983",
+    "comment_count": 1
+  },
+  {
+    "name": "Audjust",
+    "url": "https://www.audjust.com/",
+    "description": "A service to manipulate audio by shortening, lengthening, or looping for video editors and music producers.",
+    "revenue": "enough to cover costs and make some profit",
+    "stack": [],
+    "year": 2024,
+    "author": "jaflo",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381265",
+    "comment_count": 0
+  },
+  {
+    "name": "MyTestament.io",
+    "url": "https://mytestament.io/",
+    "description": "A service for securely storing and designating digital inheritances to be shared with loved ones after death.",
+    "revenue": "$500/mo (projected)",
+    "stack": [],
+    "year": 2024,
+    "author": "mytestament",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382827",
+    "comment_count": 0
+  },
+  {
+    "name": "asset.plus",
+    "url": "https://asset.plus/",
+    "description": "A market making project focused on a niche between decentralized and centralized exchanges, currently generating revenue through trading bots.",
+    "revenue": "Not explicitly mentioned",
+    "stack": [],
+    "year": 2024,
+    "author": "gamebak",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42386567",
+    "comment_count": 0
+  },
+  {
+    "name": "Achromatic",
+    "url": "https://achromatic.dev",
+    "description": "A Next.js SaaS starter kit that is not crap, designed to help others by prioritizing features and customer requests.",
+    "revenue": null,
+    "stack": [
+      "Next.js"
+    ],
+    "year": 2024,
+    "author": "mjomaa",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382667",
+    "comment_count": 0
+  },
+  {
+    "name": "Olympiad Math Exercises for Kids",
+    "url": "https://mathclub.ai/math-exercises",
+    "description": "A platform offering weekly math contest problems with AI assistance and hosting math olympiads.",
+    "revenue": "$50/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "ikliuger",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42421370",
+    "comment_count": 0
+  },
+  {
+    "name": "Atomic Note-Taking",
+    "url": "https://atomicnotetaking.com",
+    "description": "A book and course on note-taking methods, generating revenue from sales in multiple countries.",
+    "revenue": "$1K a month",
+    "stack": [],
+    "year": 2024,
+    "author": "martin-adams",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380809",
+    "comment_count": 0
+  },
+  {
+    "name": "CodeApprove",
+    "url": "https://codeapprove.com",
+    "description": "A better code review interface for teams working on GitHub, featuring fast workflows and keyboard shortcuts.",
+    "revenue": "Not enough for full-time, but sustainable over 3+ years",
+    "stack": [],
+    "year": 2024,
+    "author": "habosa",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384824",
+    "comment_count": 0
+  },
+  {
+    "name": "Produktly",
+    "url": "https://produktly.com/",
+    "description": "A suite of tools to improve onboarding, product adoption, and retention, including product tours, checklists, feedback widgets, and changelogs.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "Kkoala",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382785",
+    "comment_count": 0
+  },
+  {
+    "name": "Strands Today",
+    "url": "https://strands.today",
+    "description": "A website that allows users to check daily puzzle answers and play previous games for the NYT Strands puzzle.",
+    "revenue": "$600 per month",
+    "stack": [],
+    "year": 2024,
+    "author": "jacksonLiu89",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42398490",
+    "comment_count": 1
+  },
+  {
+    "name": "Reqres",
+    "url": "https://reqres.in/",
+    "description": "A fake API for testing and prototyping.",
+    "revenue": "roughly that much in ads revenue",
+    "stack": [],
+    "year": 2024,
+    "author": "benhowdle",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42376028",
+    "comment_count": 0
+  },
+  {
+    "name": "WhatDinner",
+    "url": "https://whatdinner.com/",
+    "description": "A Tinder-like app to help decide what to eat.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "kiru_io",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381161",
+    "comment_count": 0
+  },
+  {
+    "name": "Board game/trading card store",
+    "url": "",
+    "description": "A physical store selling board games and trading cards while hosting events.",
+    "revenue": "",
+    "stack": [],
+    "year": 2024,
+    "author": "fsn4dN69ey",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42400286",
+    "comment_count": 1
+  },
+  {
+    "name": "Inbox Zero",
+    "url": "https://getinboxzero.com",
+    "description": "An AI personal assistant for email that helps users spend 50% less time on email.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "elieskilled",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385331",
+    "comment_count": 0
+  },
+  {
+    "name": "Figmage",
+    "url": "https://figmage.com",
+    "description": "A Figma plugin that simplifies uploading, hosting, and managing images from Figma.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "catchmeifyoucan",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380124",
+    "comment_count": 0
+  },
+  {
+    "name": "FIXParser",
+    "url": "https://fixparser.dev",
+    "description": "A tool for parsing FIX protocol messages, originally built to learn high-frequency trading.",
+    "revenue": "It doesn’t make much money",
+    "stack": [],
+    "year": 2024,
+    "author": "logotype",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42410822",
+    "comment_count": 1
+  },
+  {
+    "name": "name redacted",
+    "url": "",
+    "description": "A business designing, manufacturing, and selling cool, tough products like tactical pens, with a focus on customer service and lifetime guarantees.",
+    "revenue": "$2K–3K/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "_563m",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42420588",
+    "comment_count": 0
+  },
+  {
+    "name": "Sports Toto Match Analyzer",
+    "url": "https://play.google.com/store/apps/details?id=com.tistory.ddaying.pm",
+    "description": "An app that analyzes sports Toto match results in Korea, generating revenue through in-app purchases.",
+    "revenue": "$500–550 per month",
+    "stack": [],
+    "year": 2024,
+    "author": "ddaying",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42396147",
+    "comment_count": 0
+  },
+  {
+    "name": "3D Printing Products",
+    "url": "",
+    "description": "A 3D printing business selling commercial-compatible or licensed models, with plans to create original functional items.",
+    "revenue": "$500-1000/mo",
+    "stack": [
+      "Autodesk Fusion"
+    ],
+    "year": 2024,
+    "author": "bdcravens",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381512",
+    "comment_count": 1
+  },
+  {
+    "name": "runjs.app",
+    "url": "https://runjs.app",
+    "description": "An online tool for running JavaScript and testing ideas with a freemium model.",
+    "revenue": "Not explicitly mentioned",
+    "stack": [],
+    "year": 2024,
+    "author": "lukehaas",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42387378",
+    "comment_count": 0
+  },
+  {
+    "name": "Loan Kundli",
+    "url": "https://loankundli.com/",
+    "description": "A tool to estimate savings from prepayments during a home loan tenure, allowing users to choose to reduce EMI or tenure for each prepayment.",
+    "revenue": "Not making any revenue",
+    "stack": [],
+    "year": 2024,
+    "author": "punitvara",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42402011",
+    "comment_count": 0
+  },
+  {
+    "name": "Everyday Chengyu",
+    "url": "https://everydaychengyu.com/",
+    "description": "A language learning app that helps learners study common Chinese idioms with free website content and a kid-friendly app featuring flashcards and spaced repetition.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "andyfchen",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42381196",
+    "comment_count": 0
+  },
+  {
+    "name": "PostalAgent",
+    "url": "https://postalagent.com",
+    "description": "A side project that allows users to build mailing lists and send postcards online.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "AutoAPI",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382418",
+    "comment_count": 2
+  },
+  {
+    "name": "SnipCSS",
+    "url": "https://chromewebstore.google.com/detail/snipcss/hbdnoadcmapfbngbodpppofgagiclicf",
+    "description": "A Chrome extension for converting CSS snippets, recently added Tailwind conversion.",
+    "revenue": "$500-$1k/mo",
+    "stack": [
+      "Tailwind"
+    ],
+    "year": 2024,
+    "author": "mrieck",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42380847",
+    "comment_count": 0
+  },
+  {
+    "name": "Hosted Gitea and Dopeloop AI",
+    "url": "https://hostedgitea.com, https://dopeloop.ai",
+    "description": "A combination of hosted Gitea and Dopeloop AI services generating revenue.",
+    "revenue": "$500 per month",
+    "stack": [],
+    "year": 2024,
+    "author": "chr15m",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42386453",
+    "comment_count": 0
+  },
+  {
+    "name": "ComicsMaker.ai",
+    "url": "https://www.comicsmaker.ai",
+    "description": "A service where users can create comics using AI-generated artwork.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "com-adm",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42423347",
+    "comment_count": 1
+  },
+  {
+    "name": "Reddit Saved",
+    "url": "https://reddit-saved.com",
+    "description": "A tool to search and organize Reddit saves for later reference.",
+    "revenue": "Not monetized yet",
+    "stack": [],
+    "year": 2024,
+    "author": "th3owner",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42403342",
+    "comment_count": 0
+  },
+  {
+    "name": "Plant Care Identify Flowers",
+    "url": "https://apps.apple.com/app/plant-care-identify-flowers/id1610611017",
+    "description": "A plant care app for iOS and macOS that helps users identify flowers and manage plant care.",
+    "revenue": "few hundreds $$$",
+    "stack": [],
+    "year": 2024,
+    "author": "lpeancovschi",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382204",
+    "comment_count": 0
+  },
+  {
+    "name": "LinkedIn Profile Optimizer",
+    "url": "http://profileoptimizer.org/",
+    "description": "An AI-driven service that enhances LinkedIn profiles with personalized recommendations to improve visibility and appeal to recruiters.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "flixing",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382300",
+    "comment_count": 0
+  },
+  {
+    "name": "ZenMic",
+    "url": "https://zenmic.com",
+    "description": "An AI-powered tool for generating podcasts.",
+    "revenue": "Zero MRR but makes money indirectly through freelancing clients.",
+    "stack": [],
+    "year": 2024,
+    "author": "motyar",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385671",
+    "comment_count": 1
+  },
+  {
+    "name": "spl.ing",
+    "url": "https://spl.ing",
+    "description": "A website spellchecker and proofreader.",
+    "revenue": null,
+    "stack": [
+      "aws step functions"
+    ],
+    "year": 2024,
+    "author": "cdosborn",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42385611",
+    "comment_count": 1
+  },
+  {
+    "name": "Professional Resume Builder",
+    "url": "https://apps.apple.com/app/professional-resume-builder/id1358430976",
+    "description": "A resume builder app for iOS and macOS.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "lpeancovschi",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382600",
+    "comment_count": 0
+  },
+  {
+    "name": "OneQuery",
+    "url": "https://www.onequery.app",
+    "description": "An AI web agent that fetches detailed information by browsing sites like a human.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "addy999",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42397260",
+    "comment_count": 0
+  },
+  {
+    "name": "Loaf",
+    "url": "https://getloaf.io/",
+    "description": "An app that allows users to customize SVG animations built into the platform.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "knowingathing",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382078",
+    "comment_count": 0
+  },
+  {
+    "name": "SendBroadcast",
+    "url": "https://sendbroadcast.net",
+    "description": "A tool for sending broadcasts, originally built for personal use and now being sold.",
+    "revenue": "$1500 over 2 months",
+    "stack": [],
+    "year": 2024,
+    "author": "drchiu",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383254",
+    "comment_count": 0
+  },
+  {
+    "name": "PathApp",
+    "url": "https://pathapp.co.uk",
+    "description": "A side project built with ex-colleagues, generating income through non-revenue means.",
+    "revenue": "$500/month",
+    "stack": [],
+    "year": 2024,
+    "author": "mnfrmcddlykrnl",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42415788",
+    "comment_count": 0
+  },
+  {
+    "name": "Violinist.io",
+    "url": "https://violinist.io",
+    "description": "A PHP/Composer update service built in 2017.",
+    "revenue": "passed that figure probably something like 2021",
+    "stack": [
+      "PHP",
+      "Composer"
+    ],
+    "year": 2024,
+    "author": "orkj",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383657",
+    "comment_count": 0
+  },
+  {
+    "name": "PhotoVortex",
+    "url": "https://www.photovortex.com",
+    "description": "An AI photo generator that serves as a wrapper for SD/FLUX models.",
+    "revenue": "$500MRR",
+    "stack": [],
+    "year": 2024,
+    "author": "cmenge",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42386053",
+    "comment_count": 0
+  },
+  {
+    "name": "Hands-on Scala",
+    "url": "https://www.handsonscala.com/",
+    "description": "A book about Scala programming that continues to generate revenue years after its release.",
+    "revenue": "$300-400/month",
+    "stack": [],
+    "year": 2024,
+    "author": "lihaoyi",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383919",
+    "comment_count": 1
+  },
+  {
+    "name": "MeetEffective",
+    "url": "https://meeteffective.com/",
+    "description": "A tool for useful one-on-one meetings.",
+    "revenue": "Not charging for it though right now",
+    "stack": [],
+    "year": 2024,
+    "author": "kgthegreat",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384063",
+    "comment_count": 1
+  },
+  {
+    "name": "agentic marketplace",
+    "url": "",
+    "description": "A marketplace where users create agents that earn a share of task prices when they participate in task chains.",
+    "revenue": "$500/mo",
+    "stack": [],
+    "year": 2024,
+    "author": "ilrwbwrkhv",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382249",
+    "comment_count": 0
+  },
+  {
+    "name": "Loshadki",
+    "url": "https://loshadki.app",
+    "description": "Mac and iOS apps for users.",
+    "revenue": "$1000-1500 monthly",
+    "stack": [],
+    "year": 2024,
+    "author": "outcoldman",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42387999",
+    "comment_count": 0
+  },
+  {
+    "name": "thatsexquiz.com",
+    "url": "thatsexquiz.com",
+    "description": "A quiz for couples to improve their intimacy.",
+    "revenue": "$50 per day",
+    "stack": [],
+    "year": 2024,
+    "author": "aarreedd",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42383513",
+    "comment_count": 1
+  },
+  {
+    "name": "Kenyanlist.net",
+    "url": "https://kenyanlist.net",
+    "description": "A local Kenyan forum.",
+    "revenue": null,
+    "stack": [],
+    "year": 2024,
+    "author": "henrygrew",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42401040",
+    "comment_count": 0
+  },
+  {
+    "name": "Rows and Tables",
+    "url": "https://rowsandtables.com",
+    "description": "A SQL card game.",
+    "revenue": "",
+    "stack": [],
+    "year": 2024,
+    "author": "Rinum",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382867",
+    "comment_count": 0
+  },
+  {
+    "name": "Notion Boost",
+    "url": "https://gourav.io/blog/notion-boost",
+    "description": "An open-source side project that enhances Notion with additional features.",
+    "revenue": "$10k total",
+    "stack": [],
+    "year": 2024,
+    "author": "jerrygoyal",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42384801",
+    "comment_count": 0
+  },
+  {
+    "name": "Instabooks.ai",
+    "url": "https://instabooks.ai",
+    "description": "An AI book generator that creates 200+ page books on any topic in about 30 minutes, selling them in pdf, epub, and print formats.",
+    "revenue": null,
+    "stack": [
+      "LLM",
+      "GPT-4"
+    ],
+    "year": 2024,
+    "author": "melvinmelih",
+    "hn_discussion_url": "https://news.ycombinator.com/item?id=42382732",
+    "comment_count": 4
+  }
+]
