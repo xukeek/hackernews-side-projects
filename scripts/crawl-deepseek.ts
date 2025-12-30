@@ -36,6 +36,7 @@ interface Project {
   author: string;
   hn_discussion_url?: string;
   comment_count?: number;
+  crawled_at?: string;
 }
 
 async function fetchItem(id: number | string) {
@@ -105,6 +106,7 @@ async function processYear(year: number, threadId: string): Promise<Project[]> {
             author: comment.by,
             hn_discussion_url: `https://news.ycombinator.com/item?id=${kidId}`,
             comment_count: comment.kids?.length || 0,
+            crawled_at: new Date().toISOString(),
           };
           projects.push(project);
           extractedCount++;
