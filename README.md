@@ -31,53 +31,9 @@ The data is automatically updated daily via GitHub Actions to capture new projec
 - 💬 Direct links to Hacker News discussions
 - 📈 Revenue tracking and tech stack analysis
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js 20+
-- pnpm (recommended) or npm
-
-### Installation
-
-```bash
-# Install dependencies
-pnpm install
-
-# Run development server
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-### Data Crawling
-
-To manually update project data:
-
-```bash
-# Update all years
-pnpm crawl:deepseek
-
-# Update 2025 only
-pnpm crawl:2025
-```
-
-**Note:** You need to set `DEEPSEEK_API_KEY` in your `.env.local` file for the crawler to work.
-
 ## Tech Stack
 
-- **Framework:** Next.js 16 (App Router)
-- **Language:** TypeScript
-- **Styling:** Tailwind CSS v4
-- **Charts:** Recharts
-- **Theme:** next-themes
-- **Deployment:** Vercel
-
-## Deploy on Vercel
-
-The easiest way to deploy this app is using the [Vercel Platform](https://vercel.com/new).
-
-Make sure to set up the `DEEPSEEK_API_KEY` secret in your Vercel project settings for automated data updates.
+Next.js 16, TypeScript, Tailwind CSS v4, Recharts, Vercel
 
 ## License
 
