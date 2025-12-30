@@ -8,6 +8,8 @@ on:
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    # Only run if DEEPSEEK_API_KEY secret is configured
+    if: ${{ secrets.DEEPSEEK_API_KEY != '' }}
     permissions:
       contents: write
     steps:
@@ -39,5 +41,5 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add data/projects-*.json
-          git commit -m "Update projects data for 2025" || exit 0
+          git diff --staged --quiet || git commit -m "Update projects data for 2025"
           git push
